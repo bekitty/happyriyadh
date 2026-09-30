@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sand-50: #fcfaf6;
+  --color-sand-100: #f6f0e6;
+  --color-sand-200: #ebe0cc;
+  --color-sand-300: #dccaa9;
+  --color-ink: #231d16;
+  --color-muted: #6f6556;
+  --color-accent: #b4541f;
+  --color-accent-dark: #8f3f12;
+  --color-palm: #1f6f5c;
+  --font-sans: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", system-ui,
+    -apple-system, "Segoe UI", sans-serif;
+}
+
+html,
+body {
+  background: var(--color-sand-50);
+  color: var(--color-ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.maplibregl-popup-content {
+  border-radius: 12px !important;
+  padding: 10px 12px !important;
+  box-shadow: 0 6px 24px rgb(0 0 0 / 0.15) !important;
+  font-family: var(--font-sans);
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  scrollbar-width: none;
+}
