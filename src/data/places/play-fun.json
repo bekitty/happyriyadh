@@ -6,7 +6,14 @@
     "nameAr": "سيكس فلاغز مدينة القدية",
     "kind": "play",
     "category": "themepark",
-    "tags": ["刺激项目", "亲子", "户外", "一日游", "需预约", "拍照"],
+    "tags": [
+      "刺激项目",
+      "亲子",
+      "户外",
+      "一日游",
+      "需预约",
+      "拍照"
+    ],
     "rating": 4.7,
     "price": 4,
     "priceNote": "单日票 325 SAR 起（12 岁及以上）；0-3 岁免费；五人家庭套票 1,200 SAR",
@@ -46,7 +53,13 @@
     "nameAr": "أكواربيا مدينة القدية",
     "kind": "play",
     "category": "themepark",
-    "tags": ["亲子", "户外", "刺激项目", "一日游", "需预约"],
+    "tags": [
+      "亲子",
+      "户外",
+      "刺激项目",
+      "一日游",
+      "需预约"
+    ],
     "rating": 4.5,
     "price": 4,
     "priceNote": "成人线上 275 SAR 起（现场 325 SAR），4-11 岁 200 SAR 起，0-3 岁免费；周五女士日成人 270 SAR",
@@ -83,7 +96,15 @@
     "nameAr": "بوليفارد وورلد",
     "kind": "play",
     "category": "themepark",
-    "tags": ["季节限定", "夜游", "拍照", "亲子", "美食广场", "需预约", "户外"],
+    "tags": [
+      "季节限定",
+      "夜游",
+      "拍照",
+      "亲子",
+      "美食广场",
+      "需预约",
+      "户外"
+    ],
     "rating": 4.5,
     "price": 1,
     "priceNote": "2025 季门票工作日 30 SAR、周末 40 SAR，部分游乐项目另收费",
@@ -122,7 +143,11 @@
     "nameAr": "سنو سيتي",
     "kind": "play",
     "category": "themepark",
-    "tags": ["室内", "亲子", "避暑"],
+    "tags": [
+      "室内",
+      "亲子",
+      "避暑"
+    ],
     "rating": 3.9,
     "price": 2,
     "priceNote": "基础套餐约 120-140 SAR（含雪服雪鞋），VIP 160 SAR；周二常有 99 SAR 优惠",
@@ -159,7 +184,11 @@
     "nameAr": "سباركيز",
     "kind": "play",
     "category": "themepark",
-    "tags": ["室内", "亲子", "购物"],
+    "tags": [
+      "室内",
+      "亲子",
+      "购物"
+    ],
     "rating": 3.7,
     "price": 1,
     "priceNote": "游戏卡充值制，按项目扣费",
@@ -193,7 +222,11 @@
     "nameEn": "SuperPark Riyadh (Hayat Mall)",
     "kind": "play",
     "category": "themepark",
-    "tags": ["室内", "亲子", "运动"],
+    "tags": [
+      "室内",
+      "亲子",
+      "运动"
+    ],
     "rating": 4.2,
     "price": 2,
     "priceNote": "1 小时 90 SAR、2 小时 130 SAR、不限时 170 SAR、幼儿区 120 SAR",
@@ -229,7 +262,12 @@
     "nameEn": "BattleKart Riyadh – Game On",
     "kind": "play",
     "category": "themepark",
-    "tags": ["室内", "刺激项目", "朋友聚会", "需预约"],
+    "tags": [
+      "室内",
+      "刺激项目",
+      "朋友聚会",
+      "需预约"
+    ],
     "rating": 4.3,
     "price": 2,
     "priceNote": "单场 120 SAR，第二场 70 SAR，之后每场 60 SAR；深夜场 79 SAR",
@@ -263,7 +301,11 @@
     "nameEn": "FunXtreme Karting",
     "kind": "play",
     "category": "themepark",
-    "tags": ["户外", "刺激项目", "夜游"],
+    "tags": [
+      "户外",
+      "刺激项目",
+      "夜游"
+    ],
     "rating": 4.1,
     "price": 2,
     "priceNote": "卡丁车约 90 SAR 起；卡丁车+越野车+射箭套餐约 199 SAR（团购价）",
@@ -297,8 +339,12 @@
     "nameEn": "BOUNCE Riyadh",
     "kind": "play",
     "category": "themepark",
-    "tags": ["室内", "亲子", "运动"],
-    "rating": 4.0,
+    "tags": [
+      "室内",
+      "亲子",
+      "运动"
+    ],
+    "rating": 4,
     "price": 2,
     "priceNote": "1 小时 89 SAR、2 小时 139 SAR、不限时 179 SAR",
     "district": "劳达 Ar Rawdah",
@@ -333,8 +379,13 @@
     "nameAr": "حديقة الملك عبدالله بالملز",
     "kind": "play",
     "category": "park",
-    "tags": ["户外", "亲子", "夜游", "拍照"],
-    "rating": 4.0,
+    "tags": [
+      "户外",
+      "亲子",
+      "夜游",
+      "拍照"
+    ],
+    "rating": 4,
     "price": 1,
     "priceNote": "门票约 10 SAR，儿童约 5 SAR（各来源略有出入）",
     "district": "马拉兹 Al Malaz",
@@ -368,7 +419,11 @@
     "nameAr": "منتزه سلام",
     "kind": "play",
     "category": "park",
-    "tags": ["户外", "亲子", "拍照"],
+    "tags": [
+      "户外",
+      "亲子",
+      "拍照"
+    ],
     "rating": 4.1,
     "price": 1,
     "priceNote": "门票约 5 SAR；3 岁以下及残障人士免费",
@@ -403,8 +458,12 @@
     "nameAr": "حديقة حيوان الرياض",
     "kind": "play",
     "category": "park",
-    "tags": ["亲子", "户外", "需预约"],
-    "rating": 4.0,
+    "tags": [
+      "亲子",
+      "户外",
+      "需预约"
+    ],
+    "rating": 4,
     "price": 0,
     "priceNote": "2025 利雅得季期间免费入园，但需在 webook 预约",
     "district": "马拉兹 Al Malaz",
@@ -433,48 +492,18 @@
     ]
   },
   {
-    "id": "wadi-namar-park",
-    "name": "纳马尔谷湖公园",
-    "nameEn": "Wadi Namar Park (Lake Park)",
-    "nameAr": "وادي نمار",
-    "kind": "play",
-    "category": "park",
-    "tags": ["免费", "户外", "拍照", "夜游"],
-    "rating": 4.2,
-    "price": 0,
-    "district": "纳马尔 Namar",
-    "address": "Wadi Namar, 利雅得西南",
-    "lat": 24.569,
-    "lng": 46.669,
-    "summary": "水坝湖泊加夜间人工瀑布，免费野餐胜地",
-    "description": "纳马尔谷位于利雅得西南，由一座约 2 公里长的水坝围成湖泊，四周是岩山、棕榈步道和绿地。湖边有滨湖步道和野餐区，中间一道人工瀑布傍晚后开启，夜里打灯后尤其好看。周末本地家庭会来烧烤野餐，是免费又有氛围的城市绿洲。",
-    "highlights": [
-      "傍晚 6 点后开启的人工瀑布",
-      "环湖步道，适合跑步骑行",
-      "湖边喂鸭、野餐"
-    ],
-    "tips": [
-      "入园免费",
-      "周末人很多，想安静建议工作日傍晚",
-      "瀑布夜景最佳，可带相机三脚架"
-    ],
-    "hours": "全天开放（瀑布傍晚后开启）",
-    "duration": "1-2 小时",
-    "season": "10 月至次年 4 月",
-    "sources": [
-      "https://www.arabnews.com/node/1505651/saudi-arabia",
-      "https://www.lonelyplanet.com/saudi-arabia/riyadh/attractions/wadi-namar/a/poi-sig/1601522/361148",
-      "https://destinationksa.com/en/wadi-namar-waterfall/"
-    ]
-  },
-  {
     "id": "sports-boulevard-wadi-hanifah",
     "name": "体育大道（哈尼法谷段）",
     "nameEn": "Sports Boulevard – Wadi Hanifah",
     "nameAr": "المسار الرياضي",
     "kind": "play",
     "category": "park",
-    "tags": ["免费", "户外", "运动", "拍照"],
+    "tags": [
+      "免费",
+      "户外",
+      "运动",
+      "拍照"
+    ],
     "rating": 4.3,
     "price": 0,
     "district": "哈尼法谷 Wadi Hanifah",
@@ -508,7 +537,12 @@
     "nameAr": "حي السفارات",
     "kind": "play",
     "category": "park",
-    "tags": ["免费", "户外", "拍照", "运动"],
+    "tags": [
+      "免费",
+      "户外",
+      "拍照",
+      "运动"
+    ],
     "rating": 4.2,
     "price": 0,
     "district": "外交区 Diplomatic Quarter",
@@ -543,7 +577,10 @@
     "nameAr": "حديقة الملك سلمان",
     "kind": "play",
     "category": "park",
-    "tags": ["户外", "即将开放"],
+    "tags": [
+      "户外",
+      "即将开放"
+    ],
     "rating": 3.5,
     "price": 0,
     "district": "旧机场 Old Airport",
@@ -576,7 +613,12 @@
     "nameAr": "فيا رياض",
     "kind": "play",
     "category": "mall",
-    "tags": ["购物", "拍照", "夜游", "奢华"],
+    "tags": [
+      "购物",
+      "拍照",
+      "夜游",
+      "奢华"
+    ],
     "rating": 4.5,
     "price": 4,
     "district": "哈达 Al Hada",
@@ -609,7 +651,12 @@
     "nameAr": "الرياض بارك",
     "kind": "play",
     "category": "mall",
-    "tags": ["购物", "美食广场", "室内", "亲子"],
+    "tags": [
+      "购物",
+      "美食广场",
+      "室内",
+      "亲子"
+    ],
     "rating": 4.2,
     "price": 2,
     "district": "阿基克 Al Aqiq",
@@ -643,7 +690,12 @@
     "nameAr": "برج المملكة",
     "kind": "play",
     "category": "mall",
-    "tags": ["购物", "拍照", "夜游", "地标"],
+    "tags": [
+      "购物",
+      "拍照",
+      "夜游",
+      "地标"
+    ],
     "rating": 4.4,
     "price": 2,
     "priceNote": "天空之桥成人约 60-70 SAR，儿童约 20-25 SAR（各平台报价不一）",
@@ -678,8 +730,13 @@
     "nameAr": "النخيل مول",
     "kind": "play",
     "category": "mall",
-    "tags": ["购物", "美食广场", "室内", "亲子"],
-    "rating": 4.0,
+    "tags": [
+      "购物",
+      "美食广场",
+      "室内",
+      "亲子"
+    ],
+    "rating": 4,
     "price": 2,
     "district": "穆格里扎特 Al Mughrizat",
     "address": "Imam Saud Ibn Abdulaziz Rd",
@@ -710,7 +767,12 @@
     "nameAr": "واجهة الرياض",
     "kind": "play",
     "category": "mall",
-    "tags": ["购物", "户外", "美食广场", "夜游"],
+    "tags": [
+      "购物",
+      "户外",
+      "美食广场",
+      "夜游"
+    ],
     "rating": 3.9,
     "price": 2,
     "district": "机场路 Airport Rd",
@@ -742,7 +804,12 @@
     "nameAr": "بانوراما مول",
     "kind": "play",
     "category": "mall",
-    "tags": ["购物", "室内", "亲子", "美食广场"],
+    "tags": [
+      "购物",
+      "室内",
+      "亲子",
+      "美食广场"
+    ],
     "rating": 3.9,
     "price": 2,
     "district": "瓦鲁德 Al Wurud",
@@ -774,7 +841,12 @@
     "nameAr": "مركز الملك عبدالله المالي",
     "kind": "play",
     "category": "mall",
-    "tags": ["拍照", "夜游", "免费", "美食"],
+    "tags": [
+      "拍照",
+      "夜游",
+      "免费",
+      "美食"
+    ],
     "rating": 4.3,
     "price": 2,
     "district": "金融区 KAFD",
@@ -805,8 +877,13 @@
     "nameAr": "شارع التحلية",
     "kind": "play",
     "category": "mall",
-    "tags": ["免费", "夜游", "购物", "美食"],
-    "rating": 4.0,
+    "tags": [
+      "免费",
+      "夜游",
+      "购物",
+      "美食"
+    ],
+    "rating": 4,
     "price": 2,
     "district": "奥拉亚 Olaya",
     "address": "Prince Mohammed bin Abdulaziz Rd",
@@ -838,7 +915,13 @@
     "nameAr": "موسم الرياض",
     "kind": "play",
     "category": "show",
-    "tags": ["季节限定", "夜游", "亲子", "需预约", "演出"],
+    "tags": [
+      "季节限定",
+      "夜游",
+      "亲子",
+      "需预约",
+      "演出"
+    ],
     "rating": 4.6,
     "price": 2,
     "district": "全城多园区",
@@ -875,7 +958,14 @@
     "nameAr": "بوليفارد رياض سيتي",
     "kind": "play",
     "category": "show",
-    "tags": ["季节限定", "夜游", "免费", "演出", "美食", "拍照"],
+    "tags": [
+      "季节限定",
+      "夜游",
+      "免费",
+      "演出",
+      "美食",
+      "拍照"
+    ],
     "rating": 4.4,
     "price": 1,
     "priceNote": "2025 季园区免费入场，演出与部分体验另购票",
@@ -911,8 +1001,14 @@
     "nameAr": "وندر جاردن",
     "kind": "play",
     "category": "show",
-    "tags": ["季节限定", "亲子", "夜游", "需预约", "户外"],
-    "rating": 4.0,
+    "tags": [
+      "季节限定",
+      "亲子",
+      "夜游",
+      "需预约",
+      "户外"
+    ],
+    "rating": 4,
     "price": 1,
     "priceNote": "2024 季门票工作日 25 SAR、周末 50 SAR",
     "district": "盖拉万 Al Qirawan（以 2024 季为参考）",
@@ -947,7 +1043,13 @@
     "nameAr": "موسم الدرعية",
     "kind": "play",
     "category": "show",
-    "tags": ["季节限定", "夜游", "拍照", "文化", "美食"],
+    "tags": [
+      "季节限定",
+      "夜游",
+      "拍照",
+      "文化",
+      "美食"
+    ],
     "rating": 4.5,
     "price": 2,
     "priceNote": "非免费期巴吉里露台 17:00 后门票 50 SAR，可抵餐厅消费",
@@ -983,7 +1085,13 @@
     "nameAr": "ساوندستورم",
     "kind": "play",
     "category": "show",
-    "tags": ["季节限定", "演出", "夜游", "需预约", "户外"],
+    "tags": [
+      "季节限定",
+      "演出",
+      "夜游",
+      "需预约",
+      "户外"
+    ],
     "rating": 4.4,
     "price": 4,
     "priceNote": "门票 269 SAR 起",
