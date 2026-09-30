@@ -7,6 +7,8 @@ import type * as GeoJSON from "geojson";
 import type { Place } from "@/data/types";
 import { CATEGORY_MAP } from "@/lib/categories";
 
+maplibregl.setWorkerUrl("/maplibre/maplibre-gl-worker.mjs");
+
 const STYLE_URL = "https://tiles.openfreemap.org/styles/liberty";
 const RIYADH: [number, number] = [46.675, 24.72];
 
@@ -55,8 +57,16 @@ function localizeLabels(map: MLMap) {
   }
 }
 
+/** 容器隐藏时（手机端列表模式）无法正确缩放，等可见后再补一次 */
+const pendingFit = new WeakSet<MLMap>();
+
 function fitTo(map: MLMap, places: Place[]) {
   if (!places.length) return;
+  if (map.getContainer().clientHeight < 50) {
+    pendingFit.add(map);
+    return;
+  }
+  pendingFit.delete(map);
   if (places.length === 1) {
     map.easeTo({ center: [places[0].lng, places[0].lat], zoom: 14 });
     return;
@@ -90,6 +100,10 @@ export default function MapView({ places, selectedId, onSelect, single, classNam
       new maplibregl.GeolocateControl({ positionOptions: { enableHighAccuracy: true } }),
       "top-right",
     );
+
+    map.on("resize", () => {
+      if (pendingFit.has(map)) fitTo(map, placesRef.current);
+    });
 
     map.on("load", () => {
       localizeLabels(map);
@@ -204,6 +218,7 @@ export default function MapView({ places, selectedId, onSelect, single, classNam
       const p = places.find((x) => x.id === selectedId);
       if (!p) return;
       map.setFeatureState({ source: "places", id: p.id }, { selected: true });
+      if (single) return;
       const cat = CATEGORY_MAP[p.category];
       const html = `<a href="/place/${p.id}" style="display:block;min-width:160px">
           <div style="font-weight:600">${cat?.icon ?? ""} ${escapeHtml(p.name)}</div>
@@ -212,11 +227,11 @@ export default function MapView({ places, selectedId, onSelect, single, classNam
           )} · ${escapeHtml(p.district)}</div>
           <div style="font-size:12px;color:#b4541f;margin-top:4px">查看详情 →</div>
         </a>`;
-      popupRef.current = new maplibregl.Popup({ offset: 12, closeButton: false })
+      popupRef.current = new maplibregl.Popup({ offset: 12, closeButton: false, focusAfterOpen: false })
         .setLngLat([p.lng, p.lat])
         .setHTML(html)
         .addTo(map);
-      if (!single && !map.getBounds().contains([p.lng, p.lat])) {
+      if (!map.getBounds().contains([p.lng, p.lat])) {
         map.easeTo({ center: [p.lng, p.lat], duration: 500 });
       }
     };

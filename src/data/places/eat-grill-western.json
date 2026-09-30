@@ -1,1 +1,1308 @@
-[]
+[
+  {
+    "id": "smokey-beards-q",
+    "name": "Smokey Beards Q 烟胡子烤肉",
+    "nameEn": "Smokey Beards Q",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["人气排队", "家庭友好", "外卖方便"],
+    "rating": 4.6,
+    "price": 1,
+    "priceNote": "人均约 60-100 SAR；招牌牛胸肉三明治 57.5 SAR",
+    "district": "希廷 Hittin",
+    "address": "Prince Muhammad Ibn Saad Ibn Abdulaziz Rd, Hittin Welfare Center, Riyadh 13512",
+    "lat": 24.764,
+    "lng": 46.625,
+    "summary": "利雅得公认最好吃的德州烟熏牛胸肉",
+    "description": "由沙特本地烤肉爱好者一手做起的德州风味烟熏店，从每周只开两天的小摊发展到每天接待数百位客人。菜单极简，只有三样主菜：牛胸肉三明治、烟熏肉拼盘和牛小排拼盘。黑安格斯牛胸肉最长烟熏 24 小时，外壳（bark）香脆、肉质入口即化，不少评论说可以媲美德州本地。",
+    "highlights": ["招牌牛胸肉三明治：约 151 克手撕烟熏牛胸肉", "牛小排拼盘适合两三人分享", "三明治可自选 11 种配料"],
+    "tips": ["牛胸肉每天限量，卖完即止，建议午餐时段早点去", "店面偏快餐式，想舒服坐着吃可以点外卖"],
+    "menu": [
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "牛胸肉三明治", "original": "Brisket Sandwich", "price": 57.5, "desc": "约 151 克黑安格斯牛胸肉，最长烟熏 24 小时后手撕，夹在面包里，烟熏味浓、肉汁丰富。全店最畅销。", "tags": ["招牌"] },
+          { "name": "烟熏肉拼盘", "original": "Smoked Meat Platter", "desc": "多种烟熏肉一次尝遍，以切片牛胸肉为主，适合第一次来的人。", "tags": ["推荐", "分享"] },
+          { "name": "牛小排拼盘", "original": "Short Ribs Platter", "desc": "带骨牛小排低温慢熏，油花多、肉质软烂，骨头一拉就脱。", "tags": ["分享"] }
+        ]
+      },
+      {
+        "title": "三明治配料（自选）",
+        "titleEn": "Toppings",
+        "items": [
+          { "name": "炸洋葱酥", "original": "Crispy Fried Onions", "desc": "炸得金黄的洋葱丝，给三明治加一层酥脆口感。" },
+          { "name": "莳萝酸黄瓜片", "original": "Crinkle-Cut Dill Pickles", "desc": "波浪切口的莳萝腌黄瓜，酸爽解腻，配烟熏肉很经典。" },
+          { "name": "浓味芝士", "original": "Sharp Cheese", "desc": "味道较冲的陈年切达类芝士，增加咸香。" },
+          { "name": "卷心菜沙拉", "original": "Shredded Cabbage Salad", "desc": "类似凉拌卷心菜（coleslaw），清爽带点酸甜。" },
+          { "name": "自制烧烤酱", "original": "BBQ Sauce", "desc": "评论里常被点名夸奖的烧烤酱，甜中带烟熏味，可以蘸肉吃。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/brisket-sandwich-at-smokey-beards",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d15217765-Reviews-Smokey_Beards_Q-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "uncle-khalils-bbq",
+    "name": "Uncle Khalil's 哈利勒大叔烤肉",
+    "nameEn": "Uncle Khalil's BBQ",
+    "nameAr": "مطعم العم خليل",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["深夜营业", "适合聚餐", "外卖方便"],
+    "rating": 4.3,
+    "price": 2,
+    "priceNote": "人均约 80-150 SAR，按重量点肉",
+    "district": "希廷 Hittin（Boulevard City）",
+    "address": "Boulevard Riyadh City, Hittin, Riyadh",
+    "lat": 24.7706,
+    "lng": 46.6026,
+    "summary": "沙特“烟熏肉教父”传承的德州式烤肉",
+    "description": "传承自被称为沙特“烟熏肉教父”的 Khalil Khazander，主打德州风格、带一点沙特口味的烟熏肉。点餐方式像美国烤肉店：冷沙拉、热配菜、肉类三个台位，点单前可以先试吃。牛胸肉用牧豆树（mesquite）木熏，切面有明显的粉红烟熏圈。",
+    "highlights": ["按重量点牛胸肉，入口即化", "羊肋排是沙特口味的特色", "玉米面包和烧烤豆是经典配角"],
+    "tips": ["Boulevard City 在利雅得季期间人流很大，需另买园区门票时以官方公告为准", "营业到凌晨，适合夜宵"],
+    "hours": "约 12:00/13:00 至次日 03:00（以店内公告为准）",
+    "menu": [
+      {
+        "title": "烟熏肉",
+        "titleEn": "Meats",
+        "items": [
+          { "name": "牛胸肉（1/4 公斤）", "original": "Quarter Kilo Brisket", "desc": "牛胸肉用牧豆树木慢熏十几个小时，肥瘦相间，烟熏味浓、肉汁多。", "tags": ["招牌"] },
+          { "name": "牛肋排", "original": "Ribs", "desc": "低温慢熏的带骨牛肋排，外皮焦香，肉嫩到可以直接脱骨。", "tags": ["推荐"] },
+          { "name": "羊肋排", "original": "Lamb Ribs", "desc": "用美式烟熏手法做中东人爱吃的羊肋，油脂香，膻味很轻。" },
+          { "name": "烟熏香肠", "original": "Sausage", "desc": "德州烤肉店的标准配置，粗粒牛肉肠，咬下去会爆汁。" }
+        ]
+      },
+      {
+        "title": "配菜与酱料",
+        "titleEn": "Sides & Sauces",
+        "items": [
+          { "name": "烧烤豆", "original": "BBQ Beans", "desc": "豆子加烧烤酱和碎肉慢炖，甜咸口，是美式烤肉的经典配菜。" },
+          { "name": "玉米面包", "original": "Cornbread", "desc": "玉米粉做的松软甜面包，用来吸肉汁、配烤肉吃。" },
+          { "name": "凉拌卷心菜", "original": "Coleslaw", "desc": "卷心菜丝拌蛋黄酱或醋汁，清爽解腻。" },
+          { "name": "自制烧烤酱", "original": "BBQ Sauce", "desc": "店里自调的烧烤酱，可以蘸肉或淋在三明治上。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://foursquare.com/v/uncle-khalils/61805534d3364b6066d8a7db",
+      "https://hungerstation.com/sa-en/restaurant/riyadh/riyadh/85091"
+    ]
+  },
+  {
+    "id": "7-ribs",
+    "name": "7 Ribs 七肋烟熏屋",
+    "nameEn": "7 Ribs",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["连锁", "适合聚餐", "家庭友好", "外卖方便"],
+    "rating": 4.3,
+    "price": 2,
+    "priceNote": "主菜约 75-150 SAR；牛胸肉薯条 46 SAR",
+    "district": "马尔卡 Al Malqa",
+    "address": "Al Malqa, Riyadh（另有 Al Urubah 分店）",
+    "lat": 24.803,
+    "lng": 46.618,
+    "summary": "2016 年起开店的本土烟熏肉老牌",
+    "description": "2016 年开业的沙特本土烟熏屋，装修精致但气氛轻松，在利雅得、吉达和胡拜尔都有分店。肉类用谷饲 150 到 500 天的黑安格斯牛，烟熏 8 到 12 小时。除了烟熏肉，也有汉堡和牛排，适合一大桌人一起点。",
+    "highlights": ["人气单品：牛胸肉薯条", "可以选不同谷饲天数的牛小排", "汉堡价格亲民"],
+    "tips": ["牛小排按谷饲天数分档，200 天的油花更多，价格也更高", "晚上家庭客多，周末建议订位"],
+    "hours": "每天 12:00-次日 01:00",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Starters",
+        "items": [
+          { "name": "牛胸肉薯条", "original": "Brisket Fries", "price": 46, "desc": "一大碗薯条上铺满碎烟熏牛胸肉和酱料，分量足，适合几个人分着吃。", "tags": ["招牌", "分享"] }
+        ]
+      },
+      {
+        "title": "烟熏肉",
+        "titleEn": "Smoked Meats",
+        "items": [
+          { "name": "牛小排（谷饲 150 天）", "original": "Short Rib – 150 Days Grain Fed", "price": 128, "desc": "黑安格斯带骨牛小排，谷饲 150 天，慢熏 8-12 小时，肉质软烂。", "tags": ["推荐"] },
+          { "name": "牛小排（谷饲 200 天）", "original": "Short Rib – 200 Days Grain Fed", "price": 149, "desc": "谷饲时间更长，油花（大理石纹）更丰富，口感更润。" },
+          { "name": "烟熏牛胸肉", "original": "Brisket", "desc": "同样慢熏 8-12 小时的牛胸肉切片，烟熏味和肉汁都很足。" },
+          { "name": "烟熏香肠三明治", "original": "Smoked Sausage Sandwich", "desc": "烟熏牛肉肠夹面包，简单扎实的一餐。" }
+        ]
+      },
+      {
+        "title": "汉堡与牛排",
+        "titleEn": "Burgers & Steaks",
+        "items": [
+          { "name": "经典汉堡", "original": "Classic Burger", "desc": "厚牛肉饼配芝士和生菜番茄，传统美式汉堡。" },
+          { "name": "压扁汉堡", "original": "Smashed Burger", "desc": "肉饼在铁板上压薄煎，边缘焦脆、美拉德香味浓。" },
+          { "name": "炭烤牛排", "original": "Steaks", "desc": "店里也有多种牛排可选，不想吃烟熏肉时的备选。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.timeoutriyadh.com/restaurants/7-ribs",
+      "https://www.timeoutriyadh.com/food-drink/go-hungry-to-7-ribs"
+    ]
+  },
+  {
+    "id": "300f-smokehouse",
+    "name": "300F Smokehouse 烟熏牛排屋",
+    "nameEn": "300F Smokehouse",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["适合约会", "适合聚餐", "需预约"],
+    "rating": 4.2,
+    "price": 3,
+    "priceNote": "双人套餐 580 SAR（约人均 290 SAR）",
+    "district": "马尔卡 Al Malqa（North Yard）",
+    "address": "North Yard by Oud, Al Malqa, Riyadh",
+    "lat": 24.8095,
+    "lng": 46.628,
+    "summary": "科威特来的烟熏牛排馆，主打双人套餐",
+    "description": "源自科威特的烟熏牛排品牌，利雅得店开在马尔卡的 North Yard。招牌是一套双人套餐，从小食、沙拉、塔可一路吃到三种牛肉主菜，把低温慢烤和烟熏的做法一次展示出来。比传统烤肉店更像餐厅，环境适合约会或小聚。",
+    "highlights": ["双人套餐：肉眼、菲力、牛小排三种牛肉", "焦尖火山是烟熏迷必点", "芝士通心粉球配炸鸡"],
+    "tips": ["套餐分量大，两个人不用再加点", "斋月期间营业到凌晨"],
+    "hours": "12:30-23:30（斋月 17:00-次日 04:00）",
+    "menu": [
+      {
+        "title": "小食与前菜",
+        "titleEn": "Appetizers & Starters",
+        "items": [
+          { "name": "虾球", "original": "Shrimp Bites", "desc": "一口大小的炸虾，外酥里嫩，蘸酱吃。" },
+          { "name": "焦尖火山", "original": "Burnt Ends Volcano", "desc": "焦尖（burnt ends）是牛胸肉最肥、烟熏最久的尖角部分，切块后再裹酱烤，焦香带甜。这里堆成“火山”造型上桌。", "tags": ["招牌"] },
+          { "name": "芝士通心粉球", "original": "Mac 'n Cheese Bites", "desc": "芝士通心粉炸成球，上面放脆炸鸡和蜂蜜芥末酱。" },
+          { "name": "凯撒沙拉", "original": "Caesar Salad", "desc": "罗马生菜配帕玛森芝士、面包丁和凯撒酱。" },
+          { "name": "塔可", "original": "Tacos", "desc": "墨西哥软饼包肉，作为套餐里的前菜。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "肉眼牛排", "original": "Ribeye", "desc": "肉眼油花多，烤后香气重，口感多汁。", "tags": ["推荐"] },
+          { "name": "菲力牛排", "original": "Tenderloin", "desc": "牛里脊，几乎没有肥肉，是最嫩的部位。" },
+          { "name": "牛小排", "original": "Short Ribs", "desc": "低温慢烤的带骨牛小排，软烂有嚼劲。" },
+          { "name": "烤土豆", "original": "Baked Potato", "desc": "整颗烤土豆配酱汁，主菜的标准配菜。" }
+        ]
+      },
+      {
+        "title": "套餐",
+        "titleEn": "Set Menu",
+        "items": [
+          { "name": "双人套餐", "original": "Set Menu for Two", "price": 580, "desc": "包含上面的小食、沙拉、塔可和三种牛肉主菜，是店里主推的吃法。", "tags": ["分享"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/node/2589610/food-health",
+      "https://www.timeoutriyadh.com/restaurants/300f-smokehouse"
+    ]
+  },
+  {
+    "id": "section-b-hittin",
+    "name": "Section-B 汉堡",
+    "nameEn": "Section-B",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["连锁", "外卖方便", "深夜营业"],
+    "rating": 4.1,
+    "price": 1,
+    "priceNote": "人均约 40-70 SAR",
+    "district": "希廷 Hittin",
+    "address": "Hittin, Riyadh",
+    "lat": 24.762,
+    "lng": 46.611,
+    "summary": "吉达起家的本土精酿风汉堡",
+    "description": "2015 年在吉达创立的沙特本土汉堡品牌，后来开到胡拜尔、麦加和利雅得希廷区。菜单很短，只有牛肉和鸡肉汉堡、迷你汉堡、薯条和薯球。招牌 B Burger 是经典安格斯芝士汉堡，配店里的 SB 酱。",
+    "highlights": ["B Burger 是招牌经典款", "W Burger 用和牛混合肉饼", "薯球（tots）比薯条更酥"],
+    "tips": ["菜单短，第一次来点 B Burger 就好"],
+    "menu": [
+      {
+        "title": "汉堡",
+        "titleEn": "Burgers",
+        "items": [
+          { "name": "B 汉堡", "original": "B Burger", "desc": "安格斯牛肉饼、切达芝士、洋葱、番茄、莳萝酸黄瓜、生菜，配招牌 SB 酱。", "tags": ["招牌"] },
+          { "name": "W 汉堡", "original": "W Burger", "desc": "和牛混合肉饼配高达芝士、牛培根果酱和松露酱，偏浓郁。", "tags": ["推荐"] },
+          { "name": "C 汉堡", "original": "C Burger", "desc": "脆炸鸡排、葱、樱桃萝卜、甜酸黄瓜和脆卷心菜丝，配辣蛋黄酱。", "tags": ["辣"] },
+          { "name": "迷你汉堡", "original": "Sliders", "desc": "小号汉堡，适合想多尝几种口味的人。" }
+        ]
+      },
+      {
+        "title": "配菜",
+        "titleEn": "Sides",
+        "items": [
+          { "name": "薯条", "original": "Fries", "desc": "标准美式薯条。" },
+          { "name": "薯球", "original": "Tots", "desc": "土豆丝压成小圆柱再炸，外壳更酥。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/b-burger-in-riyadh-at-section-b",
+      "https://www.timeoutriyadh.com/restaurants/section-b"
+    ]
+  },
+  {
+    "id": "westwood-burger",
+    "name": "Westwood 西木汉堡",
+    "nameEn": "Westwood Burger",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["深夜营业", "人气排队", "外卖方便"],
+    "rating": 4.2,
+    "price": 1,
+    "priceNote": "人均约 40-60 SAR",
+    "district": "希廷 Hittin",
+    "address": "Hittin, Riyadh",
+    "lat": 24.766,
+    "lng": 46.618,
+    "summary": "In-N-Out 风格的加州压扁汉堡，网红店",
+    "description": "红色店面的加州 diner 风汉堡店，2026 年仍是利雅得的网红店。风格明显致敬 In-N-Out：黑安格斯牛肉饼压扁煎、黄油烤面包、秘制酱，还有一份“半隐藏菜单”，可以点 4×4、Protein Style 等 In-N-Out 粉丝熟悉的吃法。",
+    "highlights": ["Double-Double 双层芝士汉堡", "LA 薯条（animal style 风格）", "隐藏菜单玩法多"],
+    "tips": ["下午 5 点才开门，营业到凌晨 2:30", "不想吃面包可以点 Protein Style（生菜包）"],
+    "hours": "每天 17:00-次日 02:30",
+    "menu": [
+      {
+        "title": "汉堡",
+        "titleEn": "Burgers",
+        "items": [
+          { "name": "双层双芝士汉堡", "original": "Double-Double", "desc": "两片压扁的黑安格斯牛肉饼加两片芝士，配生菜、洋葱、番茄和秘制酱，夹在黄油烤面包里。", "tags": ["招牌"] },
+          { "name": "芝士汉堡", "original": "Cheeseburger", "desc": "单层版本，胃口小的选这个。" }
+        ]
+      },
+      {
+        "title": "半隐藏菜单",
+        "titleEn": "Not-So-Secret Menu",
+        "items": [
+          { "name": "4×4 汉堡", "original": "Four-by-Four", "desc": "四片肉饼加四片芝士，大胃王专用。" },
+          { "name": "3×3 汉堡", "original": "Three-by-Three", "desc": "三片肉饼三片芝士。" },
+          { "name": "Willshire 风格", "original": "Willshire Style", "desc": "只放芝士、酱和烤洋葱，配烤过的面包，口味更纯粹。" },
+          { "name": "West 风格", "original": "West Style", "desc": "多加酱、烤洋葱和酸黄瓜，类似 In-N-Out 的 animal style。", "tags": ["推荐"] },
+          { "name": "生菜包汉堡", "original": "Protein Style", "desc": "用生菜叶代替面包包住双层肉饼，低碳水吃法。" }
+        ]
+      },
+      {
+        "title": "薯条与奶昔",
+        "titleEn": "Fries & Shakes",
+        "items": [
+          { "name": "薯条", "original": "Fries", "desc": "原味薯条。" },
+          { "name": "LA 薯条", "original": "LA Fries", "desc": "薯条上铺芝士、烤洋葱和秘制酱，浓郁重口。", "tags": ["推荐"] },
+          { "name": "香草奶昔", "original": "Vanilla Shake", "desc": "经典香草冰淇淋奶昔。" },
+          { "name": "奥利奥奶昔", "original": "Oreo Shake", "desc": "加奥利奥饼干碎的奶昔。" },
+          { "name": "花生酱奶昔", "original": "Peanut Butter Shake", "desc": "花生酱味奶昔，香浓偏甜。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://whatsonsaudiarabia.com/2026/05/westwood-riyadh/",
+      "https://www.timeoutriyadh.com/food-drink/best-burgers-in-riyadh"
+    ]
+  },
+  {
+    "id": "black-tap-kafd",
+    "name": "Black Tap 纽约汉堡奶昔",
+    "nameEn": "Black Tap Craft Burgers & Shakes",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["连锁", "家庭友好", "适合聚餐"],
+    "rating": 4.0,
+    "price": 2,
+    "priceNote": "人均约 90-150 SAR",
+    "district": "阿卜杜拉国王金融区 KAFD",
+    "address": "King Abdullah Financial District (KAFD), Riyadh",
+    "lat": 24.763,
+    "lng": 46.641,
+    "summary": "纽约网红汉堡店，夸张的 CrazyShake 奶昔",
+    "description": "纽约起家的汉堡店，2022 年在 KAFD 开出沙特首店。汉堡用 200 克美国 Greater Omaha 牛肉饼，但真正让人拍照的是 CrazyShake：奶昔杯上堆满棉花糖、爆米花甚至整块蛋糕。适合带孩子或朋友聚会。",
+    "highlights": ["Greg Norman 和牛蓝芝士汉堡", "CrazyShake 夸张奶昔", "吧台正对奶昔制作台"],
+    "tips": ["奶昔又大又甜，建议几个人分一杯", "KAFD 周末人多，停车用园区停车场"],
+    "hours": "每天 12:30-次日 00:30",
+    "website": "https://blacktap.com/location/riyadh/",
+    "menu": [
+      {
+        "title": "汉堡",
+        "titleEn": "Craft Burgers",
+        "items": [
+          { "name": "全美经典芝士汉堡", "original": "All-American Burger", "desc": "经典美式芝士汉堡，200 克牛肉饼，生菜、番茄和酸黄瓜另放。" },
+          { "name": "Greg Norman 汉堡", "original": "Greg Norman Burger", "desc": "和牛肉饼配蓝纹芝士、芝麻菜和酪乳莳萝酱，口味浓郁。", "tags": ["招牌"] },
+          { "name": "松露汉堡", "original": "Truffle Burger", "desc": "烟熏高达芝士配黑松露油醋汁，香气很重。", "tags": ["推荐"] }
+        ]
+      },
+      {
+        "title": "小食",
+        "titleEn": "Wings",
+        "items": [
+          { "name": "水牛城鸡翅", "original": "Buffalo Wings", "desc": "美式炸鸡翅裹辣黄油酱，配蓝纹芝士蘸酱。", "tags": ["辣"] }
+        ]
+      },
+      {
+        "title": "CrazyShake 奶昔",
+        "titleEn": "CrazyShakes",
+        "items": [
+          { "name": "棉花糖奶昔", "original": "Cotton Candy Shake", "desc": "杯口顶着一大团棉花糖，颜色很上镜。", "tags": ["招牌", "分享"] },
+          { "name": "奥利奥奶油奶昔", "original": "Cookies 'N Cream Supreme Shake", "desc": "奥利奥饼干和奶油堆满杯口。", "tags": ["分享"] },
+          { "name": "甜咸奶昔", "original": "Sweet N' Salty Shake", "desc": "加椒盐卷饼和焦糖，一口甜一口咸。", "tags": ["分享"] },
+          { "name": "蛋糕奶昔", "original": "Cake Shake", "desc": "杯顶直接放一整块蛋糕，最夸张的一款。", "tags": ["分享"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://blacktap.com/location/riyadh/",
+      "https://www.timeoutriyadh.com/food-drink/black-tap-riyadh-saudi-opening",
+      "https://whatsonsaudiarabia.com/2022/06/cult-burger-brand-black-tap-opens-in-kafd-this-may/"
+    ]
+  },
+  {
+    "id": "burger-boutique-olaya",
+    "name": "Burger Boutique 精品汉堡",
+    "nameEn": "Burger Boutique",
+    "kind": "eat",
+    "category": "bbq",
+    "tags": ["外卖方便", "家庭友好"],
+    "rating": 4.1,
+    "price": 2,
+    "priceNote": "人均约 70-110 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Al Olaya, Riyadh",
+    "lat": 24.699,
+    "lng": 46.685,
+    "summary": "只用草饲有机牛肉的奥拉亚老牌汉堡店",
+    "description": "开了十多年的奥拉亚老牌精品汉堡店，只用有机、草饲、无激素的牛肉。菜单从经典款到重口味都有，辣味的 Heat Wave 和用和牛的 The Black 最受欢迎。店面干净精致，适合想吃得讲究一点的时候。",
+    "highlights": ["The Black：和牛配烟熏陈年切达", "Heat Wave：墨西哥辣椒加是拉差培根", "全线草饲有机牛肉"],
+    "menu": [
+      {
+        "title": "汉堡",
+        "titleEn": "Burgers",
+        "items": [
+          { "name": "经典汉堡", "original": "The Classic", "desc": "基础款牛肉汉堡，最能吃出草饲牛肉本身的味道。" },
+          { "name": "培根瑞士芝士汉堡", "original": "Bacon Swiss", "desc": "牛培根配瑞士芝士，更浓郁。" },
+          { "name": "热浪汉堡", "original": "Heat Wave", "desc": "墨西哥辣椒、是拉差辣酱风味牛培根和墨西哥烟熏辣椒（chipotle）酱，辣而带烟熏味。", "tags": ["辣", "推荐"] },
+          { "name": "黑金汉堡", "original": "The Black", "desc": "和牛肉饼、烟熏陈年切达、焦糖洋葱、芝麻菜和蒜香蛋黄酱。", "tags": ["招牌"] },
+          { "name": "双层引力汉堡", "original": "Solar Gravity", "desc": "双层肉饼，肉里揉进牛培根，再加切达芝士，分量十足。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-burgers-in-riyadh",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d1948738-Reviews-Burger_Boutique-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "jw-steakhouse-riyadh",
+    "name": "JW Steakhouse JW 牛排馆",
+    "nameEn": "JW Steakhouse",
+    "kind": "eat",
+    "category": "steak",
+    "tags": ["商务宴请", "需预约", "适合约会"],
+    "rating": 4.6,
+    "price": 4,
+    "priceNote": "人均 350 SAR 起；战斧牛排 995 SAR（多人分享）",
+    "district": "奥拉亚 Olaya（JW 万豪酒店）",
+    "address": "JW Marriott Hotel Riyadh, King Fahd Rd, Riyadh",
+    "website": "https://www.jwsteakhouseriyadh.com/",
+    "lat": 24.744,
+    "lng": 46.656,
+    "summary": "Time Out 利雅得最佳牛排馆得主",
+    "description": "JW 万豪酒店的招牌美式牛排馆，获得 Time Out 利雅得餐厅奖最佳牛排馆。主打澳洲和牛和 USDA Prime 黑安格斯，用 Josper 炭烤炉和烟熏手法处理，也有 60 天干式熟成的肉眼。桌边切战斧牛排很有仪式感，适合商务宴请或庆祝。",
+    "highlights": ["USDA Prime 战斧牛排桌边切", "60 天干式熟成肉眼", "Josper 炭烤炉烤澳洲和牛"],
+    "tips": ["建议提前订位并提出纪念日需求", "战斧牛排适合 2-3 人分享"],
+    "hours": "每天 12:00-23:00",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Starters",
+        "items": [
+          { "name": "生牛肉挞", "original": "Beef Tartare", "desc": "生牛肉细切，拌酸豆、洋葱和调味料，口感细滑。" },
+          { "name": "生牛肉薄片", "original": "Beef Carpaccio", "desc": "生牛肉切成极薄片，淋橄榄油，撒芝士和芝麻菜。" },
+          { "name": "凯撒沙拉", "original": "Caesar Salad", "desc": "罗马生菜配凯撒酱、面包丁和帕玛森芝士。" }
+        ]
+      },
+      {
+        "title": "牛排",
+        "titleEn": "From the Josper Grill",
+        "items": [
+          { "name": "USDA Prime 黑安格斯战斧牛排", "original": "USDA Prime Black Angus Tomahawk", "price": 995, "desc": "战斧是带长骨的肉眼，形状像斧头。USDA Prime 是美国农业部最高等级。整块上桌后当场切，适合多人分享。", "tags": ["招牌", "分享"] },
+          { "name": "澳洲和牛", "original": "Australian Wagyu", "desc": "澳洲和牛油花细密，入口有明显奶油感，用 Josper 炭烤炉烤出焦香。", "tags": ["推荐"] },
+          { "name": "60 天干式熟成肉眼", "original": "60-Day Dry-Aged Ribeye", "desc": "干式熟成是把牛肉放在恒温恒湿的冷库风干，水分蒸发、风味浓缩，会带坚果和奶酪般的香气。", "tags": ["推荐"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.jwsteakhouseriyadh.com/",
+      "https://www.timeoutriyadh.com/restaurants/jw-steakhouse",
+      "https://destinationksa.com/en/steakhouses-in-riyadh/"
+    ]
+  },
+  {
+    "id": "beefbar-riyadh",
+    "name": "Beefbar 摩纳哥牛肉吧",
+    "nameEn": "Beefbar Riyadh",
+    "kind": "eat",
+    "category": "steak",
+    "tags": ["需预约", "适合约会", "商务宴请"],
+    "rating": 4.5,
+    "price": 4,
+    "priceNote": "人均约 350-600 SAR",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "8712 Prince Abdulaziz Ibn Musaid Ibn Jalawi St, As Sulimaniyah, Riyadh",
+    "website": "https://beefbar.com/riyadh/",
+    "lat": 24.6975,
+    "lng": 46.683,
+    "summary": "来自蒙特卡洛的时髦神户牛肉餐厅",
+    "description": "源自摩纳哥蒙特卡洛的高端牛肉餐厅，利雅得店在苏莱曼尼亚。除了 A5 神户牛排，菜单最有意思的是“世界街头小吃”：神户牛肉芝士薄饼、croque 三明治、和牛沙威玛、饺子、刈包等，用顶级牛肉做平民小吃。",
+    "highlights": ["A5 神户西冷牛排", "烟熏神户牛肉芝士薄饼", "和牛与安格斯做的沙威玛"],
+    "tips": ["周一休息", "小吃部分适合几个人一起分享"],
+    "hours": "周二至周日 13:00-次日 01:00，周一休息",
+    "menu": [
+      {
+        "title": "街头小吃",
+        "titleEn": "Street Food",
+        "items": [
+          { "name": "烟熏神户牛肉芝士薄饼", "original": "Smoked Kobe Beef Quesadillas", "desc": "墨西哥薄饼夹烟熏神户牛肉和芝士煎脆，是 Beefbar 招牌小吃。", "tags": ["招牌", "分享"] },
+          { "name": "神户牛肉 Croque 三明治", "original": "Kobe Beef Croque-Sando", "desc": "法式热压三明治的做法，夹神户牛肉和芝士，外脆内软。", "tags": ["推荐"] },
+          { "name": "和牛沙威玛", "original": "Beef Doner / Shawarma", "desc": "用安格斯和和牛做的中东烤肉卷，油香浓。" },
+          { "name": "牛肉塔可", "original": "Tacos", "desc": "墨西哥软饼包牛肉，一口一个。" },
+          { "name": "牛肉刈包", "original": "Bao Buns", "desc": "中式刈包夹牛肉，松软的面皮配浓郁肉馅。" },
+          { "name": "牛肉煎饺", "original": "Gyozas", "desc": "日式煎饺，牛肉馅。" }
+        ]
+      },
+      {
+        "title": "生食与牛排",
+        "titleEn": "Raw & Steaks",
+        "items": [
+          { "name": "生牛肉薄片", "original": "Carpaccio", "desc": "生牛肉切极薄片，配橄榄油和芝士。" },
+          { "name": "A5 神户西冷（200 克）", "original": "Kobe Beef Striploin A5 (200g)", "desc": "神户牛是日本兵库县认证的顶级和牛，A5 是日本最高评级（出肉率 A、肉质 5 级），油花极密，入口即化。", "tags": ["招牌"] },
+          { "name": "黑安格斯西冷", "original": "Black Angus Striploin", "desc": "肉味浓、有嚼劲的安格斯西冷，比和牛更“有肉感”。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://beefbar.com/riyadh/",
+      "https://www.factmagazines.com/saudi-arabia/fact-review-beefbar-riyadh",
+      "https://destinationksa.com/en/steakhouses-in-riyadh/"
+    ]
+  },
+  {
+    "id": "porterhouse-riyadh",
+    "name": "Porterhouse 纽约风干式熟成牛排馆",
+    "nameEn": "Porterhouse",
+    "kind": "eat",
+    "category": "steak",
+    "tags": ["需预约", "商务宴请", "适合约会"],
+    "rating": 4.5,
+    "price": 4,
+    "priceNote": "人均约 300-500 SAR",
+    "district": "奥拉亚 Olaya（塔利亚街）",
+    "address": "4482 Prince Muhammad Bin Abdulaziz Rd (Tahlia St), Al Olaya, Riyadh",
+    "lat": 24.7005,
+    "lng": 46.682,
+    "summary": "本土纽约风牛排馆，店内自家干式熟成",
+    "description": "沙特本土品牌，灵感来自纽约牛排馆。所有牛排在店内干式熟成 21 天，再用木柴和炭火烤。牛肉来源有澳洲安格斯、新西兰草饲和韩国和牛，还有一块熟成 60 天、800 克的双人份 porterhouse。前菜的越南辣味生牛肉和烤骨髓也很有名。",
+    "highlights": ["60 天熟成 800 克 porterhouse（双人）", "店内 21 天干式熟成", "越南辣味生牛肉薄片"],
+    "tips": ["晚上 6 点后不接待儿童", "塔利亚街停车难，建议打车"],
+    "hours": "周六至周三 12:30-次日 00:30，周四周五 12:30-次日 01:00",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Appetizers",
+        "items": [
+          { "name": "布拉塔芝士", "original": "Burrata", "desc": "外层是马苏里拉、内里是奶油和碎芝士的意大利鲜奶酪，切开会流出来。" },
+          { "name": "羽衣甘蓝沙拉", "original": "Kale Salad", "desc": "羽衣甘蓝配坚果和酱汁，清爽解腻。" },
+          { "name": "越南辣味生牛肉薄片", "original": "Spicy Vietnamese Carpaccio", "desc": "生牛肉薄片配越南风的鱼露、青柠和辣椒，酸辣开胃。", "tags": ["辣", "推荐"] },
+          { "name": "烤牛骨髓", "original": "Bone Marrow", "desc": "牛腿骨对半剖开烤，骨髓像黄油一样，抹面包吃。" },
+          { "name": "Porterhouse 沙拉", "original": "Porterhouse Salad", "desc": "店名同名沙拉，常被回头客点名。" }
+        ]
+      },
+      {
+        "title": "干式熟成牛排",
+        "titleEn": "Dry-Aged Steaks",
+        "items": [
+          { "name": "澳洲安格斯（21 天熟成）", "original": "Australian Angus, 21-Day Dry-Aged", "desc": "店内熟成 21 天后木炭火烤，肉味浓、带淡淡熟成香。" },
+          { "name": "新西兰草饲牛（21 天熟成）", "original": "New Zealand Grass-Fed, 21-Day Dry-Aged", "desc": "草饲牛脂肪少、肉味更“野”，适合喜欢纯肉味的人。" },
+          { "name": "韩国和牛（21 天熟成）", "original": "Korean Wagyu, 21-Day Dry-Aged", "desc": "韩牛油花丰富，口感柔软多汁。" },
+          { "name": "60 天熟成 Porterhouse（800 克，双人）", "original": "60-Day Dry-Aged Australian Angus Porterhouse 800g", "desc": "Porterhouse 是 T 骨的大号版本，一边是西冷一边是菲力，一次吃两种口感。熟成 60 天风味更浓。", "tags": ["招牌", "分享"] }
+        ]
+      },
+      {
+        "title": "其他",
+        "titleEn": "Others",
+        "items": [
+          { "name": "和牛三明治", "original": "Wagyu Sandwich", "desc": "和牛切片夹面包，午餐时段的人气选择。" },
+          { "name": "松露薯条", "original": "Truffle Fries", "desc": "薯条淋松露油、撒芝士，香气浓。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.opentable.com/r/porterhouse-riyadh",
+      "https://www.timeoutriyadh.com/restaurants/porterhouse-review",
+      "https://www.theworlds50best.com/discovery/Establishments/Saudi-Arabia/Riyadh/Porterhouse.html"
+    ]
+  },
+  {
+    "id": "copper-riyadh",
+    "name": "Copper 铜锅牛排",
+    "nameEn": "Copper",
+    "kind": "eat",
+    "category": "steak",
+    "tags": ["深夜营业", "适合约会", "需预约"],
+    "rating": 4.4,
+    "price": 3,
+    "priceNote": "人均约 200-350 SAR",
+    "district": "希廷 Hittin",
+    "address": "Prince Turki Bin Abdulaziz Al Awwal Rd, Hittin, Riyadh",
+    "lat": 24.757,
+    "lng": 46.625,
+    "summary": "低调实在的本地人私藏牛排店",
+    "description": "本地回头客很多的低调牛排店，装修简洁温暖，没有撒金箔之类的噱头，只把肉做好。招牌和牛西冷煎到五分熟，配顺滑土豆泥、炒蔬菜和店名同名的 Copper 酱。菜单上也有汉堡和鸡肉，但大家都是冲牛排来的。",
+    "highlights": ["和牛西冷配 Copper 招牌酱", "营业到凌晨 2 点", "Copper 汉堡"],
+    "tips": ["平日下午 5 点才开门，周末 14:00 开始", "可以通过 SevenRooms 订位"],
+    "hours": "周日至周四 17:00-次日 02:00，周五周六 14:00-次日 02:00",
+    "menu": [
+      {
+        "title": "招牌菜",
+        "titleEn": "Signatures",
+        "items": [
+          { "name": "和牛西冷", "original": "Wagyu Striploin", "desc": "和牛西冷煎到五分熟，配顺滑土豆泥、炒时蔬和 Copper 酱。西冷是牛背中段的肉，有一条油边，肉味浓。", "tags": ["招牌"] },
+          { "name": "Copper 汉堡", "original": "Copper Burger", "desc": "店名同名汉堡，也用上招牌 Copper 酱。" },
+          { "name": "和牛塔可", "original": "Wagyu Tacos", "desc": "墨西哥软饼包和牛，适合当前菜分享。", "tags": ["分享"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-steakhouses-in-riyadh",
+      "https://copper.redro.menu/en/restaurant/riyadh/food.html",
+      "https://www.sevenrooms.com/reservations/coppersa"
+    ]
+  },
+  {
+    "id": "wildfire-churrascaria",
+    "name": "Wildfire 巴西烤肉",
+    "nameEn": "Wildfire Brazilian Churrascaria",
+    "kind": "eat",
+    "category": "steak",
+    "tags": ["适合聚餐", "家庭友好", "商务宴请"],
+    "rating": 4.1,
+    "price": 3,
+    "priceNote": "自助午餐约 170 SAR/人，晚餐约 210 SAR/人",
+    "district": "皇冠假日 RDC 酒店",
+    "address": "Crowne Plaza Riyadh RDC Hotel & Convention, Mezzanine Floor, Riyadh 12382",
+    "lat": 24.773,
+    "lng": 46.708,
+    "summary": "巴西烤肉师拿着长签到桌边片肉，无限量",
+    "description": "开在皇冠假日酒店的巴西烤肉馆（churrascaria），吃法是定价无限量：巴西烤肉师拿着长铁签在各桌之间走动，现场片下炭烤牛羊鸡肉。桌上的双色卡翻到绿色就是“继续上”，红色就是“暂停”。适合胃口大的朋友聚餐。",
+    "highlights": ["桌边现片的炭烤牛臀盖肉", "价格清楚的无限量吃法", "周末有早午餐时段"],
+    "tips": ["午餐比晚餐便宜，常有买一送一优惠", "先少拿沙拉吧，把胃留给肉"],
+    "hours": "午餐 12:30-15:30；晚餐 17:00-23:30（周末时段以酒店公告为准）",
+    "menu": [
+      {
+        "title": "烤肉（桌边服务）",
+        "titleEn": "Rodízio",
+        "items": [
+          { "name": "牛臀盖肉", "original": "Picanha", "desc": "巴西烤肉的灵魂部位，带一层厚脂肪的牛臀盖，只撒粗盐炭烤，外焦香里粉嫩。", "tags": ["招牌"] },
+          { "name": "牛腹肉", "original": "Fraldinha", "desc": "牛腹部的长条肉，纹理粗、肉汁多，有嚼劲。" },
+          { "name": "菲力培根卷", "original": "Filet Mignon", "desc": "牛里脊，最嫩的部位，巴西烤肉店常裹一层培根一起烤。" },
+          { "name": "烤羊排", "original": "Cordeiro", "desc": "羊排或羊腿炭烤，常配薄荷酱。" },
+          { "name": "蒜香烤鸡", "original": "Frango", "desc": "鸡腿或鸡心用蒜和香草腌制后炭烤。" },
+          { "name": "烤香肠", "original": "Linguiça", "desc": "巴西式烤肠，在沙特一般是牛肉或鸡肉做。" }
+        ]
+      },
+      {
+        "title": "配餐",
+        "titleEn": "Sides",
+        "items": [
+          { "name": "巴西芝士面包球", "original": "Pão de Queijo", "desc": "木薯粉做的小芝士面包，外脆里面拉丝，很有嚼劲。" },
+          { "name": "肉桂烤菠萝", "original": "Abacaxi Grelhado", "desc": "整条菠萝裹肉桂糖炭烤，甜酸解腻，吃肉间隙必点。", "tags": ["推荐"] }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.opentable.com/r/wildfire-riyadh",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d19096133-Reviews-Wildfire-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "florya-steak-etci-mehmet",
+    "name": "Florya Steak 土耳其牛排（Etci Mehmet）",
+    "nameEn": "Florya Steak by Etci Mehmet",
+    "kind": "eat",
+    "category": "steak",
+    "tags": ["连锁", "适合聚餐", "家庭友好"],
+    "rating": 3.9,
+    "price": 3,
+    "priceNote": "人均约 180-300 SAR",
+    "district": "利雅得前线 Riyadh Front",
+    "address": "Riyadh Front（另有多家分店）",
+    "lat": 24.8385,
+    "lng": 46.7289,
+    "summary": "土耳其风格牛排馆，配菜很有特色",
+    "description": "来自土耳其的牛排品牌，在利雅得有多家分店，包括机场路附近的 Riyadh Front。菲力、肉眼、西冷三大经典部位都有，配菜走土耳其路线，比如蘑菇炖菜和菠菜。适合想吃牛排又不想去酒店餐厅的家庭聚餐。",
+    "highlights": ["菲力、肉眼、西冷三选一", "土耳其风蘑菇炖菜", "多家分店方便"],
+    "menu": [
+      {
+        "title": "牛排",
+        "titleEn": "Steaks",
+        "items": [
+          { "name": "菲力牛排", "original": "Fillet", "desc": "牛里脊，几乎没有脂肪，口感最嫩。", "tags": ["推荐"] },
+          { "name": "肉眼牛排", "original": "Rib-eye", "desc": "中心有一块油花，烤后多汁香浓。" },
+          { "name": "西冷牛排", "original": "Sirloin", "desc": "带一条油边的背部肉，肉味浓、有嚼劲。" }
+        ]
+      },
+      {
+        "title": "配菜",
+        "titleEn": "Sides",
+        "items": [
+          { "name": "蘑菇炖菜", "original": "Mushroom Stew", "desc": "蘑菇加奶油或番茄慢炖，浓郁下饭，是土耳其牛排馆常见配菜。" },
+          { "name": "菠菜", "original": "Spinach", "desc": "奶油或黄油炒菠菜，清口。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://destinationksa.com/en/steakhouses-in-riyadh/"
+    ]
+  },
+  {
+    "id": "lpm-riyadh",
+    "name": "LPM 小屋（La Petite Maison）",
+    "nameEn": "LPM Riyadh (La Petite Maison)",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["需预约", "适合约会", "商务宴请"],
+    "rating": 4.7,
+    "price": 4,
+    "priceNote": "人均约 300-500 SAR；商务午餐 180 SAR（两道）/ 230 SAR（三道）",
+    "district": "奥拉亚 Olaya",
+    "address": "Al Motassem St, Al Olaya, Riyadh",
+    "website": "https://lpmrestaurants.com/riyadh/",
+    "lat": 24.696,
+    "lng": 46.685,
+    "summary": "利雅得法式地中海菜的标杆",
+    "description": "源自法国尼斯、在伦敦和迪拜走红的法式地中海餐厅，被 Time Out 称为利雅得法餐的标杆。菜系是蔚蓝海岸风格：大量橄榄油、柠檬和番茄，清爽不腻。经典菜有温虾、布拉塔、法式蜗牛和柠檬腌小鸡，甜点法式吐司是必点。",
+    "highlights": ["橄榄油温虾", "柠檬腌小鸡（整只上桌）", "香草荚法式吐司甜点"],
+    "tips": ["工作日商务午餐性价比高", "晚餐需提前订位，着装建议 smart casual"],
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Starters",
+        "items": [
+          { "name": "布拉塔芝士", "original": "Burrata", "price": 120, "desc": "意大利鲜奶酪，外皮是马苏里拉，内心是奶油，配番茄和橄榄油。", "tags": ["推荐"] },
+          { "name": "橄榄油温虾", "original": "Crevettes Tièdes à l'Huile d'Olive", "desc": "温热的虾浸在优质橄榄油和柠檬汁里，简单但非常鲜。", "tags": ["招牌"] },
+          { "name": "勃艮第蜗牛", "original": "Escargots de Bourgogne", "desc": "法国经典，蜗牛配大量蒜香欧芹黄油焗烤，用面包蘸黄油吃。" },
+          { "name": "生牛肉薄片", "original": "Carpaccio de Boeuf", "desc": "生牛肉切极薄片，淋橄榄油和柠檬。" },
+          { "name": "香煎鹅肝", "original": "Foie Gras", "desc": "鹅肝煎到外焦内融，口感像奶油，常配酸甜果酱。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "柠檬腌小鸡", "original": "Poussin Mariné au Citron", "desc": "整只春鸡用柠檬腌过再烤，皮脆肉嫩，是 LPM 的招牌主菜。", "tags": ["招牌"] },
+          { "name": "牛排", "original": "Côte de Boeuf", "desc": "大块带骨牛排，适合分享。有报道提到约 740 SAR，以现场菜单为准。", "tags": ["分享"] }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "香草法式吐司", "original": "Pain Perdu à la Gousse de Vanille", "desc": "厚切布里欧修面包浸蛋奶液后焦糖化，配香草冰淇淋，外脆里软。", "tags": ["招牌"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://lpmrestaurants.com/riyadh/",
+      "https://lpmrestaurants.com/riyadh/menus/businesslunch/",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d21231288-Reviews-La_Petite_Maison_Riyadh-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "cafe-boulud-riyadh",
+    "name": "Café Boulud 布吕德咖啡馆",
+    "nameEn": "Café Boulud Riyadh",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["需预约", "适合约会", "商务宴请"],
+    "rating": 4.4,
+    "price": 4,
+    "priceNote": "人均约 300 SAR 起",
+    "district": "奥拉亚 Olaya（王国中心四季酒店）",
+    "address": "Four Seasons Hotel Riyadh at Kingdom Centre, King Fahd Rd, Riyadh",
+    "lat": 24.7114,
+    "lng": 46.6744,
+    "summary": "名厨 Daniel Boulud 的里昂小馆",
+    "description": "纽约米其林名厨 Daniel Boulud 的法式餐厅品牌，开在王国中心的四季酒店里。Time Out 形容它是“利雅得最好的法式藏身处”：以里昂家常菜为底，加入一点亚洲元素。气氛比 LPM 安静，适合约会或谈事。",
+    "highlights": ["里昂风格经典菜", "名厨品牌、酒店级服务", "王国中心位置方便"],
+    "tips": ["下面菜单为法式小馆常见菜，实际菜单按季更换"],
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Starters",
+        "items": [
+          { "name": "法式洋葱汤", "original": "Soupe à l'Oignon", "desc": "洋葱慢炒到焦糖色再煮成汤，上面盖面包和焗芝士。" },
+          { "name": "里昂沙拉", "original": "Salade Lyonnaise", "desc": "苦菊配水波蛋、脆面包丁和芥末油醋汁，里昂经典。", "tags": ["推荐"] },
+          { "name": "法式蜗牛", "original": "Escargots", "desc": "蒜香欧芹黄油焗蜗牛。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "里昂鱼丸", "original": "Quenelle de Brochet", "desc": "里昂名菜，鱼肉泥做成的椭圆形鱼糕，浸在浓郁的南蒂阿虾酱汁里焗烤，口感像舒芙蕾。" },
+          { "name": "油封鸭腿", "original": "Confit de Canard", "desc": "鸭腿在鸭油里低温慢煮，再把皮煎脆，肉一碰就散。" },
+          { "name": "牛排配薯条", "original": "Steak Frites", "desc": "法式小馆标配，煎牛排配粗薯条和酱汁。" }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "焦糖布丁", "original": "Crème Brûlée", "desc": "香草蛋奶布丁表面烧一层脆焦糖，敲开来吃。" },
+          { "name": "玛德琳蛋糕", "original": "Madeleines", "desc": "贝壳形小蛋糕，现烤温热，黄油香浓，Boulud 餐厅的经典收尾。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-french-restaurants-in-riyadh"
+    ]
+  },
+  {
+    "id": "cafe-de-l-esplanade-bujairi",
+    "name": "Café de l'Esplanade 巴黎滨河咖啡馆",
+    "nameEn": "Café de l'Esplanade",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["景观位", "户外座位", "适合约会"],
+    "rating": 4.3,
+    "price": 4,
+    "priceNote": "人均约 300 SAR 起",
+    "district": "迪拉伊耶 Diriyah（布杰里露台）",
+    "address": "Bujairi Terrace, Diriyah, Riyadh",
+    "lat": 24.735,
+    "lng": 46.576,
+    "summary": "对着世界遗产吃巴黎小馆菜",
+    "description": "巴黎名店 Café de l'Esplanade 的分店，开在迪拉伊耶的布杰里露台（Bujairi Terrace）。坐在户外能看到联合国世界遗产阿图赖夫（At-Turaif）的土坯古城，傍晚和夜晚灯光很美。菜单是经典巴黎小馆菜，适合参观完迪拉伊耶后安排一顿正式晚餐。",
+    "highlights": ["露台正对阿图赖夫古城", "经典巴黎小馆菜", "逛完迪拉伊耶顺路"],
+    "tips": ["天气凉快的季节（11-3 月）坐户外最好", "布杰里露台周末晚上人多，需提前订位", "下面菜单为巴黎小馆常见菜，以现场为准"],
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Starters",
+        "items": [
+          { "name": "生牛肉挞", "original": "Tartare de Boeuf", "desc": "生牛肉手切拌蛋黄、酸豆和芥末，法式小馆经典。" },
+          { "name": "法式蜗牛", "original": "Escargots de Bourgogne", "desc": "蒜香欧芹黄油焗蜗牛。" },
+          { "name": "尼斯沙拉", "original": "Salade Niçoise", "desc": "金枪鱼、水煮蛋、橄榄、四季豆和番茄，清爽的南法沙拉。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "黄油煎比目鱼", "original": "Sole Meunière", "desc": "整条鳎鱼裹薄粉，用黄油煎，淋柠檬黄油汁，鲜嫩。" },
+          { "name": "法式火腿芝士三明治", "original": "Croque Monsieur", "desc": "吐司夹火腿（清真版常用火鸡或牛肉）和芝士，表面焗白酱。" },
+          { "name": "牛排配薯条", "original": "Steak Frites", "desc": "煎牛排配粗薯条，巴黎小馆必有。" }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "泡芙球", "original": "Profiteroles", "desc": "小泡芙夹冰淇淋，淋热巧克力酱。", "tags": ["推荐"] },
+          { "name": "拿破仑千层酥", "original": "Millefeuille", "desc": "多层酥皮夹香草奶油，酥脆掉渣。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-french-restaurants-in-riyadh"
+    ]
+  },
+  {
+    "id": "il-baretto-riyadh",
+    "name": "Il Baretto 意式小酒馆",
+    "nameEn": "Il Baretto Riyadh",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["需预约", "商务宴请", "适合约会"],
+    "rating": 4.6,
+    "price": 4,
+    "priceNote": "人均约 300-450 SAR；工作日有商务午餐",
+    "district": "阿卜杜拉国王金融区 KAFD",
+    "address": "King Abdullah Financial District, Al Malqa, Riyadh 13521",
+    "lat": 24.764,
+    "lng": 46.64,
+    "summary": "连续三年获评利雅得最佳意大利餐厅",
+    "description": "伦敦梅费尔名店的利雅得分店，也是 KAFD 金融区第一家开业的餐厅，被收录于米其林指南，连续三年获得 FACT 杂志利雅得最佳意大利餐厅。菜单是意大利北部经典菜：米兰炸小牛排、龙虾意面、松露意面和木火披萨，做法地道。",
+    "highlights": ["龙虾意面", "米兰炸小牛排", "松露意面"],
+    "tips": ["KAFD 工作日午餐多为商务客，晚上更有氛围", "可通过 SevenRooms 订位"],
+    "hours": "每天 12:30-24:00",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Antipasti",
+        "items": [
+          { "name": "三文鱼薄片", "original": "Salmon Carpaccio", "desc": "生三文鱼切薄片，淋橄榄油和柠檬，清爽。" }
+        ]
+      },
+      {
+        "title": "意面与烩饭",
+        "titleEn": "Pasta & Risotto",
+        "items": [
+          { "name": "龙虾意面", "original": "Spaghetti Lobster", "desc": "半只或整只龙虾配番茄酱汁拌意面，酱汁吸满龙虾鲜味。", "tags": ["招牌"] },
+          { "name": "松露意面", "original": "Pasta al Tartufo", "desc": "黄油芝士拌意面，现刨黑松露片，香气浓郁。", "tags": ["推荐"] },
+          { "name": "蘑菇烩饭", "original": "Risotto ai Funghi", "desc": "意大利米慢慢加高汤煮成奶油状，加入牛肝菌等蘑菇。" }
+        ]
+      },
+      {
+        "title": "主菜与披萨",
+        "titleEn": "Mains & Pizza",
+        "items": [
+          { "name": "米兰炸小牛排", "original": "Veal Milanese", "desc": "小牛排拍薄裹面包屑用黄油炸，金黄酥脆，配芝麻菜和番茄。", "tags": ["招牌"] },
+          { "name": "整条烤鲈鱼", "original": "Whole Sea Bass", "desc": "整条海鲈鱼烤或盐焗，上桌后拆骨，肉质细嫩。", "tags": ["分享"] },
+          { "name": "木火披萨", "original": "Wood-Fired Pizza", "desc": "意大利北部风格的木火炉披萨，饼底薄脆。" }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dolci",
+        "items": [
+          { "name": "提拉米苏", "original": "Tiramisu", "desc": "手指饼干浸咖啡，叠马斯卡彭奶油，撒可可粉。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/il-barretto",
+      "https://blog.wasalt.sa/en/il-baretto-riyadh/",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-il-baretto-riyadh"
+    ]
+  },
+  {
+    "id": "san-carlo-cicchetti-riyadh",
+    "name": "San Carlo Cicchetti 威尼斯小盘意餐",
+    "nameEn": "San Carlo Cicchetti",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["适合聚餐", "家庭友好", "适合约会"],
+    "rating": 4.4,
+    "price": 3,
+    "priceNote": "人均约 150-250 SAR；大部分菜 100 SAR 以内",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "Al Dabab St, As Sulimaniyah, Riyadh 12223",
+    "lat": 24.706,
+    "lng": 46.696,
+    "summary": "Time Out 最佳意大利餐厅，小盘分享式",
+    "description": "英国 San Carlo 集团的威尼斯小盘菜（cicchetti）餐厅，获评 Time Out 利雅得最佳意大利餐厅。菜量小、适合点一桌分享，大部分菜 100 SAR 以内，比同级别意餐实惠。每季换菜单，但西西里饭团、乳清奶酪布拉塔饺子等人气菜会保留。",
+    "highlights": ["牛肉酱西西里炸饭团", "乳清奶酪布拉塔饺子", "带骨米兰小牛排"],
+    "tips": ["2 人点 4-5 个小盘加 1 个主菜刚好", "人气很高，周末晚上建议订位"],
+    "menu": [
+      {
+        "title": "小盘",
+        "titleEn": "Cicchetti",
+        "items": [
+          { "name": "西西里炸饭团", "original": "Arancini Siciliani", "desc": "烩饭包入慢炖牛肉酱和马苏里拉芝士，裹粉炸成球，外脆里拉丝。", "tags": ["招牌"] },
+          { "name": "意式小面包片", "original": "Crostini", "desc": "烤脆的小面包片上放各种配料，一口一个。" },
+          { "name": "炸鱿鱼", "original": "Calamari Fritti", "desc": "鱿鱼圈裹薄粉炸，挤柠檬汁吃。" }
+        ]
+      },
+      {
+        "title": "意面、披萨与主菜",
+        "titleEn": "Pasta, Pizza & Mains",
+        "items": [
+          { "name": "乳清奶酪布拉塔饺子", "original": "Ricotta & Burrata Ravioli", "desc": "意式方饺包乳清奶酪和布拉塔，奶香浓，通常配番茄或黄油鼠尾草酱。", "tags": ["推荐"] },
+          { "name": "带骨米兰小牛排", "original": "Bone-in Veal Milanese", "desc": "带骨小牛排拍薄裹面包屑炸，酥脆大片。", "tags": ["分享"] },
+          { "name": "玛格丽特披萨", "original": "Pizza Margherita", "desc": "番茄酱、马苏里拉和罗勒的经典披萨。" }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dolci",
+        "items": [
+          { "name": "提拉米苏", "original": "Tiramisu", "desc": "咖啡浸手指饼干配马斯卡彭奶油。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://sancarlo.co.uk/restaurants/international/cicchetti-riyadh/",
+      "https://www.timeoutriyadh.com/restaurants/san-carlo-cicchetti"
+    ]
+  },
+  {
+    "id": "carbone-riyadh",
+    "name": "Carbone 纽约意式老馆",
+    "nameEn": "Carbone Riyadh",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["需预约", "适合约会", "适合聚餐"],
+    "rating": 4.4,
+    "price": 4,
+    "priceNote": "人均约 350-500 SAR",
+    "district": "拉比 Ar Rabi（Mansard 酒店）",
+    "address": "Mansard Riyadh, A Radisson Collection Hotel, 4248 Prince Mohammed bin Salman bin Abdulaziz Rd, Ar Rabi, Riyadh 13315",
+    "lat": 24.799,
+    "lng": 46.665,
+    "summary": "纽约网红辣味伏特加通心粉的利雅得店",
+    "description": "纽约 Major Food Group 旗下的意大利裔美国菜名店，2023 年 11 月在 Mansard 酒店开业。装修和服务都复刻纽约 50 年代的意式老馆风格，服务员穿酒红色西装、桌边做凯撒沙拉。招牌辣味通心粉在这里是无酒精版本，味道几乎没差别。连续两年获 FACT 杂志读者最爱意大利餐厅。",
+    "highlights": ["招牌辣味通心粉", "桌边现做凯撒沙拉", "帕玛森小牛排"],
+    "tips": ["只做晚餐，19:00 开门", "热门时段订位难，建议提前一两周"],
+    "hours": "每天 19:00-24:00",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Antipasti",
+        "items": [
+          { "name": "ZZ 凯撒沙拉", "original": "Caesar alla ZZ", "desc": "服务员在桌边现拌的凯撒沙拉，酱汁浓郁。", "tags": ["推荐"] },
+          { "name": "肉丸", "original": "Meatballs", "desc": "大颗肉丸在番茄酱里慢炖，意裔美国菜经典。" }
+        ]
+      },
+      {
+        "title": "意面",
+        "titleEn": "Pasta",
+        "items": [
+          { "name": "辣味通心粉", "original": "Spicy Rigatoni", "desc": "粗管通心粉拌番茄奶油辣酱，原版加伏特加，利雅得版无酒精。奶香、微辣、很挂汁，是 Carbone 最出名的菜。", "tags": ["招牌", "辣"] },
+          { "name": "龙虾饺", "original": "Lobster Ravioli", "desc": "意式方饺包龙虾肉，配奶油或番茄酱汁。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Secondi",
+        "items": [
+          { "name": "帕玛森小牛排", "original": "Veal Parmesan", "desc": "带骨小牛排裹粉炸，铺番茄酱和马苏里拉焗烤，分量大。", "tags": ["分享"] },
+          { "name": "和牛战斧", "original": "Wagyu Tomahawk", "desc": "带长骨的和牛肉眼，适合多人分享。", "tags": ["分享"] },
+          { "name": "意式猎人鸡", "original": "Chicken Scarpariello", "desc": "鸡块和甜酸辣椒、香草一起烩，酸甜带辣。" }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dolci",
+        "items": [
+          { "name": "胡萝卜蛋糕", "original": "Carrot Cake", "desc": "Carbone 的招牌甜点之一，大块、奶油芝士霜很厚。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/carbone-restaurant-riyadh",
+      "https://www.hoteliermiddleeast.com/saudi-arabia/how-mansard-riyadh-found-its-culinary-icon-in-carbone",
+      "https://saudistreets.com/2025/04/25/riyadhs-carbone-serves-the-pasta-skips-the-new-york-buzz/"
+    ]
+  },
+  {
+    "id": "mamo-michelangelo-riyadh",
+    "name": "MAMO Michelangelo 蔚蓝海岸意餐",
+    "nameEn": "MAMO Michelangelo",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["适合约会", "商务宴请", "需预约"],
+    "rating": 4.4,
+    "price": 4,
+    "priceNote": "人均约 250-400 SAR",
+    "district": "奥拉亚 Olaya（费萨利亚酒店）",
+    "address": "Al Faisaliah Hotel, King Fahd Rd, Al Olaya, Riyadh",
+    "lat": 24.6905,
+    "lng": 46.6855,
+    "summary": "法国昂蒂布名店，松露披萨出名",
+    "description": "来自法国蔚蓝海岸昂蒂布的传奇意大利餐厅，由卡拉布里亚出身的主厨 Mamo 创立，利雅得店在费萨利亚酒店。装修像意大利庭院，菜单保留蔚蓝海岸原版：松露佛卡夏、那不勒斯布拉塔、木火炉烤羊肩。获 Time Out 最佳意大利餐厅高度推荐。",
+    "highlights": ["松露披萨", "那不勒斯布拉塔", "木火炉烤羊肩"],
+    "hours": "每天 12:30-次日 00:30",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Starters",
+        "items": [
+          { "name": "松露佛卡夏", "original": "Truffle Focaccia", "desc": "意式扁面包烤得外脆内软，夹或铺松露和芝士，香气十足。", "tags": ["招牌"] },
+          { "name": "那不勒斯布拉塔", "original": "Burrata from Napoli", "desc": "从那不勒斯运来的布拉塔鲜奶酪，奶香浓郁、内心流动。", "tags": ["推荐"] }
+        ]
+      },
+      {
+        "title": "披萨与意面",
+        "titleEn": "Pizza & Pasta",
+        "items": [
+          { "name": "松露披萨", "original": "Truffle Pizza", "desc": "白底披萨铺满松露和芝士，很多客人的必点。", "tags": ["招牌"] },
+          { "name": "松露小方饺", "original": "Truffle Raviolini", "desc": "小号意式方饺，配松露奶油酱。" },
+          { "name": "手工意面", "original": "Homemade Pasta", "desc": "每日手工制作的新鲜意面，口感更弹。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "木火炉烤羊肩", "original": "Lamb Shoulder", "desc": "整块羊肩在木火炉里慢烤，软烂脱骨，适合分享。", "tags": ["分享"] },
+          { "name": "烤鸡", "original": "Chicken", "desc": "评论里常被夸的烤鸡，皮脆肉嫩。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.mandarinoriental.com/en/riyadh/olaya/dine/mamo-michelangelo",
+      "https://whatsonsaudiarabia.com/2023/10/mamo-michelangelo-riyadh/",
+      "https://www.arabnews.com/node/2257586/food-health"
+    ]
+  },
+  {
+    "id": "agio-the-canopy",
+    "name": "Agio 意式手工面馆",
+    "nameEn": "Agio",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["家庭友好", "适合聚餐", "户外座位"],
+    "rating": 4.2,
+    "price": 3,
+    "priceNote": "人均约 150-250 SAR",
+    "district": "希廷 Hittin（The Canopy）",
+    "address": "The Canopy, Hittin, Riyadh",
+    "lat": 24.761,
+    "lng": 46.623,
+    "summary": "手工意面加木火披萨，轻松的街区意餐",
+    "description": "开在希廷区 The Canopy 街区的意大利餐厅，获 Time Out 利雅得最佳意大利餐厅高度推荐。主打手工意面、木火披萨和有趣的甜点，价格比酒店意餐亲民，适合家庭和朋友聚餐。",
+    "highlights": ["手工意面", "木火披萨", "创意甜点"],
+    "tips": ["下面菜单为意大利餐厅常见菜，实际以店内为准"],
+    "menu": [
+      {
+        "title": "意面",
+        "titleEn": "Pasta",
+        "items": [
+          { "name": "黑胡椒芝士意面", "original": "Cacio e Pepe", "desc": "罗马经典，只用佩科里诺芝士、黑胡椒和煮面水乳化成酱，咸香浓郁。", "tags": ["推荐"] },
+          { "name": "肉酱宽面", "original": "Tagliatelle al Ragù", "desc": "手工宽面配慢炖牛肉番茄酱，经典博洛尼亚风味。" },
+          { "name": "番茄酱汁意面", "original": "Pomodoro", "desc": "新鲜番茄、蒜和罗勒，最朴素的意面。", "tags": ["素"] }
+        ]
+      },
+      {
+        "title": "披萨",
+        "titleEn": "Pizza",
+        "items": [
+          { "name": "玛格丽特披萨", "original": "Margherita", "desc": "番茄、马苏里拉和罗勒，木火炉烤出焦斑饼边。", "tags": ["素"] },
+          { "name": "辣香肠披萨", "original": "Diavola", "desc": "辣牛肉香肠加辣椒油，微辣。", "tags": ["辣"] },
+          { "name": "松露蘑菇披萨", "original": "Tartufo e Funghi", "desc": "白底披萨配蘑菇和松露酱。" }
+        ]
+      },
+      {
+        "title": "前菜与甜品",
+        "titleEn": "Antipasti & Dolci",
+        "items": [
+          { "name": "布拉塔芝士", "original": "Burrata", "desc": "内心是奶油的意大利鲜奶酪，配番茄和橄榄油。", "tags": ["分享"] },
+          { "name": "提拉米苏", "original": "Tiramisu", "desc": "咖啡浸手指饼干配马斯卡彭奶油。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-italian-restaurants-in-riyadh"
+    ]
+  },
+  {
+    "id": "coya-riyadh",
+    "name": "COYA 秘鲁餐厅",
+    "nameEn": "COYA Riyadh",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["适合约会", "适合聚餐", "需预约", "深夜营业"],
+    "rating": 4.5,
+    "price": 4,
+    "priceNote": "人均约 300-450 SAR",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "As Sulimaniyah, Riyadh",
+    "website": "https://www.coyarestaurant.com/riyadh/",
+    "lat": 24.703,
+    "lng": 46.685,
+    "summary": "Time Out 最佳美洲菜餐厅，有驻场 DJ",
+    "description": "伦敦起家的高端秘鲁餐厅，2022 年春天开到利雅得，获 Time Out 2025 年最佳美洲菜餐厅。秘鲁菜融合了日本和中国移民的影响：柠檬汁腌生鱼的 ceviche、日秘融合（Nikkei）料理和炭烤串。晚上有驻场 DJ，气氛热闹，适合朋友聚会。",
+    "highlights": ["海鲈鱼 ceviche", "日秘融合菜", "驻场 DJ 夜晚氛围"],
+    "tips": ["周四周五营业到凌晨 1 点", "下面菜单为秘鲁菜常见菜式，实际以店内为准"],
+    "hours": "周六至周三 13:00-24:00，周四周五 13:00-次日 01:00",
+    "menu": [
+      {
+        "title": "生食与前菜",
+        "titleEn": "Ceviches & Tiraditos",
+        "items": [
+          { "name": "海鲈鱼 ceviche", "original": "Ceviche de Lubina", "desc": "生海鲈鱼块用青柠汁“腌熟”，配红洋葱、辣椒和玉米，酸辣清爽。秘鲁国菜。", "tags": ["招牌"] },
+          { "name": "金枪鱼薄片", "original": "Tiradito de Atún", "desc": "类似刺身的薄切生金枪鱼，淋秘鲁黄辣椒酱汁，日秘融合风。", "tags": ["推荐"] },
+          { "name": "炸玉米", "original": "Maíz", "desc": "秘鲁大粒玉米炭烤或炸，配芝士或辣酱。", "tags": ["素"] }
+        ]
+      },
+      {
+        "title": "炭烤与主菜",
+        "titleEn": "Anticuchos & Mains",
+        "items": [
+          { "name": "炭烤鸡串", "original": "Anticucho de Pollo", "desc": "秘鲁街头烤串，鸡肉用辣椒酱腌过后炭烤。" },
+          { "name": "炭烤牛排", "original": "Churrasco", "desc": "炭火烤牛排，配秘鲁绿辣椒酱（aji verde）。" },
+          { "name": "日秘炒饭", "original": "Arroz Nikkei", "desc": "带日式酱油风味的秘鲁炒饭，有锅气。" },
+          { "name": "黄辣椒炖鸡", "original": "Pollo al Aji Amarillo", "desc": "用秘鲁黄辣椒做的奶油酱汁炖鸡，微辣带果香。", "tags": ["辣"] }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Postres",
+        "items": [
+          { "name": "吉事果", "original": "Churros", "desc": "炸长条甜面团裹肉桂糖，蘸巧克力或焦糖酱。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.coyarestaurant.com/riyadh/",
+      "https://www.timeoutriyadh.com/food-drink/coya-restaurant-riyadh-opening"
+    ]
+  },
+  {
+    "id": "azure-hyatt-regency-olaya",
+    "name": "Azure 西班牙餐厅",
+    "nameEn": "Azure Restaurant",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["适合聚餐", "商务宴请"],
+    "rating": 4.0,
+    "price": 3,
+    "priceNote": "人均约 150-250 SAR",
+    "district": "奥拉亚 Olaya（凯悦酒店）",
+    "address": "Hyatt Regency Riyadh Olaya, Olaya St, Riyadh",
+    "lat": 24.71,
+    "lng": 46.676,
+    "summary": "酒店里的南西班牙菜，海鲜饭是招牌",
+    "description": "位于奥拉亚凯悦酒店的西班牙餐厅，在 TripAdvisor 利雅得西班牙菜排行靠前。主打南西班牙家常菜和 tapas 小吃，招牌是海鲜饭。评价整体不错，也有人觉得海鲜饭锅底不够焦（没有 socarrat 锅巴），可以点单时说明要焦一点。",
+    "highlights": ["海鲜饭", "tapas 小吃拼一桌", "利雅得少见的正经西班牙菜"],
+    "tips": ["海鲜饭现做需要等 20-30 分钟", "下面菜单为西班牙菜常见菜，以现场为准"],
+    "menu": [
+      {
+        "title": "Tapas 小吃",
+        "titleEn": "Tapas",
+        "items": [
+          { "name": "蒜香虾", "original": "Gambas al Ajillo", "desc": "虾在大量橄榄油、蒜片和辣椒里煎，油用面包蘸着吃。", "tags": ["推荐"] },
+          { "name": "辣酱土豆", "original": "Patatas Bravas", "desc": "炸土豆块淋辣番茄酱和蒜香蛋黄酱。", "tags": ["辣", "素"] },
+          { "name": "西班牙土豆蛋饼", "original": "Tortilla Española", "desc": "土豆和洋葱煎成厚蛋饼，切块吃，家常味。", "tags": ["素"] },
+          { "name": "奶油可乐饼", "original": "Croquetas", "desc": "白酱加肉或海鲜，裹面包屑炸，外脆内滑。" },
+          { "name": "加利西亚章鱼", "original": "Pulpo a la Gallega", "desc": "煮软的章鱼切片，撒红椒粉和海盐、淋橄榄油，配土豆。" }
+        ]
+      },
+      {
+        "title": "海鲜饭",
+        "titleEn": "Paella",
+        "items": [
+          { "name": "海鲜饭", "original": "Paella de Marisco", "desc": "大平底锅用海鲜高汤和藏红花煮米饭，铺虾、青口和鱿鱼。锅底的焦脆锅巴叫 socarrat，是精华。", "tags": ["招牌", "分享"] }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Postres",
+        "items": [
+          { "name": "吉事果配巧克力", "original": "Churros con Chocolate", "desc": "炸甜面条蘸浓稠热巧克力。" },
+          { "name": "加泰罗尼亚焦糖布丁", "original": "Crema Catalana", "desc": "西班牙版焦糖布丁，带柠檬和肉桂香。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d12153080-Reviews-Azure_Restaurant-Riyadh_Riyadh_Province.html",
+      "https://www.tripadvisor.com/Restaurants-g293995-c36-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "blanca-pizzeria",
+    "name": "Blanca 那不勒斯披萨",
+    "nameEn": "Blanca Pizzeria",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["家庭友好", "外卖方便"],
+    "rating": 4.2,
+    "price": 2,
+    "priceNote": "人均约 60-100 SAR",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "As Sulimaniyah, Riyadh",
+    "lat": 24.702,
+    "lng": 46.695,
+    "summary": "创意口味的那不勒斯窑烤披萨",
+    "description": "苏莱曼尼亚区一家轻松的那不勒斯披萨店，店内窑炉现烤，饼边鼓起、带焦斑。除了经典口味，还有蒜香虾、南瓜等创意披萨，甚至甜味披萨。价格亲民，适合平日随便吃一顿。",
+    "highlights": ["蒜香虾披萨", "南瓜披萨", "甜味披萨当甜点"],
+    "tips": ["下面菜单结合报道与那不勒斯披萨常见口味，以店内为准"],
+    "menu": [
+      {
+        "title": "经典披萨",
+        "titleEn": "Classic Pizza",
+        "items": [
+          { "name": "玛格丽特", "original": "Margherita", "desc": "圣马扎诺番茄、马苏里拉和罗勒，最能看出饼底功力。", "tags": ["素", "推荐"] },
+          { "name": "水牛芝士玛格丽特", "original": "Bufala", "desc": "用水牛马苏里拉，奶香更浓、更湿润。", "tags": ["素"] },
+          { "name": "水手披萨", "original": "Marinara", "desc": "只有番茄、蒜、牛至和橄榄油，没有芝士，那不勒斯最古老的口味。", "tags": ["素"] },
+          { "name": "辣香肠披萨", "original": "Diavola", "desc": "辣牛肉香肠加辣椒，微辣。", "tags": ["辣"] }
+        ]
+      },
+      {
+        "title": "创意披萨",
+        "titleEn": "Signature Pizza",
+        "items": [
+          { "name": "蒜香虾披萨", "original": "Garlic Shrimp Pizza", "desc": "虾仁配蒜香橄榄油和芝士。", "tags": ["招牌"] },
+          { "name": "南瓜披萨", "original": "Pumpkin Pizza", "desc": "南瓜泥打底，微甜，配芝士。", "tags": ["素"] },
+          { "name": "松露蘑菇披萨", "original": "Truffle Mushroom", "desc": "白底披萨配蘑菇和松露酱。" }
+        ]
+      },
+      {
+        "title": "甜披萨",
+        "titleEn": "Sweet Pizza",
+        "items": [
+          { "name": "甜味披萨", "original": "Sweet Pizza", "desc": "窑烤饼底抹巧克力或配甜味配料，当甜点分着吃。", "tags": ["分享"] }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://destinationksa.com/en/awesome-pizzerias-in-riyadh/"
+    ]
+  },
+  {
+    "id": "la-rustica-pizzeria",
+    "name": "La Rustica 乡村披萨",
+    "nameEn": "La Rustica Pizzeria",
+    "kind": "eat",
+    "category": "western",
+    "tags": ["家庭友好", "外卖方便"],
+    "rating": 4.0,
+    "price": 2,
+    "priceNote": "人均约 60-100 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Al Olaya, Riyadh",
+    "lat": 24.7,
+    "lng": 46.683,
+    "summary": "2016 年开到现在的奥拉亚老牌那不勒斯披萨",
+    "description": "2016 年开业的奥拉亚区老牌那不勒斯披萨店，比近年新开的网红披萨店低调，胜在稳定。窑烤饼底柔软有嚼劲，配料简单，适合平日工作午餐或家庭晚餐。",
+    "highlights": ["稳定的那不勒斯饼底", "价格亲民", "奥拉亚交通方便"],
+    "tips": ["下面菜单为那不勒斯披萨店常见菜，以店内为准"],
+    "menu": [
+      {
+        "title": "披萨",
+        "titleEn": "Pizza",
+        "items": [
+          { "name": "玛格丽特", "original": "Margherita", "desc": "番茄、马苏里拉和罗勒。", "tags": ["素", "推荐"] },
+          { "name": "水手披萨", "original": "Marinara", "desc": "番茄、蒜、牛至和橄榄油，无芝士。", "tags": ["素"] },
+          { "name": "四种芝士披萨", "original": "Quattro Formaggi", "desc": "四种芝士（常见马苏里拉、戈贡佐拉、帕玛森、芳提娜），浓郁咸香。", "tags": ["素"] },
+          { "name": "辣香肠披萨", "original": "Diavola", "desc": "辣牛肉香肠，微辣。", "tags": ["辣"] },
+          { "name": "蔬菜披萨", "original": "Ortolana", "desc": "烤茄子、西葫芦和甜椒等时蔬。", "tags": ["素"] }
+        ]
+      },
+      {
+        "title": "前菜与甜品",
+        "titleEn": "Antipasti & Dolci",
+        "items": [
+          { "name": "卡布里沙拉", "original": "Insalata Caprese", "desc": "番茄和马苏里拉切片，配罗勒和橄榄油。", "tags": ["素"] },
+          { "name": "蒜香面包", "original": "Garlic Bread", "desc": "窑烤面包抹蒜香黄油。" },
+          { "name": "提拉米苏", "original": "Tiramisu", "desc": "咖啡浸手指饼干配马斯卡彭奶油。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://destinationksa.com/en/awesome-pizzerias-in-riyadh/",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d10194740-Reviews-La_Rustica_Pizzeria-Riyadh_Riyadh_Province.html"
+    ]
+  }
+]

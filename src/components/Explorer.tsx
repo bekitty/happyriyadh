@@ -44,7 +44,7 @@ export default function Explorer({ places, initialKind, initialCategory, initial
     window.history.replaceState(null, "", qs ? `/explore?${qs}` : "/explore");
   }, [kind, category, query]);
 
-  const cats = CATEGORIES.filter((c) => !kind || c.kind === kind);
+  const cats = CATEGORIES.filter((c) => (!kind || c.kind === kind) && places.some((p) => p.category === c.id));
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -209,13 +209,13 @@ export default function Explorer({ places, initialKind, initialCategory, initial
 
       {/* 右侧：地图 */}
       <section
-        className={`relative h-[calc(100dvh-3.5rem)] flex-1 lg:h-auto ${mobileView === "list" ? "hidden lg:block" : ""}`}
+        className={`relative h-[calc(100dvh-3.5rem)] lg:h-auto lg:flex-1 ${mobileView === "list" ? "hidden lg:block" : ""}`}
       >
         <MapView
           places={filtered}
           selectedId={selectedId}
           onSelect={selectFromMap}
-          className="absolute inset-0"
+          className="h-full w-full"
         />
       </section>
 

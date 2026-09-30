@@ -93,7 +93,7 @@ export default async function PlacePage({ params }: Params) {
       )}
 
       <div className="mt-6 grid gap-6 lg:grid-cols-[1fr_340px]">
-        <div className="space-y-6">
+        <div className="min-w-0 space-y-6">
           <section>
             <p className="leading-relaxed text-ink/90">{place.description}</p>
           </section>
@@ -125,7 +125,7 @@ export default async function PlacePage({ params }: Params) {
           )}
         </div>
 
-        <aside className="space-y-4">
+        <aside className="min-w-0 space-y-4">
           <div className="overflow-hidden rounded-2xl border border-sand-200 bg-white">
             <MiniMap place={place} />
             <div className="grid grid-cols-2 gap-2 p-3 text-sm">
@@ -166,9 +166,9 @@ export default async function PlacePage({ params }: Params) {
         <h2 className="mb-3 text-lg font-semibold">📍 附近还有</h2>
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {near.map(({ place: p, km }) => (
-            <div key={p.id} className="relative">
+            <div key={p.id}>
+              <p className="mb-1 text-xs text-muted">直线距离 {km < 1 ? `${Math.round(km * 1000)} m` : `${km.toFixed(1)} km`}</p>
               <PlaceCard place={p} compact />
-              <span className="absolute right-3 bottom-2 text-xs text-muted">{km < 1 ? `${Math.round(km * 1000)} m` : `${km.toFixed(1)} km`}</span>
             </div>
           ))}
         </div>

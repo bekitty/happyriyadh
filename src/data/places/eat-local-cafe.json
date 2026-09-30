@@ -142,7 +142,7 @@
   },
   {
     "id": "maiz-diriyah",
-    "name": "马伊兹 Maiz（迪拉伊耶沙特料理）",
+    "name": "马伊兹 Maiz（德拉伊耶沙特料理）",
     "nameEn": "Maiz",
     "nameAr": "ميز",
     "kind": "eat",
@@ -157,12 +157,12 @@
     "rating": 4.5,
     "price": 4,
     "priceNote": "单点主菜 130–185 SAR；品鉴菜单 6 道 385 SAR / 8 道 485 SAR",
-    "district": "迪拉伊耶 Diriyah",
+    "district": "德拉伊耶 Diriyah",
     "address": "Bujairi Terrace, Diriyah, Riyadh",
     "lat": 24.7362,
     "lng": 46.5762,
     "summary": "望向图赖夫遗址的沙特 fine dining，菜系横跨全国 13 个省",
-    "description": "Maiz 被称为利雅得第一家沙特菜 fine dining，位于迪拉伊耶 Bujairi Terrace 一带，可远眺联合国世界遗产图赖夫（At-Turaif）古城。厨房把沙特 13 个省的地方菜重新演绎：烟熏谷物、骆驼肉、椰枣入咸味菜，沿海与山区风味同桌。米其林指南收录推荐，适合带朋友体验“高级版沙特菜”。",
+    "description": "Maiz 被称为利雅得第一家沙特菜 fine dining，位于德拉伊耶 Bujairi Terrace 一带，可远眺联合国世界遗产图赖夫（At-Turaif）古城。厨房把沙特 13 个省的地方菜重新演绎：烟熏谷物、骆驼肉、椰枣入咸味菜，沿海与山区风味同桌。米其林指南收录推荐，适合带朋友体验“高级版沙特菜”。",
     "highlights": [
       "可眺望图赖夫遗址的露台",
       "羊肉卡布萨与古尔桑的精致版",
@@ -170,7 +170,7 @@
     ],
     "tips": [
       "周末晚上务必提前订位，傍晚日落时段露台最美",
-      "进入 Bujairi 区域以现场规定为准，建议提前查看迪拉伊耶官网",
+      "进入 Bujairi 区域以现场规定为准，建议提前查看德拉伊耶官网",
       "价格偏高，想省钱可只点两三道招牌加面包"
     ],
     "menu": [
@@ -274,7 +274,7 @@
     "rating": 4.4,
     "price": 3,
     "priceNote": "人均约 200 SAR，甜点多在 50 SAR 以内",
-    "district": "迪拉伊耶 Diriyah",
+    "district": "德拉伊耶 Diriyah",
     "address": "Bujairi Terrace, Diriyah, Riyadh 13711",
     "lat": 24.7371,
     "lng": 46.5749,

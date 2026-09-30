@@ -25,10 +25,10 @@ export const COLLECTIONS: Collection[] = [
   },
   {
     slug: "diriyah",
-    title: "一天玩转迪拉伊耶",
+    title: "一天玩转德拉伊耶",
     icon: "🏰",
     intro: "沙特王国的发源地：白天逛土坯古城 At-Turaif，傍晚去 Bujairi Terrace 吃饭看夜景。",
-    filter: (p) => /diriyah|迪拉伊耶|bujairi/i.test(`${p.district} ${p.nameEn} ${p.address ?? ""}`),
+    filter: (p) => /diriyah|德拉伊耶|bujairi/i.test(`${p.district} ${p.nameEn} ${p.address ?? ""}`),
   },
   {
     slug: "family",

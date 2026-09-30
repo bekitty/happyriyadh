@@ -1,20 +1,26 @@
 [
   {
     "id": "hakkasan-diriyah",
-    "name": "Hakkasan 客家人",
+    "name": "Hakkasan 粤菜",
     "nameEn": "Hakkasan Riyadh",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["需预约", "景观位", "户外座位", "适合约会", "商务宴请"],
+    "tags": [
+      "需预约",
+      "景观位",
+      "户外座位",
+      "适合约会",
+      "商务宴请"
+    ],
     "rating": 4.6,
     "price": 4,
     "priceNote": "人均约 350 SAR 起",
-    "district": "迪拉伊耶 Diriyah",
+    "district": "德拉伊耶 Diriyah",
     "address": "Bujairi Terrace, Diriyah, Riyadh",
     "lat": 24.7355,
     "lng": 46.575,
     "summary": "米其林级粤菜名店，露台正对世界遗产图赖夫古城",
-    "description": "伦敦起家的高端现代粤菜品牌 Hakkasan，2022 年在迪拉伊耶 Bujairi Terrace 开出利雅得店。菜系以广东菜为底，做法精致、摆盘讲究，点心和烤鸭是招牌。户外座位可以远眺联合国世界遗产 At-Turaif 泥砖古城，晚上灯光亮起后氛围极佳。",
+    "description": "伦敦起家的高端现代粤菜品牌 Hakkasan，2022 年在德拉伊耶 Bujairi Terrace 开出利雅得店。菜系以广东菜为底，做法精致、摆盘讲究，点心和烤鸭是招牌。户外座位可以远眺联合国世界遗产 At-Turaif 泥砖古城，晚上灯光亮起后氛围极佳。",
     "highlights": [
       "招牌北京烤鸭（需提前预订，脆皮多汁）",
       "至尊点心拼盘（含金箔龙虾虾饺）",
@@ -39,7 +45,11 @@
     "nameEn": "Hong",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["需预约", "商务宴请", "适合约会"],
+    "tags": [
+      "需预约",
+      "商务宴请",
+      "适合约会"
+    ],
     "rating": 4.5,
     "price": 4,
     "priceNote": "人均约 300 SAR 以上",
@@ -71,7 +81,12 @@
     "nameEn": "Mr Chow Riyadh",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["需预约", "商务宴请", "适合约会", "景观位"],
+    "tags": [
+      "需预约",
+      "商务宴请",
+      "适合约会",
+      "景观位"
+    ],
     "rating": 4.4,
     "price": 4,
     "priceNote": "人均约 350-450 SAR（烤鸭 255 SAR）",
@@ -104,7 +119,11 @@
     "nameEn": "Yauatcha Riyadh",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["适合约会", "适合聚餐", "商务宴请"],
+    "tags": [
+      "适合约会",
+      "适合聚餐",
+      "商务宴请"
+    ],
     "rating": 4.4,
     "price": 3,
     "priceNote": "套餐每人 120 SAR 起（2 人起订），单点人均约 200 SAR",
@@ -138,7 +157,11 @@
     "nameEn": "Hualan",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["景观位", "适合约会", "商务宴请"],
+    "tags": [
+      "景观位",
+      "适合约会",
+      "商务宴请"
+    ],
     "rating": 4.2,
     "price": 3,
     "priceNote": "人均约 200-250 SAR",
@@ -171,7 +194,11 @@
     "nameEn": "Huayi Chinese Restaurant",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["家庭友好", "适合聚餐", "外卖方便"],
+    "tags": [
+      "家庭友好",
+      "适合聚餐",
+      "外卖方便"
+    ],
     "rating": 4.3,
     "price": 1,
     "priceNote": "人均约 40-60 SAR",
@@ -204,7 +231,11 @@
     "nameEn": "Kroran Uyghur Restaurant",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["家庭友好", "户外座位", "适合聚餐"],
+    "tags": [
+      "家庭友好",
+      "户外座位",
+      "适合聚餐"
+    ],
     "rating": 4.1,
     "price": 2,
     "priceNote": "人均约 60-100 SAR",
@@ -234,8 +265,12 @@
     "nameEn": "Liu's Chong Qing Hot Pot",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["适合聚餐", "家庭友好", "连锁"],
-    "rating": 4.0,
+    "tags": [
+      "适合聚餐",
+      "家庭友好",
+      "连锁"
+    ],
+    "rating": 4,
     "price": 2,
     "priceNote": "自助火锅，人均约 100-150 SAR",
     "district": "希廷 Hittin",
@@ -265,7 +300,10 @@
     "nameEn": "Golden Dragon Chinese Restaurant",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["家庭友好", "适合聚餐"],
+    "tags": [
+      "家庭友好",
+      "适合聚餐"
+    ],
     "rating": 4.1,
     "price": 2,
     "priceNote": "3-4 人约 200 SAR",
@@ -297,7 +335,12 @@
     "nameAr": "بي إف تشانغز",
     "kind": "eat",
     "category": "chinese",
-    "tags": ["连锁", "家庭友好", "深夜营业", "适合聚餐"],
+    "tags": [
+      "连锁",
+      "家庭友好",
+      "深夜营业",
+      "适合聚餐"
+    ],
     "rating": 3.7,
     "price": 2,
     "priceNote": "人均约 100-150 SAR",
@@ -329,7 +372,12 @@
     "nameEn": "Zuma Riyadh",
     "kind": "eat",
     "category": "japanese",
-    "tags": ["需预约", "适合约会", "商务宴请", "适合聚餐"],
+    "tags": [
+      "需预约",
+      "适合约会",
+      "商务宴请",
+      "适合聚餐"
+    ],
     "rating": 4.7,
     "price": 4,
     "priceNote": "人均约 350-500 SAR",
@@ -365,7 +413,9 @@
             "name": "卷寿司",
             "original": "Maki Rolls",
             "desc": "各式卷寿司，有辣金枪鱼、虾天妇罗等口味，适合分享。",
-            "tags": ["分享"]
+            "tags": [
+              "分享"
+            ]
           }
         ]
       },
@@ -377,19 +427,25 @@
             "name": "西京味噌银鳕鱼",
             "original": "Miso Marinated Black Cod",
             "desc": "银鳕鱼用甜味噌腌渍后包在朴叶里烤，鱼肉油润、入口即化，甜咸交织。Zuma 全球招牌。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "大麦味噌烤春鸡",
             "original": "Barley Miso Corn-fed Baby Chicken",
             "desc": "玉米喂养的小春鸡用大麦味噌腌制后烤箱烤制，皮香肉嫩。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "香辣牛柳",
             "original": "Spicy Beef Tenderloin",
             "desc": "牛里脊配芝麻、红辣椒和甜酱油快炒，微辣带甜。",
-            "tags": ["辣"]
+            "tags": [
+              "辣"
+            ]
           },
           {
             "name": "盐烤海鲈鱼",
@@ -400,7 +456,10 @@
             "name": "日式菌菇饭锅",
             "original": "Japanese Mushroom Rice Hotpot",
             "desc": "多种菌菇和米饭在砂锅中焖煮，桌边拌匀，锅底有香脆锅巴。",
-            "tags": ["推荐", "素"]
+            "tags": [
+              "推荐",
+              "素"
+            ]
           }
         ]
       },
@@ -412,7 +471,9 @@
             "name": "椰枣味噌太妃蛋糕",
             "original": "Ajwa Date and Miso Toffee Cake",
             "desc": "利雅得店限定：麦地那 Ajwa 椰枣蛋糕配味噌太妃酱、姜味酥粒、糖水梨和甜玉米麻糬冰淇淋。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           }
         ]
       }
@@ -429,7 +490,11 @@
     "nameEn": "Myazu",
     "kind": "eat",
     "category": "japanese",
-    "tags": ["需预约", "适合约会", "商务宴请"],
+    "tags": [
+      "需预约",
+      "适合约会",
+      "商务宴请"
+    ],
     "rating": 4.6,
     "price": 4,
     "priceNote": "人均约 300 SAR",
@@ -459,13 +524,17 @@
             "name": "蒸毛豆",
             "original": "Steamed Edamame",
             "desc": "盐蒸毛豆，经典开胃小食。",
-            "tags": ["素"]
+            "tags": [
+              "素"
+            ]
           },
           {
             "name": "黑鳕鱼虎虾煎饺",
             "original": "Black Cod & Tiger Prawn Gyoza",
             "desc": "银鳕鱼和虎虾做馅的日式煎饺，外皮薄脆、馅料鲜甜。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "和牛煎饺",
@@ -481,7 +550,9 @@
             "name": "炸弹虾",
             "original": "Dynamite Shrimp",
             "desc": "酥炸虾球裹辣味蛋黄酱，外脆里嫩、微辣。",
-            "tags": ["辣"]
+            "tags": [
+              "辣"
+            ]
           }
         ]
       },
@@ -493,19 +564,25 @@
             "name": "新式三文鱼刺身",
             "original": "Salmon Sashimi New Style",
             "desc": "三文鱼薄片淋上柚子酱油和热芝麻油，表面微熟，香气扑鼻。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "Myazu 新式刺身卷",
             "original": "Myazu New Style",
             "desc": "辣金枪鱼、松露鰤鱼和柚子三文鱼用白萝卜薄片包起，三种口味一次尝到。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "火山卷",
             "original": "Volcano Maki",
             "desc": "顶部铺满辣味海鲜酱料的卷寿司，浓郁微辣。",
-            "tags": ["辣"]
+            "tags": [
+              "辣"
+            ]
           }
         ]
       },
@@ -522,13 +599,17 @@
             "name": "和牛三明治",
             "original": "Wagyu Sando",
             "desc": "和牛菲力炸排夹在烤布里欧面包中，配日式猪排酱，奢华版“炸牛排三明治”。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "百层和牛西冷串",
             "original": "100 Layer Wagyu Striploin Skewers",
             "desc": "和牛西冷薄片层层叠起串烤，油脂丰富、入口即化。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           }
         ]
       }
@@ -545,7 +626,10 @@
     "nameEn": "KAYZŌ",
     "kind": "eat",
     "category": "japanese",
-    "tags": ["适合聚餐", "适合约会"],
+    "tags": [
+      "适合聚餐",
+      "适合约会"
+    ],
     "rating": 4.5,
     "price": 3,
     "priceNote": "人均约 150-250 SAR",
@@ -575,19 +659,26 @@
             "name": "毛豆",
             "original": "Edamame",
             "desc": "盐烤或蒸毛豆，开胃小食。",
-            "tags": ["素"]
+            "tags": [
+              "素"
+            ]
           },
           {
             "name": "火山虾",
             "original": "Volcano Shrimp",
             "desc": "酥炸虾仁拌香辣酱汁，外脆里嫩，微辣上头。",
-            "tags": ["推荐", "辣"]
+            "tags": [
+              "推荐",
+              "辣"
+            ]
           },
           {
             "name": "招牌鲜虾煎饺",
             "original": "Gyoza (Prawn)",
             "desc": "虾肉煎饺淋辣椒、蒜蓉和黑醋，酸辣鲜香。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "三文鱼酥皮卷",
@@ -614,7 +705,9 @@
             "name": "松露黄油牛肉炊饭",
             "original": "Beef Takikomi Gohan",
             "desc": "牛肉和米饭同锅炊煮，最后拌入松露黄油，香浓有锅巴。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "黑胡椒牛肉面",
@@ -625,7 +718,9 @@
             "name": "泡菜炒饭",
             "original": "Kimchi Fried Rice",
             "desc": "韩式泡菜炒饭，酸辣开胃。",
-            "tags": ["辣"]
+            "tags": [
+              "辣"
+            ]
           },
           {
             "name": "松露黄油牛肉",
@@ -663,7 +758,11 @@
     "nameEn": "Kuuru",
     "kind": "eat",
     "category": "japanese",
-    "tags": ["需预约", "适合约会", "适合聚餐"],
+    "tags": [
+      "需预约",
+      "适合约会",
+      "适合聚餐"
+    ],
     "rating": 4.4,
     "price": 4,
     "priceNote": "人均约 300 SAR 以上",
@@ -692,7 +791,9 @@
             "name": "秘鲁式刺身",
             "original": "Tiradito",
             "desc": "薄切生鱼淋上青柠汁和秘鲁黄辣椒酱，酸辣清爽，Nikkei 招牌做法。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "日式柠汁腌鱼",
@@ -714,13 +815,17 @@
             "name": "Acevichado 卷",
             "original": "Acevichado Maki",
             "desc": "卷寿司顶上淋柠汁腌鱼风味酱，Nikkei 经典卷。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "辣金枪鱼卷",
             "original": "Spicy Tuna Maki",
             "desc": "金枪鱼碎拌辣味蛋黄酱卷成寿司。",
-            "tags": ["辣"]
+            "tags": [
+              "辣"
+            ]
           }
         ]
       },
@@ -756,7 +861,11 @@
     "nameEn": "Hōchō",
     "kind": "eat",
     "category": "japanese",
-    "tags": ["需预约", "商务宴请", "适合约会"],
+    "tags": [
+      "需预约",
+      "商务宴请",
+      "适合约会"
+    ],
     "rating": 4.3,
     "price": 4,
     "priceNote": "人均约 400 SAR 以上",
@@ -785,7 +894,9 @@
             "name": "蓝鳍金枪鱼大腹",
             "original": "Otoro",
             "desc": "金枪鱼腹部最肥美的部位，油花丰富、入口即化。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "主厨精选握寿司",
@@ -807,7 +918,9 @@
             "name": "神户牛铁板烧",
             "original": "Kobe Beef Teppanyaki",
             "desc": "神户牛切块在铁板上煎至表面焦香，配蒜片和山葵。",
-            "tags": ["招牌"]
+            "tags": [
+              "招牌"
+            ]
           },
           {
             "name": "和牛炙烤寿司",
@@ -853,7 +966,10 @@
     "nameEn": "Yokari",
     "kind": "eat",
     "category": "japanese",
-    "tags": ["适合约会", "商务宴请"],
+    "tags": [
+      "适合约会",
+      "商务宴请"
+    ],
     "rating": 4.2,
     "price": 3,
     "priceNote": "人均约 200-300 SAR",
@@ -891,7 +1007,9 @@
             "name": "刺身拼盘",
             "original": "Sashimi Platter",
             "desc": "多种鲜鱼切片拼盘。",
-            "tags": ["分享"]
+            "tags": [
+              "分享"
+            ]
           }
         ]
       },
@@ -903,13 +1021,17 @@
             "name": "虾天妇罗",
             "original": "Ebi Tempura",
             "desc": "大虾裹薄面衣油炸，蘸天妇罗汁，外酥里嫩。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "蔬菜天妇罗",
             "original": "Vegetable Tempura",
             "desc": "南瓜、茄子、菌菇等时蔬天妇罗。",
-            "tags": ["素"]
+            "tags": [
+              "素"
+            ]
           }
         ]
       },
@@ -921,7 +1043,9 @@
             "name": "鸡腿肉串",
             "original": "Chicken Thigh Yakitori",
             "desc": "鸡腿肉串炭烤，刷甜酱油或撒盐。",
-            "tags": ["推荐"]
+            "tags": [
+              "推荐"
+            ]
           },
           {
             "name": "和牛串",

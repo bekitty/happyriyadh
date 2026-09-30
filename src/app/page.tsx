@@ -34,7 +34,7 @@ export default function Home() {
           <form action="/explore" className="mt-6 flex max-w-xl gap-2">
             <input
               name="q"
-              placeholder="想吃什么、想去哪？如 火锅、烤肉、迪拉伊耶"
+              placeholder="想吃什么、想去哪？如 火锅、烤肉、德拉伊耶"
               className="min-w-0 flex-1 rounded-xl border border-sand-200 bg-white px-4 py-3 outline-none focus:border-accent"
             />
             <button className="rounded-xl bg-accent px-5 font-medium text-white hover:bg-accent-dark">搜索</button>
@@ -61,6 +61,7 @@ export default function Home() {
             <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
               {CATEGORIES.filter((c) => c.kind === kind).map((c) => {
                 const n = PLACES.filter((p) => p.category === c.id).length;
+                if (!n) return null;
                 return (
                   <Link
                     key={c.id}
