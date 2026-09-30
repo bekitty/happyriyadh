@@ -1,1 +1,825 @@
-[]
+[
+  {
+    "id": "najd-village",
+    "name": "纳吉德村 Najd Village（传统纳吉德菜）",
+    "nameEn": "Najd Village",
+    "nameAr": "قرية نجد",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["传统坐地席", "适合聚餐", "家庭友好", "米其林必比登"],
+    "rating": 4.6,
+    "price": 2,
+    "priceNote": "人均约 60–100 SAR；双人 Sofra 套餐 220 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Al Takhassusi St, Al Olaya, Riyadh 12331",
+    "lat": 24.6977,
+    "lng": 46.6692,
+    "summary": "利雅得吃正宗纳吉德菜的“标准答案”，泥墙老屋坐地吃",
+    "description": "Najd Village 以仿纳吉德传统土坯建筑的装潢闻名，包间铺地毯、靠垫，席地而坐用餐，氛围非常有年代感。菜单几乎涵盖利雅得所在的纳吉德地区所有家常菜：卡布萨、马尔古格、贾里什、古尔桑等，米其林指南将其列为必比登推荐，称其为利雅得体验正宗沙特菜的首选。第一次来最省心的方式是点 Sofra 拼盘，一次尝遍多道招牌。",
+    "highlights": ["Sofra 拼盘一次吃遍纳吉德名菜", "传统坐地席包间", "米其林必比登推荐"],
+    "tips": ["人多建议订包间，坐地席需脱鞋", "Takhassusi 店最有名；Abu Bakr Al Siddiq 路另有分店", "份量大，两三人点一个拼盘加一道主食即可"],
+    "website": "https://najdvillage.com",
+    "menu": [
+      {
+        "title": "拼盘套餐",
+        "titleEn": "Sofra",
+        "items": [
+          { "name": "双人乡村拼盘", "original": "Village Sofra for Two", "price": 220, "desc": "店里的招牌套餐，一大盘里组合了卡布萨、马尔古格、贾里什、古尔桑、甜点 Hininy 等多道纳吉德经典菜，最适合第一次来的人。", "tags": ["招牌", "分享"] },
+          { "name": "三人乡村拼盘", "original": "Village Sofra for Three", "price": 510, "desc": "三人版拼盘，菜式更多、肉更足，适合小家庭或朋友聚餐。", "tags": ["分享"] }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Main Courses",
+        "items": [
+          { "name": "鸡肉卡布萨", "original": "Chicken Kabsah كبسة دجاج", "price": 29, "desc": "沙特国菜：长粒米与鸡肉、番茄、洋葱和卡布萨香料（黑柠檬、豆蔻、肉桂等）一起焖煮，米饭吸满肉汁，香料味浓但不辣。", "tags": ["推荐"] },
+          { "name": "纳伊米羊肉卡布萨", "original": "Naimi Meat Kabsa كبسة لحم نعيمي", "price": 92, "desc": "用沙特本地 Naimi 品种羊肉做的卡布萨，羊肉炖得软烂、膻味轻，是卡布萨里的高配版本，一份够两人。", "tags": ["招牌", "分享"] },
+          { "name": "哈希驼肉卡布萨", "original": "Hashi Kabsah كبسة حاشي", "desc": "Hashi 指幼骆驼，驼肉纤维较粗但很香，和香料米饭同焖，是很有沙特特色的一道。" },
+          { "name": "马尔古格", "original": "Margoog مرقوق", "price": 37, "desc": "利雅得代表菜：羊肉和南瓜、西葫芦、番茄等蔬菜炖成浓汤，再放入擀得极薄的面片一起煮，口感像“羊肉蔬菜烩面片”，暖胃。", "tags": ["招牌"] },
+          { "name": "古尔桑", "original": "Goursan قرصان", "desc": "把烤好的薄面饼撕碎，浇上羊肉蔬菜浓汤，让面饼吸满汤汁，口感比马尔古格更软糯。" },
+          { "name": "锅炒羊肉", "original": "Mogalgal مقلقل", "desc": "羊肉切小块，加洋葱、番茄、青椒和香料大火翻炒，类似沙特风味的“小炒羊肉”，配面包吃。" }
+        ]
+      },
+      {
+        "title": "谷物与甜点",
+        "titleEn": "Jareesh & Sweets",
+        "items": [
+          { "name": "白贾里什", "original": "Jareesh جريش", "desc": "碾碎的整粒小麦用牛奶和高汤慢煮成粥状，上面铺炸洋葱酥、挤柠檬汁，口感绵密、咸香，是纳吉德人的家常主食。", "tags": ["推荐"] },
+          { "name": "红贾里什（鸡丝）", "original": "Red Jareesh جريش أحمر", "price": 35, "desc": "加入番茄熬成红色版本的贾里什，拌入手撕鸡丝，配洋葱和柠檬，酸香开胃。" },
+          { "name": "希尼尼", "original": "Hininy حنيني", "desc": "纳吉德传统甜点：红面包屑与椰枣泥、黄油（酥油）揉在一起，常撒豆蔻，香甜浓郁，冬天吃最应景。" }
+        ]
+      }
+    ],
+    "menuSource": "official",
+    "sources": [
+      "https://najdvillage.com/menu/?lang=en",
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/najd-village",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d2209189-Reviews-Najd_Village-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "maiz-diriyah",
+    "name": "马伊兹 Maiz（迪拉伊耶沙特料理）",
+    "nameEn": "Maiz",
+    "nameAr": "ميز",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["需预约", "景观位", "适合约会", "户外座位", "米其林推荐"],
+    "rating": 4.5,
+    "price": 4,
+    "priceNote": "单点主菜 130–185 SAR；品鉴菜单 6 道 385 SAR / 8 道 485 SAR",
+    "district": "迪拉伊耶 Diriyah",
+    "address": "Bujairi Terrace, Diriyah, Riyadh",
+    "lat": 24.7362,
+    "lng": 46.5762,
+    "summary": "望向图赖夫遗址的沙特 fine dining，菜系横跨全国 13 个省",
+    "description": "Maiz 被称为利雅得第一家沙特菜 fine dining，位于迪拉伊耶 Bujairi Terrace 一带，可远眺联合国世界遗产图赖夫（At-Turaif）古城。厨房把沙特 13 个省的地方菜重新演绎：烟熏谷物、骆驼肉、椰枣入咸味菜，沿海与山区风味同桌。米其林指南收录推荐，适合带朋友体验“高级版沙特菜”。",
+    "highlights": ["可眺望图赖夫遗址的露台", "羊肉卡布萨与古尔桑的精致版", "6/8/12 道品鉴菜单 Maiz Experience"],
+    "tips": ["周末晚上务必提前订位，傍晚日落时段露台最美", "进入 Bujairi 区域以现场规定为准，建议提前查看迪拉伊耶官网", "价格偏高，想省钱可只点两三道招牌加面包"],
+    "menu": [
+      {
+        "title": "前菜与面包",
+        "titleEn": "Starters & Breads",
+        "items": [
+          { "name": "肉馅酥饼", "original": "Aish Bil Laham عيش باللحم", "price": 75, "desc": "卡西姆地区的传统肉饼，这里用酥皮包裹香料羊肉末和小番茄，外层酥脆、内馅多汁，推荐作为前菜。", "tags": ["招牌"] },
+          { "name": "羊肉曼图饺", "original": "Lamb Mantu منتو", "desc": "源自中亚、在沙特西部很流行的蒸饺，内馅为羊肉末，淋酸奶酱和番茄酱。" },
+          { "name": "现烤面包配蘸酱与本地蜂蜜", "original": "Freshly Baked Breads", "desc": "面包站现烤各地传统面包，配多种蘸酱和沙特本地蜂蜜。" },
+          { "name": "萨哈维格辣酱", "original": "Sahawiq Sauce سحاوق", "price": 15, "desc": "源自也门、在沙特南部常见的青辣椒番茄香菜酱，辣而清新，配肉和米饭。", "tags": ["辣"] }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "羊肉卡布萨", "original": "Lamb Kabsa كبسة لحم", "price": 130, "desc": "用手撕羊排肉做的卡布萨，香料米饭焖得粒粒分明，是这里点单率最高的主食。", "tags": ["招牌", "分享"] },
+          { "name": "古尔桑", "original": "Goursan قرصان", "price": 148, "desc": "薄面饼浸在羊肉蔬菜浓汤里炖煮，精致摆盘版的纳吉德家常菜。" },
+          { "name": "曼迪羊肩", "original": "Mandi Lamb Shoulder مندي", "desc": "羊肩按曼迪做法低温慢烤至脱骨，带淡淡烟熏香，配香料米饭。", "tags": ["推荐"] },
+          { "name": "炭烤海湾虎虾", "original": "Arabian Gulf Tiger Shrimps", "desc": "吉达来的大虎虾炭火烤制，带孜然、姜和柠檬的烟熏风味。" },
+          { "name": "西冷牛排", "original": "Striploin Steak", "price": 185, "desc": "给不吃羊肉的人准备的选项，配沙特香料调味。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/maiz",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-maiz-in-bujairi-terrace-has-elevated-saudi-arabian-cuisine",
+      "https://www.caterermiddleeast.com/saudi-arabia/saudi-food-bujairi-terrace-maiz"
+    ]
+  },
+  {
+    "id": "takya-bujairi",
+    "name": "塔基亚 Takya（Bujairi 沙特创意菜）",
+    "nameEn": "Takya",
+    "nameAr": "تكية",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["景观位", "适合约会", "户外座位", "需预约", "米其林推荐"],
+    "rating": 4.4,
+    "price": 3,
+    "priceNote": "人均约 200 SAR，甜点多在 50 SAR 以内",
+    "district": "迪拉伊耶 Diriyah",
+    "address": "Bujairi Terrace, Diriyah, Riyadh 13711",
+    "lat": 24.7371,
+    "lng": 46.5749,
+    "summary": "沙特女性创办、走遍全国采集食谱的现代沙特菜",
+    "description": "Takya 由 Hadeel Al Motawa 等沙特女性创办，团队走访全国各地收集家传食谱，再用现代手法重新呈现。Bujairi Terrace 店正对图赖夫古城遗址，风味熟悉但摆盘新颖、口感层次更丰富。米其林指南收录推荐，是带外地朋友体验沙特菜的稳妥选择。",
+    "highlights": ["招牌 Mathlutha 烟熏三拼米饭", "虾肉 Muflag（沙特版海鲜饭）", "露台正对图赖夫遗址"],
+    "tips": ["傍晚露台位最抢手，建议预订", "利雅得市内和东部省另有分店，Bujairi 店景观最好"],
+    "menu": [
+      {
+        "title": "小食",
+        "titleEn": "Small Plates",
+        "items": [
+          { "name": "青柠辣椒硬粒小麦丸", "original": "Durum Wheat Balls", "desc": "用硬粒小麦做的丸子，内馅加青柠和辣椒，外酥内软，是店里的人气小食。", "tags": ["推荐"] },
+          { "name": "三角酥", "original": "Sambousek سمبوسة", "desc": "沙特斋月必备的油炸三角酥，常见肉末或奶酪馅，外皮酥脆。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "三拼米饭", "original": "Mathlutha مثلوثة", "desc": "店的招牌：三种米饭（通常是卡布萨、烟熏米、白米或贾里什）拼在一起，配炖肉，一次尝多种沙特米饭风味。", "tags": ["招牌", "分享"] },
+          { "name": "虾肉穆夫拉格", "original": "Shrimp Muflag مفلق", "desc": "沙特沿海做法的虾焖饭，米饭吸饱虾汁和香料，常被比作西班牙海鲜饭。", "tags": ["招牌"] },
+          { "name": "萨利格", "original": "Saleeg سليق", "desc": "塔伊夫/汉志地区名菜：米饭用高汤和牛奶煮成奶油般绵软的烩饭，上铺烤鸡，口味温和，适合不吃辣的人和小孩。" },
+          { "name": "马尔古格", "original": "Margog مرقوق", "desc": "面片与羊肉、蔬菜同炖，这里加了酥脆欧防风丝增加口感。" },
+          { "name": "卡布萨", "original": "Kabsah كبسة", "desc": "经典香料焖肉饭，肉质软烂，米饭粒粒分明。" },
+          { "name": "贾里什", "original": "Jareesh جريش", "desc": "碾碎小麦与奶慢煮的咸粥，配炸洋葱。" }
+        ]
+      },
+      {
+        "title": "甜点",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "创意椰枣甜点", "original": "Fusion Desserts", "desc": "以椰枣、沙特咖啡、豆蔻等本地风味做的现代甜点，菜单随季节变化。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/takya",
+      "https://www.cnn.com/travel/takya-restaurant-saudi-arabia-spc",
+      "https://www.theworlds50best.com/discovery/Establishments/Saudi-Arabia/Riyadh/Takya.html"
+    ]
+  },
+  {
+    "id": "suhail-restaurant",
+    "name": "苏海勒 Suhail（现代沙特菜）",
+    "nameEn": "Suhail",
+    "nameAr": "سهيل",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["适合聚餐", "家庭友好", "适合约会"],
+    "rating": 4.3,
+    "price": 3,
+    "district": "纳希勒 An Nakheel",
+    "address": "MEFIC Center, Northern Ring Rd, An Nakheel, Riyadh",
+    "lat": 24.7505,
+    "lng": 46.6235,
+    "summary": "传统沙特菜 + 现代摆盘，骆驼排和椰枣芝士蛋糕是亮点",
+    "description": "Suhail 以“带现代感的沙特菜”著称，菜单收录沙特各地区的菜式，从纳吉德的贾里什、马尔古格到汉志的曼图都有。环境比传统餐厅更精致，适合商务宴请或带家人朋友体验。另有素食选择，招牌甜点 Hneini 芝士蛋糕把沙特传统椰枣甜点做成了芝士蛋糕。",
+    "highlights": ["骆驼牛排配藏红花土豆泥", "Hneini 椰枣芝士蛋糕", "有多种素食选项"],
+    "tips": ["位于北环路 MEFIC 中心内", "营业约 12:30 至午夜，周五至凌晨 1 点"],
+    "hours": "周日–周三 12:30–24:00；周四 12:30–23:00；周五 12:30–01:00；周六 12:30–24:00",
+    "website": "https://suhailrestaurant.com",
+    "menu": [
+      {
+        "title": "前菜与汤",
+        "titleEn": "Starters & Soups",
+        "items": [
+          { "name": "贾里什汤", "original": "Jareesh Soup جريش", "desc": "碾碎小麦熬成的浓汤，奶香绵密，配炸洋葱。" },
+          { "name": "燕麦羊肉汤", "original": "Lamb Oat Soup شوربة شوفان", "desc": "斋月餐桌常见的燕麦羊肉汤，浓稠、暖胃。" },
+          { "name": "曼图", "original": "Manto منتو", "desc": "羊肉馅蒸饺，淋酸奶和番茄酱，汉志地区流行。" },
+          { "name": "三角酥", "original": "Samboosa سمبوسة", "desc": "牛肉或鸡肉馅油炸三角酥。" },
+          { "name": "海勒省炸肉丸", "original": "Kbeibah Hail كبيبة حائل", "desc": "海勒（Hail）地区做法的小麦面团包肉末再炸，外脆内香。" },
+          { "name": "蔬菜穆塔巴格", "original": "Vegetable Mutabbaq مطبق", "desc": "薄面皮包蔬菜馅后在铁板上煎成方饼，素食可点。", "tags": ["素"] }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "萨利格", "original": "Saleeg سليق", "desc": "牛奶高汤煮的奶油烩饭配烤鸡，口味温和。" },
+          { "name": "马尔古格", "original": "Marqoq مرقوق", "desc": "羊肉蔬菜炖面片，利雅得家常代表菜。", "tags": ["推荐"] },
+          { "name": "羊肉卡布萨", "original": "Lamb Kabsa كبسة لحم", "desc": "香料焖羊肉饭，份量足。", "tags": ["分享"] },
+          { "name": "骆驼牛排", "original": "Camel Steak", "desc": "骆驼肉排配藏红花土豆泥，肉质紧实、风味独特，很适合尝鲜。", "tags": ["招牌"] }
+        ]
+      },
+      {
+        "title": "甜点",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "希尼尼芝士蛋糕", "original": "Hneini Cheesecake", "desc": "把纳吉德传统椰枣甜点 Hininy 做成芝士蛋糕，饼干底加豆蔻焦糖酱，甜而不腻。", "tags": ["招牌"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/food-health/where-we-are-going-today-suhail-restaurant-in-riyadh-2592936",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d19459588-Reviews-Suhail-Riyadh_Riyadh_Province.html",
+      "https://suhailrestaurant.com/suhailmenu"
+    ]
+  },
+  {
+    "id": "aseeb-najd",
+    "name": "阿西布 Aseeb（纳吉德家宴）",
+    "nameEn": "Aseeb",
+    "nameAr": "عسيب",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["适合聚餐", "家庭友好", "深夜营业"],
+    "rating": 4.4,
+    "price": 2,
+    "priceNote": "前菜/沙拉/甜点多在 50 SAR 以内，主菜约 50–169 SAR",
+    "district": "亚斯敏 Al Yasmin",
+    "address": "Anas Bin Malik Rd, Al Yasmin, Riyadh 13325",
+    "lat": 24.8129,
+    "lng": 46.6268,
+    "summary": "夫妻店做的纳吉德家常大菜，入座先上沙特咖啡配椰枣",
+    "description": "Aseeb 由一对沙特夫妇创办，致力于呈现纳吉德地区的家常风味，装修处处有纳吉德传统细节。菜单不长但都是经典：红贾里什、棕榈叶烤羊肉、骆驼肉粉丝汤，份量大，适合家庭和朋友聚餐。入座后按沙特待客礼节先奉上一杯绿豆咖啡（qahwa）和椰枣。曾入选 MENA 50 Best 榜单。",
+    "highlights": ["入座即奉沙特咖啡与椰枣", "棕榈叶烤羊肉", "沙特咖啡提拉米苏"],
+    "tips": ["只做晚市：18:00 开门", "周末晚上人多，建议早到或预约"],
+    "hours": "工作日 18:00–24:00；周末 18:00–01:00",
+    "menu": [
+      {
+        "title": "迎客与前菜",
+        "titleEn": "Welcome & Starters",
+        "items": [
+          { "name": "沙特咖啡配椰枣", "original": "Qahwa & Dates قهوة وتمر", "desc": "沙特待客礼：浅烘绿咖啡豆加豆蔻（有时加藏红花）煮成的淡金色咖啡，用小杯斟，配椰枣吃。不想再续杯时轻轻摇晃杯子即可。", "tags": ["推荐"] },
+          { "name": "骆驼肉蔬菜粉丝汤", "original": "Vermicelli Soup with Camel", "desc": "蔬菜清汤里加细粉丝和炖骆驼肉，清淡暖胃，作为开胃汤。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "红贾里什", "original": "Red Jareesh جريش أحمر", "desc": "碾碎小麦加番茄慢炖，酸香浓稠，配炸洋葱和柠檬。", "tags": ["推荐"] },
+          { "name": "棕榈叶烤羊肉", "original": "Lamb grilled on palm fronds", "desc": "用椰枣树棕榈叶的火烤羊肉，带独特烟熏香，是店里的特色做法。", "tags": ["招牌"] },
+          { "name": "卡布萨", "original": "Kabsa كبسة", "desc": "香料焖肉饭，大盘上桌，多人分享。", "tags": ["分享"] },
+          { "name": "马尔古格", "original": "Margoog مرقوق", "desc": "羊肉蔬菜炖薄面片。" }
+        ]
+      },
+      {
+        "title": "甜点",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "沙特咖啡提拉米苏", "original": "Saudi Coffee Tiramisu", "desc": "用豆蔻风味的沙特咖啡代替意式浓缩浸手指饼，东西合璧。" },
+          { "name": "椰枣芝士蛋糕", "original": "Date Cheesecake", "desc": "芝士蛋糕加椰枣泥，焦糖般的甜香。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.visitsaudi.com/en/riyadh/attractions/aseeb",
+      "https://www.theworlds50best.com/mena/en/the-list/Aseeb.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d26813037-Reviews-Aseeb-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "fi-glbak",
+    "name": "菲格尔巴克 Fi Glbak（沙特五大区家常菜）",
+    "nameEn": "Fi Glbak",
+    "nameAr": "في قلبك",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["适合聚餐", "家庭友好", "深夜营业", "米其林必比登"],
+    "rating": 4.4,
+    "price": 2,
+    "district": "穆罕默迪耶 Al Mohammadiyah",
+    "address": "3058 Prince Turki Bin Abdulaziz Al Awal Rd, Al Mohammadiyyah, Riyadh 12362",
+    "lat": 24.7268,
+    "lng": 46.6441,
+    "summary": "美食博主主厨开的必比登，吊着树干的天花板下吃库纳法",
+    "description": "店名意为“在你心里”，主厨 Hisham Baeshen 早年以同名美食博主身份走红，这是他的第一家餐厅。菜单融合沙特五个地区的家常菜，并穿插少量中东其他国家菜式，份量大、价格亲民，米其林评为必比登。挑高空间里悬挂着一段树干，招牌库纳法就在树下上桌，氛围热闹。",
+    "highlights": ["Harees Baeshen 主厨家传哈里斯", "东部省 Magboos 羊肉饭", "树下库纳法"],
+    "tips": ["营业到午夜后，适合晚饭晚点吃", "价格友好，适合多人点满一桌分享"],
+    "hours": "周日–周三 12:30–24:00；周四–周六 12:30–01:00",
+    "menu": [
+      {
+        "title": "汤与前菜",
+        "titleEn": "Soups & Starters",
+        "items": [
+          { "name": "烟熏汤", "original": "Smoked Soup", "desc": "带明显炭火烟熏香气的浓汤，是店里的开胃招牌。", "tags": ["推荐"] },
+          { "name": "法图什沙拉", "original": "Fattoush فتوش", "desc": "黎凡特蔬菜沙拉，加脆炸面包片、石榴糖浆和漆树粉，酸爽开胃。", "tags": ["素"] },
+          { "name": "葡萄叶法塔", "original": "Grape Vines Fattah فتة ورق عنب", "desc": "法塔是把脆面包铺底、浇酸奶和热料的菜；这里用米馅葡萄叶卷，酸奶蒜香，口感层次丰富。" },
+          { "name": "现烤面包", "original": "Fresh Bread", "desc": "现烤阿拉伯面饼，配各种菜蘸着吃。" }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "巴伊申家哈里斯", "original": "Harees Baeshen هريس", "desc": "主厨家传做法：小麦与肉长时间慢熬至拉丝般绵密，淋酥油，口味清淡温润，米其林专门撰文介绍过这道菜。", "tags": ["招牌"] },
+          { "name": "东部省羊肉马格布斯", "original": "Magboos Sharqawi with Meat مكبوس شرقاوي", "desc": "东部省/海湾风格的香料焖肉饭，比卡布萨香料更浓、常带黑柠檬的微酸。", "tags": ["分享"] },
+          { "name": "曼扎拉", "original": "Mnazela منزلة", "desc": "汉志风味的炖菜，通常为肉与茄子、番茄等一同炖煮，汁浓下饭。" }
+        ]
+      },
+      {
+        "title": "甜点",
+        "titleEn": "Dessert",
+        "items": [
+          { "name": "库纳法", "original": "Kunafa كنافة", "desc": "细丝酥皮包软奶酪烤至金黄，淋糖浆、撒开心果，热吃拉丝。在树干装置下上桌是店里的名场面。", "tags": ["招牌", "分享"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/fi-glbak",
+      "https://guide.michelin.com/us/en/article/features/a-taste-of-memory-behind-the-dish-of-harees-baeshen-at-fi-glbak",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d27999348-Reviews-Figlbak-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "tameesa",
+    "name": "塔米萨 Tameesa（汉志早餐）",
+    "nameEn": "Tameesa",
+    "nameAr": "تميسة",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["家庭友好", "早餐", "可打包", "米其林必比登"],
+    "rating": 4.5,
+    "price": 1,
+    "district": "亚斯敏 Al Yasmin",
+    "address": "King Abdul Aziz Branch Rd, Al Yasmin, Riyadh 13326",
+    "lat": 24.8298,
+    "lng": 46.6388,
+    "summary": "凌晨就开门的汉志早餐：蚕豆泥、现烤塔米斯饼、穆塔巴格",
+    "description": "Tameesa 主打吉达一带的汉志风味早餐，复古配色的店面、透明厨房里能看到师傅贴炉烤饼。所有菜都是分享装：蚕豆泥 foul、茄子泥、煎饼穆塔巴格，配刚出炉的 tamees 面饼。米其林必比登推荐，性价比很高。",
+    "highlights": ["现烤 Tamees 馕饼", "Foul 蚕豆泥与穆塔巴格", "甜品 Areeka"],
+    "tips": ["早上 4 点开门、下午 4 点打烊，只吃早餐和午餐", "周末上午排队多，早点去"],
+    "hours": "每日 04:00–16:00",
+    "menu": [
+      {
+        "title": "面饼",
+        "titleEn": "Breads",
+        "items": [
+          { "name": "塔米斯饼", "original": "Tamees تميس", "desc": "阿富汗/汉志风格的圆形大面饼，贴在泥炉（tandoor）壁上烤，外脆内软，撒芝麻或黑种草籽，是配所有菜的主食。", "tags": ["招牌"] }
+        ]
+      },
+      {
+        "title": "早餐分享菜",
+        "titleEn": "Breakfast Plates",
+        "items": [
+          { "name": "蚕豆泥", "original": "Foul فول", "desc": "慢炖蚕豆压成泥，淋橄榄油、孜然和柠檬，常加番茄洋葱，撕饼蘸着吃，沙特人最常见的早餐。", "tags": ["推荐", "素"] },
+          { "name": "烤茄子泥", "original": "Moutabbal متبل", "desc": "炭烤茄子捣泥，加芝麻酱、柠檬和蒜，烟熏味浓。", "tags": ["素"] },
+          { "name": "穆塔巴格", "original": "Mutabbaq مطبق", "desc": "薄面皮包入肉末、鸡蛋和葱，在铁板上煎成方块，外酥里嫩，汉志街头经典。", "tags": ["推荐", "分享"] },
+          { "name": "沙克舒卡", "original": "Shakshuka شكشوكة", "desc": "番茄洋葱辣椒酱汁里卧鸡蛋，热锅上桌，蘸饼吃。" }
+        ]
+      },
+      {
+        "title": "甜点与饮品",
+        "titleEn": "Sweets & Drinks",
+        "items": [
+          { "name": "阿里卡", "original": "Areeka عريكة", "desc": "南部（阿西尔）传统甜点：全麦面团揉碎，淋蜂蜜和酥油、配椰枣，口感扎实香甜。", "tags": ["推荐"] },
+          { "name": "红茶", "original": "Shai شاي", "desc": "加糖红茶，常加薄荷或 habak 香草，是汉志早餐的标配。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/tameesa",
+      "https://www.listmag.com/en/eat-and-drink/experiences/michelin-guide-bib-gourmand-restaurants-saudi-arabia"
+    ]
+  },
+  {
+    "id": "tofareya",
+    "name": "图法雷亚 Tofareya（沙特地方家常菜）",
+    "nameEn": "Tofareya",
+    "nameAr": "طفارية",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["家庭友好", "适合聚餐", "米其林推荐"],
+    "rating": 4.2,
+    "price": 2,
+    "district": "马尔卡 Al Malqa",
+    "address": "Anas Ibn Malik Rd, Al Malqa, Riyadh 13522",
+    "lat": 24.8007,
+    "lng": 46.6009,
+    "summary": "挂满地毯的街坊老味道：哈萨烤串、南部曼迪、马尔古格",
+    "description": "Tofareya 是一家接地气的街坊餐厅，主打沙特各地的“妈妈味道”。墙上挂着彩色基里姆地毯、灯笼暖光，还有描绘旧时沙特生活的手绘壁画。菜单从东部 Al-Ahsa 的烟熏烤串、南部阿西尔与巴哈的曼迪，到利雅得代表菜马尔古格都有，已入选米其林指南，并开到了欧拉和吉达。",
+    "highlights": ["哈萨风烟熏烤肉串", "南部风味曼迪饭", "埃及甜点 Om Ali"],
+    "tips": ["有代客泊车", "北利雅得 Anas Ibn Malik 路上餐厅集中，适合顺路"],
+    "menu": [
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          { "name": "哈萨烟熏烤肉串", "original": "Hasawi Kebab كباب حساوي", "desc": "东部省 Al-Ahsa 做法的肉末烤串，带明显的烟熏香，配面饼和洋葱。", "tags": ["招牌"] },
+          { "name": "曼迪饭", "original": "Mandi مندي", "desc": "南部（阿西尔/巴哈）做法：肉挂在地坑炉里用炭火慢烤，油脂滴入下方米饭，肉嫩脱骨、米饭带烟熏香。", "tags": ["推荐", "分享"] },
+          { "name": "马尔古格", "original": "Marqooq مرقوق", "desc": "被视为利雅得“官方代表菜”的羊肉蔬菜炖面片，汤浓暖胃。", "tags": ["推荐"] },
+          { "name": "卡布萨", "original": "Kabsa كبسة", "desc": "香料焖肉饭，沙特国民主食。" },
+          { "name": "贾里什", "original": "Jareesh جريش", "desc": "碾碎小麦奶粥，配炸洋葱和柠檬。" },
+          { "name": "萨利格", "original": "Saleeg سليق", "desc": "奶香烩饭配鸡肉，口味温和，适合小孩。" }
+        ]
+      },
+      {
+        "title": "甜点与饮品",
+        "titleEn": "Desserts & Drinks",
+        "items": [
+          { "name": "阿里妈妈", "original": "Om Ali أم علي", "desc": "埃及名甜点：酥皮/面包碎泡在热牛奶奶油里烤，加坚果和椰丝，类似中东版面包布丁，餐厅推荐必点。", "tags": ["推荐"] },
+          { "name": "卢凯马特", "original": "Luqaimat لقيمات", "desc": "小炸面球淋椰枣糖浆或蜂蜜、撒芝麻，外脆内软，一口一个。" },
+          { "name": "沙特咖啡配椰枣", "original": "Qahwa & Dates", "desc": "豆蔻风味的浅烘咖啡配椰枣，饭后标配。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://guide.michelin.com/ca/en/riyadh-province/riyadh_2555317/restaurant/tofareya",
+      "https://sothebysrealty.sa/en/the-journal/michelin-star-restaurant-riyadh"
+    ]
+  },
+  {
+    "id": "al-romansiah-aqiq",
+    "name": "罗曼西亚 Al Romansiah（曼迪连锁）",
+    "nameEn": "Al Romansiah",
+    "nameAr": "الرومانسية",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["连锁", "家庭友好", "可打包", "适合聚餐"],
+    "rating": 4.0,
+    "price": 1,
+    "district": "阿基格 Al Aqiq",
+    "address": "7546 King Fahad Branch Rd, Al Aqiq, Riyadh 13515（全城多家分店）",
+    "lat": 24.7837,
+    "lng": 46.6353,
+    "summary": "本地人吃曼迪、马德富的国民连锁，便宜大碗",
+    "description": "Al Romansiah 是沙特家喻户晓的也门–哈德拉毛风味连锁，主打曼迪、马德富、马兹比等“烤肉配米饭”。肉烤得软烂脱骨，米饭香料味浓，价格亲民，也是本地家庭外卖聚餐的常见选择。店内一般分单人区和家庭区，适合想吃地道但不讲究环境的人。",
+    "highlights": ["鸡肉曼迪性价比极高", "整只/半只羊的大盘可多人分享", "开胃羊肉汤 Shorba"],
+    "tips": ["全城分店很多，挑离你近的即可", "有自家 App 可提前下单，外卖平台也都有", "份量大，一只鸡的曼迪够两人"],
+    "menu": [
+      {
+        "title": "鸡肉",
+        "titleEn": "Chicken",
+        "items": [
+          { "name": "鸡肉曼迪", "original": "Mandi Chicken مندي دجاج", "desc": "鸡整只腌香料后放在地坑炉/烤炉里慢烤，油脂滴到下方米饭，鸡肉嫩、米饭带烟熏香。可点半只或整只。", "tags": ["招牌"] },
+          { "name": "鸡肉马德富", "original": "Madfoon Chicken مدفون دجاج", "desc": "“马德富”意为“埋着的”，肉和米密封在锅里一起焖烤，米饭更湿润入味。", "tags": ["推荐"] },
+          { "name": "鸡肉马兹比", "original": "Madhbi Chicken مظبي دجاج", "desc": "把鸡放在烧热的石板上烤，表皮焦香、略带炭味，配米饭。" },
+          { "name": "鸡肉卡布萨", "original": "Kabsa Chicken كبسة دجاج", "desc": "番茄香料焖鸡肉饭。" }
+        ]
+      },
+      {
+        "title": "羊肉",
+        "titleEn": "Meat",
+        "items": [
+          { "name": "羊肉曼迪单人餐", "original": "Meat Mandi Single Meal مندي لحم", "desc": "一份羊肉曼迪配米饭，羊肉软烂脱骨。", "tags": ["推荐"] },
+          { "name": "羊肉马德富单人餐", "original": "Meat Madfoon Meal مدفون لحم", "desc": "焖烤羊肉配米饭，比曼迪更软嫩多汁。" },
+          { "name": "四分之一只羊曼迪", "original": "Quarter Mandi Goat with Rice (with plate)", "desc": "四分之一只山羊配大盘米饭，适合家庭或多人聚餐。", "tags": ["分享"] }
+        ]
+      },
+      {
+        "title": "配菜",
+        "titleEn": "Sides",
+        "items": [
+          { "name": "阿拉伯羊肉汤", "original": "Shorba شوربة", "desc": "燕麦或麦粒熬的羊肉浓汤，开胃常点。" },
+          { "name": "马特古特米饭", "original": "Matghoot Rice", "desc": "店里的特色调味米饭，常被食客点名推荐。" },
+          { "name": "萨哈维格辣酱", "original": "Sahawiq سحاوق", "desc": "也门青辣椒番茄酱，配曼迪解腻。", "tags": ["辣"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d8057728-Reviews-Al_Romansiah-Riyadh_Riyadh_Province.html",
+      "https://toyou.io/en/riyadh/local-flavours/alromansiah/"
+    ]
+  },
+  {
+    "id": "em-sherif-cafe-the-zone",
+    "name": "埃姆谢里夫咖啡馆 Em Sherif Café（黎巴嫩菜）",
+    "nameEn": "Em Sherif Café",
+    "nameAr": "أم شريف كافيه",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["适合聚餐", "家庭友好", "早餐", "米其林必比登"],
+    "rating": 4.3,
+    "price": 2,
+    "district": "穆罕默迪耶 Al Mohammadiyah",
+    "address": "The Zone, 7236 Al Takhassusi, Al Mohammadiyyah, Riyadh 12362",
+    "lat": 24.7315,
+    "lng": 46.6494,
+    "summary": "贝鲁特名店的轻松版，冷热 mezze 与米布丁都好吃",
+    "description": "Em Sherif 是贝鲁特知名黎巴嫩餐厅品牌，创始人 Mireille Hayek 被称为“谢里夫的妈妈”。利雅得这家是轻松的 Café 版本，装修明亮，菜单涵盖冷热 mezze、烤肉串和甜点，价格合理，被米其林评为必比登。从早上 8 点开到午夜，早餐、午餐、晚餐都合适。",
+    "highlights": ["多种口味鹰嘴豆泥", "塔乌克鸡肉串与烤基贝", "玫瑰橙花米布丁"],
+    "tips": ["可通过 SevenRooms 在线订位", "位于 Takhassusi 街 The Zone 餐饮区，停车方便"],
+    "hours": "每日 08:00–24:00（周四至 01:00）",
+    "website": "https://emsherif-cafe.com",
+    "menu": [
+      {
+        "title": "冷 Mezze",
+        "titleEn": "Cold Mezze",
+        "items": [
+          { "name": "鹰嘴豆泥", "original": "Hummus حمص", "desc": "鹰嘴豆加芝麻酱、柠檬、初榨橄榄油打成的泥，另有加炒牛肉末、松子或辣香肠的版本。", "tags": ["推荐", "素"] },
+          { "name": "生羊肉基贝", "original": "Kibbeh Nayeh كبة نيئة", "desc": "黎巴嫩名菜：生羊肉与布格麦、香料拌匀，淋橄榄油，配薄荷洋葱吃；介意生肉可跳过。" },
+          { "name": "法图什沙拉", "original": "Fattoush فتوش", "desc": "蔬菜沙拉加脆面包片，石榴糖浆或柠檬醋汁，清爽酸甜。", "tags": ["素"] },
+          { "name": "塔布勒沙拉", "original": "Tabbouleh تبولة", "desc": "大量欧芹碎配番茄、布格麦和柠檬油醋，清新解腻。", "tags": ["素"] }
+        ]
+      },
+      {
+        "title": "热菜与烤肉",
+        "titleEn": "Hot Mezze & Grills",
+        "items": [
+          { "name": "烤基贝串", "original": "Kibbeh Skewers", "desc": "炭烤碎麦肉丸串，配鹰嘴豆泥、辣酱 shatta、欧芹洋葱和酸黄瓜。" },
+          { "name": "塔乌克鸡肉串", "original": "Shish Taouk شيش طاووق", "desc": "蒜香酸奶腌鸡腿肉串炭烤，配番茄、辣椒洋葱和蒜泥酱 toum。", "tags": ["推荐"] },
+          { "name": "混合烤肉", "original": "Mixed Grill", "desc": "鸡肉串、牛肉末卡巴布和牛肉块的拼盘，适合分享。", "tags": ["分享"] }
+        ]
+      },
+      {
+        "title": "甜点",
+        "titleEn": "Desserts",
+        "items": [
+          { "name": "黎巴嫩米布丁", "original": "Riz Bi Halib رز بحليب", "desc": "用橙花水和玫瑰水调香的牛奶米布丁，上面撒焦糖脆米，是公认必留肚子的甜点。", "tags": ["招牌"] }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/em-sherif-cafe",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d18935736-Reviews-Em_Sherif_Cafe-Riyadh_Riyadh_Province.html",
+      "https://emsherif-cafe.com/menu/"
+    ]
+  },
+  {
+    "id": "assaraya-turkish",
+    "name": "萨拉亚土耳其餐厅 Assaraya Turkish",
+    "nameEn": "Assaraya Turkish Restaurant",
+    "nameAr": "مطعم السرايا التركي",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["家庭友好", "深夜营业", "适合聚餐", "老字号"],
+    "rating": 3.9,
+    "price": 2,
+    "district": "奥拉亚 Olaya",
+    "address": "Prince Sultan Bin Abdulaziz Rd, Al Olaya, Riyadh 12221",
+    "lat": 24.6927,
+    "lng": 46.6952,
+    "summary": "利雅得最早的土耳其餐厅之一，同一家族经营三十多年",
+    "description": "Assaraya 被认为是利雅得最早的一批土耳其餐厅，由同一家族经营超过三十年，是很多本地人从小吃到大的老店。以大份的沙威玛和混合烤肉出名，伊斯坎德尔烤肉也常被好评。环境朴素、营业到深夜，适合家庭聚餐和夜宵。",
+    "highlights": ["大份混合烤肉", "伊斯坎德尔烤肉", "营业到凌晨 2 点"],
+    "tips": ["营业到凌晨 2 点，适合夜宵", "周五中午 12:30 才开门"],
+    "hours": "周六–周四 10:30–02:00；周五 12:30–02:00",
+    "menu": [
+      {
+        "title": "烤肉",
+        "titleEn": "Grills",
+        "items": [
+          { "name": "混合烤肉", "original": "Mixed Grill مشاوي مشكلة", "desc": "羊肉串、鸡肉串、肉末卡巴布拼一大盘，配烤番茄青椒和面包，店里招牌之一。", "tags": ["招牌", "分享"] },
+          { "name": "伊斯坎德尔烤肉", "original": "Iskender Kebab إسكندر", "desc": "布尔萨名菜：旋转烤肉切薄片铺在面包丁上，浇番茄酱汁和热黄油，配酸奶，浓郁解馋。", "tags": ["推荐"] },
+          { "name": "阿达纳烤肉串", "original": "Adana Kebab أضنة", "desc": "辣椒调味的羊肉末手工捏成长串炭烤，微辣多汁。", "tags": ["辣"] },
+          { "name": "鸡肉沙威玛盘", "original": "Chicken Shawarma Plate", "desc": "旋转烤鸡切片配薯条、蒜泥酱和腌菜，份量大。", "tags": ["推荐"] }
+        ]
+      },
+      {
+        "title": "烤饼",
+        "titleEn": "Pide & Bread",
+        "items": [
+          { "name": "土耳其船形披萨", "original": "Pide بيدة", "desc": "船形烤饼，常见肉末、奶酪或香肠馅，边缘酥脆。" },
+          { "name": "土耳其薄饼", "original": "Lahmacun لحم عجين", "desc": "极薄面饼铺辣味肉末烤脆，卷上欧芹洋葱挤柠檬吃。" }
+        ]
+      },
+      {
+        "title": "前菜与甜点",
+        "titleEn": "Starters & Desserts",
+        "items": [
+          { "name": "扁豆汤", "original": "Lentil Soup شوربة عدس", "desc": "红扁豆浓汤，挤柠檬吃，土耳其餐厅标配。", "tags": ["素"] },
+          { "name": "果仁蜜饼", "original": "Baklava بقلاوة", "desc": "多层薄酥皮夹开心果或核桃，浸糖浆，甜而酥。" },
+          { "name": "库奈费", "original": "Künefe كنافة", "desc": "土耳其版奶酪丝酥，热烤拉丝，淋糖浆撒开心果。", "tags": ["分享"] }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d1513776-Reviews-Assaraya_Turkish-Riyadh_Riyadh_Province.html",
+      "https://destinationksa.com/en/assaraya-turkish-restaurant-delicious-food-quality-service-chilling-ambience/"
+    ]
+  },
+  {
+    "id": "mama-noura-olaya",
+    "name": "诺拉妈妈 Mama Noura（沙威玛老字号）",
+    "nameEn": "Mama Noura",
+    "nameAr": "ماما نورة",
+    "kind": "eat",
+    "category": "saudi",
+    "tags": ["连锁", "深夜营业", "可打包", "家庭友好", "老字号"],
+    "rating": 4.0,
+    "price": 1,
+    "priceNote": "单品约 2.5–32 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Olaya St, Al Olaya, Riyadh（另有 King Abdullah Rd 等 7 家分店）",
+    "lat": 24.6916,
+    "lng": 46.7018,
+    "summary": "利雅得吃了三十多年的沙威玛老店，鲜榨果汁也有名",
+    "description": "Mama Noura 是利雅得人心中的“沙威玛老字号”，三十多年来在全城开了七家店。招牌蒜香鸡肉沙威玛便宜又大份，搭配现榨石榴汁、鳄梨汁是经典组合。另外还有各种 fatayer 小馅饼、法拉费、烤肉和早餐，适合想快速吃一顿地道本地快餐的时候。",
+    "highlights": ["蒜香鸡肉沙威玛", "现榨果汁", "Fatayer 小馅饼"],
+    "tips": ["营业时间长，是夜宵好选择", "高峰期外带排队快，店内座位较简单"],
+    "menu": [
+      {
+        "title": "沙威玛",
+        "titleEn": "Shawarma",
+        "items": [
+          { "name": "鸡肉沙威玛卷", "original": "Chicken Shawarma شاورما دجاج", "desc": "旋转烤鸡切片卷进薄饼，抹满蒜泥酱 toum、加腌黄瓜和薯条，蒜味浓郁，是店里最出名的单品。", "tags": ["招牌"] },
+          { "name": "牛肉沙威玛卷", "original": "Meat Shawarma شاورما لحم", "desc": "腌牛肉烤片卷饼，配芝麻酱和洋葱欧芹。" }
+        ]
+      },
+      {
+        "title": "小馅饼与前菜",
+        "titleEn": "Pies & Mezze",
+        "items": [
+          { "name": "肉末馅饼", "original": "Meat Pie فطيرة لحم", "desc": "类似土耳其薄饼 lahmacun，面饼铺香料肉末烤脆。", "tags": ["推荐"] },
+          { "name": "菠菜三角饼", "original": "Spinach Fatayer فطيرة سبانخ", "desc": "菠菜洋葱加漆树粉的三角馅饼，微酸。", "tags": ["素"] },
+          { "name": "奶酪蜂蜜饼", "original": "Cheese & Honey Pie", "desc": "奶酪饼淋蜂蜜，咸甜搭配，适合早餐。" },
+          { "name": "扎阿塔尔香草饼", "original": "Zaatar Pie فطيرة زعتر", "desc": "百里香、芝麻、漆树粉混合香料加橄榄油烤的饼。", "tags": ["素"] },
+          { "name": "法拉费", "original": "Falafel فلافل", "desc": "鹰嘴豆/蚕豆泥加香草炸成的丸子，外脆内软。", "tags": ["素"] },
+          { "name": "烤茄子泥", "original": "Baba Ghanoush بابا غنوج", "desc": "炭烤茄子泥拌番茄、欧芹和石榴，烟熏清爽。", "tags": ["素"] }
+        ]
+      },
+      {
+        "title": "饮品",
+        "titleEn": "Juices",
+        "items": [
+          { "name": "鲜榨石榴汁", "original": "Pomegranate Juice عصير رمان", "desc": "现榨石榴汁，酸甜，配沙威玛的经典组合。", "tags": ["推荐"] },
+          { "name": "鳄梨奶昔", "original": "Avocado Juice عصير أفوكادو", "desc": "牛油果加牛奶打成的浓稠奶昔，常加蜂蜜和坚果，中东果汁店招牌。" }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.theworlds50best.com/discovery/Establishments/Saudi-Arabia/Riyadh/Mama-Noura.html",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d2024551-Reviews-Mama_Noura-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "brew92-tahlia",
+    "name": "Brew92 精品咖啡",
+    "nameEn": "Brew92",
+    "kind": "eat",
+    "category": "cafe",
+    "tags": ["连锁", "适合工作", "可打包"],
+    "rating": 4.3,
+    "price": 1,
+    "district": "奥拉亚 Olaya",
+    "address": "Prince Mohammed Bin Abdulaziz Rd (Tahlia St) 一带；全城多家分店",
+    "lat": 24.6975,
+    "lng": 46.6850,
+    "summary": "沙特本土精品咖啡代表，名字来自 92°C 的萃取温度",
+    "description": "Brew92 是沙特本土成长起来的精品咖啡品牌，名字取自其认为最理想的 92°C 冲煮温度，坚持 100% 精品级阿拉比卡豆，咖啡师训练扎实。在利雅得有多家分店，常年出现在各类“利雅得最佳咖啡馆”榜单上，手冲和意式都稳定。",
+    "highlights": ["手冲单品豆", "西班牙拿铁", "分店多、出品稳定"],
+    "tips": ["坐标为 Tahlia 街/奥拉亚一带，出发前请在地图上搜最近分店", "工作日上午人较少，适合办公"],
+    "menu": [
+      {
+        "title": "咖啡",
+        "titleEn": "Coffee",
+        "items": [
+          { "name": "V60 手冲", "original": "V60 Pour Over", "desc": "用 V60 滤杯手冲单一产区豆，风味清晰，可让咖啡师推荐当季豆子。", "tags": ["推荐"] },
+          { "name": "西班牙拿铁", "original": "Spanish Latte", "desc": "沙特咖啡馆最流行的饮品：浓缩咖啡加牛奶和炼乳，甜而顺滑，冰饮热饮都有。", "tags": ["推荐"] },
+          { "name": "可塔朵", "original": "Cortado", "desc": "浓缩与等量热牛奶，小杯、咖啡味浓。" },
+          { "name": "馥芮白", "original": "Flat White", "desc": "双份浓缩配薄奶泡，比拿铁更浓。" },
+          { "name": "冷萃", "original": "Cold Brew", "desc": "冷水长时间浸泡萃取，低酸顺口，夏天必备。" },
+          { "name": "沙特咖啡", "original": "Saudi Coffee قهوة سعودية", "desc": "浅烘豆加豆蔻、藏红花煮成的淡色咖啡，常配椰枣，很多本地精品店都提供。" }
+        ]
+      },
+      {
+        "title": "甜点烘焙",
+        "titleEn": "Bakery",
+        "items": [
+          { "name": "可颂", "original": "Croissant", "desc": "黄油可颂，常见原味、巧克力或开心果口味。" },
+          { "name": "曲奇", "original": "Cookie", "desc": "大块软心曲奇，配手冲很合适。" },
+          { "name": "巴斯克芝士蛋糕", "original": "San Sebastian Cheesecake", "desc": "表面烤焦、内里流心的芝士蛋糕，利雅得咖啡馆的人气甜点。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-riyadh-coffee-shops",
+      "https://sandytimes.ae/articles/2519/brewing-up-a-storm-best-cafes-in-riyadh-for-coffee-lovers"
+    ]
+  },
+  {
+    "id": "boss-co-roastery",
+    "name": "BOSS.CO 烘焙咖啡馆",
+    "nameEn": "BOSS.CO Roastery",
+    "kind": "eat",
+    "category": "cafe",
+    "tags": ["自家烘焙", "适合工作"],
+    "rating": 4.1,
+    "price": 1,
+    "district": "奥拉亚 Olaya",
+    "address": "Al Olaya, Riyadh（精确位置请以地图为准）",
+    "lat": 24.6935,
+    "lng": 46.6860,
+    "summary": "奥拉亚的烘焙坊式咖啡馆，墙绘明快、主打单品豆",
+    "description": "BOSS.CO 是以自家烘焙为核心的精品咖啡馆，位于奥拉亚区，空间简洁明亮、墙面有壁画。主打哥伦比亚、乌干达等单一产区豆的手冲，适合想认真喝一杯咖啡的人。",
+    "highlights": ["自家烘焙单品豆", "手冲选择多"],
+    "tips": ["坐标为奥拉亚区中心，出发前请在地图上确认门店位置"],
+    "menu": [
+      {
+        "title": "咖啡",
+        "titleEn": "Coffee",
+        "items": [
+          { "name": "单品手冲", "original": "Single Origin Filter", "desc": "可选哥伦比亚、乌干达等产区豆，展现产地风味（果酸、花香或坚果调）。", "tags": ["推荐"] },
+          { "name": "浓缩咖啡", "original": "Espresso", "desc": "小杯高浓度萃取，最能体现烘焙水平。" },
+          { "name": "西班牙拿铁", "original": "Spanish Latte", "desc": "浓缩加牛奶和炼乳，甜而顺滑。" },
+          { "name": "冰拿铁", "original": "Iced Latte", "desc": "冰牛奶加浓缩，利雅得夏天最常点。" },
+          { "name": "冷萃", "original": "Cold Brew", "desc": "冷泡长时间萃取，低酸顺口。" }
+        ]
+      },
+      {
+        "title": "甜点",
+        "titleEn": "Sweets",
+        "items": [
+          { "name": "香蕉面包", "original": "Banana Bread", "desc": "湿润的香蕉磅蛋糕，配咖啡。" },
+          { "name": "曲奇", "original": "Cookie", "desc": "软心大曲奇。" },
+          { "name": "芝士蛋糕", "original": "Cheesecake", "desc": "咖啡馆常备甜点。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-riyadh-coffee-shops"
+    ]
+  },
+  {
+    "id": "five-elephants-yasmin",
+    "name": "五头象 Five Elephants（柏林咖啡与蛋糕）",
+    "nameEn": "Five Elephants",
+    "kind": "eat",
+    "category": "cafe",
+    "tags": ["适合约会", "甜品"],
+    "rating": 4.2,
+    "price": 1,
+    "district": "亚斯敏 Al Yasmin",
+    "address": "Al Yasmin, Riyadh（精确位置请以地图为准）",
+    "lat": 24.8290,
+    "lng": 46.6420,
+    "summary": "柏林名店的利雅得分店，芝士蛋糕是招牌",
+    "description": "Five Elephants 源自柏林，以浅烘精品咖啡和一款广受好评的纽约芝士蛋糕闻名。利雅得店位于北部亚斯敏区，空间简约时髦，是北利雅得喝咖啡吃蛋糕的好去处。",
+    "highlights": ["招牌芝士蛋糕", "浅烘手冲"],
+    "tips": ["坐标为亚斯敏区中心，出发前请在地图上确认门店位置"],
+    "menu": [
+      {
+        "title": "咖啡",
+        "titleEn": "Coffee",
+        "items": [
+          { "name": "手冲咖啡", "original": "Filter Coffee", "desc": "浅烘单品豆手冲，果酸明亮、风味干净。", "tags": ["推荐"] },
+          { "name": "馥芮白", "original": "Flat White", "desc": "双份浓缩配细腻奶泡。" },
+          { "name": "卡布奇诺", "original": "Cappuccino", "desc": "浓缩、牛奶、厚奶泡各三分之一。" },
+          { "name": "冰拿铁", "original": "Iced Latte", "desc": "冰牛奶加浓缩。" }
+        ]
+      },
+      {
+        "title": "蛋糕",
+        "titleEn": "Cakes",
+        "items": [
+          { "name": "芝士蛋糕", "original": "Cheesecake", "desc": "品牌招牌，浓郁绵密、底部酥脆，来店必点。", "tags": ["招牌"] },
+          { "name": "胡萝卜蛋糕", "original": "Carrot Cake", "desc": "加香料和坚果的胡萝卜蛋糕，配奶油奶酪霜。" },
+          { "name": "布朗尼", "original": "Brownie", "desc": "浓郁巧克力布朗尼。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.daymarkcoffeeguide.com/cities/coffee-shops-in-riyadh"
+    ]
+  },
+  {
+    "id": "twenty-grams",
+    "name": "Twenty Grams 二十克咖啡",
+    "nameEn": "Twenty Grams",
+    "kind": "eat",
+    "category": "cafe",
+    "tags": ["适合工作", "可打包"],
+    "rating": 4.0,
+    "price": 1,
+    "district": "马利克·费萨尔区 King Faisal District",
+    "address": "King Faisal District, Riyadh（精确位置请以地图为准）",
+    "lat": 24.7600,
+    "lng": 46.7600,
+    "summary": "东利雅得的社区精品咖啡馆",
+    "description": "Twenty Grams 位于东利雅得的国王费萨尔区，名字来自一杯浓缩常用的约 20 克粉量，是东边少有的受咖啡指南推荐的精品咖啡店。住在东区或去机场路方向时可以顺路。",
+    "highlights": ["东利雅得的精品咖啡选择", "意式与手冲"],
+    "tips": ["坐标为区域中心，出发前请在地图上确认门店位置"],
+    "menu": [
+      {
+        "title": "咖啡",
+        "titleEn": "Coffee",
+        "items": [
+          { "name": "浓缩咖啡", "original": "Espresso", "desc": "约 20 克粉萃取的双份浓缩。" },
+          { "name": "西班牙拿铁", "original": "Spanish Latte", "desc": "浓缩加炼乳和牛奶，甜而顺滑，沙特最受欢迎的咖啡饮品。", "tags": ["推荐"] },
+          { "name": "V60 手冲", "original": "V60", "desc": "单品豆手冲，风味清晰。" },
+          { "name": "冷萃", "original": "Cold Brew", "desc": "冷泡萃取，低酸顺口。" },
+          { "name": "沙特咖啡", "original": "Saudi Coffee قهوة سعودية", "desc": "浅烘豆加豆蔻煮成的淡色咖啡，常配椰枣。" }
+        ]
+      },
+      {
+        "title": "小食",
+        "titleEn": "Bites",
+        "items": [
+          { "name": "可颂", "original": "Croissant", "desc": "黄油可颂。" },
+          { "name": "曲奇", "original": "Cookie", "desc": "软心曲奇。" },
+          { "name": "椰枣", "original": "Dates تمر", "desc": "配沙特咖啡的椰枣，甜而软糯。" }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.daymarkcoffeeguide.com/cities/coffee-shops-in-riyadh"
+    ]
+  }
+]

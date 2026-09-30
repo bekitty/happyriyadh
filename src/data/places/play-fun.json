@@ -1,1 +1,1015 @@
-[]
+[
+  {
+    "id": "six-flags-qiddiya-city",
+    "name": "盖迪亚六旗乐园",
+    "nameEn": "Six Flags Qiddiya City",
+    "nameAr": "سيكس فلاغز مدينة القدية",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["刺激项目", "亲子", "户外", "一日游", "需预约", "拍照"],
+    "rating": 4.7,
+    "price": 4,
+    "priceNote": "单日票 325 SAR 起（12 岁及以上）；0-3 岁免费；五人家庭套票 1,200 SAR",
+    "district": "盖迪亚 Qiddiya",
+    "address": "Qiddiya City, 利雅得西南约 40 分钟车程",
+    "lat": 24.5888,
+    "lng": 46.3327,
+    "summary": "六旗首座北美以外乐园，坐拥世界最高最快过山车",
+    "description": "六旗盖迪亚于 2025 年 12 月 31 日正式开业，是六旗品牌在北美以外的第一座乐园，占地约 79 英亩、拥有 28 个游乐设施。园区以中央城堡为核心，辐射出未来都市风的「惊险之城」、蒸汽朋克风的「蒸汽镇」、适合小朋友的「暮光花园」和遗迹探险主题的「财富谷」等六大主题区。镇园之宝 Falcons Flight 同时打破世界最高、最快、最长过山车三项纪录，是全球过山车迷的朝圣地。",
+    "highlights": [
+      "Falcons Flight 猎鹰之翼：世界最高、最快、最长过山车",
+      "蒸汽镇的 Iron Rattler 过山车",
+      "财富谷的 Spitfire 过山车",
+      "暮光花园：低龄儿童友好的家庭游乐区"
+    ],
+    "tips": [
+      "距市区约 40 分钟车程，需自驾或打车，建议一早出发玩满一天",
+      "旺季、周末和节假日务必提前在官网或 Platinumlist 等平台购票",
+      "户外暴晒明显，夏季请备防晒、帽子和水；冬季（11-3 月）体验最佳",
+      "残障人士及陪同、保姆可购 75 SAR 优惠票",
+      "营业时间随季节调整，出发前以官网为准"
+    ],
+    "hours": "随季节变化，以官网公布为准",
+    "website": "https://qiddiya.com/qiddiya-city/assets/sixflags/",
+    "duration": "一整天",
+    "season": "全年开放，10 月至次年 3 月天气最舒适",
+    "sources": [
+      "https://www.coaster101.com/2026/01/02/six-flags-qiddiya-city-grand-opening/",
+      "https://www.timeoutriyadh.com/news/six-flags-qiddiya-city-tickets",
+      "https://en.wikipedia.org/wiki/Six_Flags_Qiddiya_City"
+    ]
+  },
+  {
+    "id": "aquarabia-qiddiya-city",
+    "name": "盖迪亚阿奎阿拉伯水上乐园",
+    "nameEn": "Aquarabia Qiddiya City",
+    "nameAr": "أكواربيا مدينة القدية",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["亲子", "户外", "刺激项目", "一日游", "需预约"],
+    "rating": 4.5,
+    "price": 4,
+    "priceNote": "成人线上 275 SAR 起（现场 325 SAR），4-11 岁 200 SAR 起，0-3 岁免费；周五女士日成人 270 SAR",
+    "district": "盖迪亚 Qiddiya",
+    "address": "Qiddiya City，紧邻六旗乐园",
+    "lat": 24.585,
+    "lng": 46.345,
+    "summary": "中东最大水上主题乐园，四项世界纪录滑道",
+    "description": "Aquarabia 于 2026 年 4 月 23 日正式开业，占地超过 25 万平方米，号称中东最大的水上主题乐园。园区分为八个以沙特本土野生动物和地貌为灵感的主题区，共有 22 个水上项目（含 4 项打破世界纪录的设施）及 7 个陆地项目。园内有 24 家餐饮店和 7 家商店，可以一次玩一整天。",
+    "highlights": [
+      "四项打破世界纪录的超级滑道",
+      "八大沙特自然主题分区，造景拍照出片",
+      "AquaFast Pass 快速通道，旺日省排队时间"
+    ],
+    "tips": [
+      "每周五为女士日：仅限女性及 8 岁以下儿童入园，男士和 8 岁及以上男孩不能进入",
+      "线上购票比现场便宜约 50 SAR，建议提前在官网或 Platinumlist 购买",
+      "需穿着规定的泳装（沙特场所一般要求较保守的款式），出发前查看官网着装要求",
+      "12:00-20:00 营业，夏季正午紫外线极强，注意防晒补水"
+    ],
+    "hours": "每日 12:00-20:00（周五为女士日）",
+    "duration": "半天至一天",
+    "season": "全年开放，4-10 月最适合玩水",
+    "sources": [
+      "https://qiddiya.com/press-room/aquarabia-qiddiya-city-officially-welcomes-visitors-/",
+      "https://ksaexpats.com/aquarabia-qiddiya-city-ticket-prices-rides-dress-code/",
+      "https://www.arabianbusiness.com/business/tourism-hospitality/saudi-arabia-to-open-aquarabia-qiddiya-city-middle-easts-largest-water-park-on-april-23"
+    ]
+  },
+  {
+    "id": "boulevard-world",
+    "name": "林荫大道世界",
+    "nameEn": "Boulevard World",
+    "nameAr": "بوليفارد وورلد",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["季节限定", "夜游", "拍照", "亲子", "美食广场", "需预约", "户外"],
+    "rating": 4.5,
+    "price": 1,
+    "priceNote": "2025 季门票工作日 30 SAR、周末 40 SAR，部分游乐项目另收费",
+    "district": "希廷 Hittin",
+    "address": "Prince Turki Ibn Abdulaziz Al Awwal Rd, Hittin",
+    "lat": 24.784,
+    "lng": 46.598,
+    "summary": "一晚环游世界：各国主题街区＋人工湖游船",
+    "description": "林荫大道世界是利雅得季的王牌园区，把日本、中国、摩洛哥、意大利、印度等十多个国家与地区的建筑、美食和表演集中在一个园区里。园区中央是巨大的人工湖，可以坐船在各「国家」之间穿梭。2026 季官方已确认回归，并新增荷兰、葡萄牙和也门三个国家馆。",
+    "highlights": [
+      "人工湖游船，在各国家馆之间穿梭",
+      "各国家馆的街头小吃和民俗表演",
+      "园内 BattleKart 互动卡丁车等额外项目",
+      "夜晚灯光和烟花时段最出片"
+    ],
+    "tips": [
+      "通过 webook.com 或现场购票，周末和节假日人多，建议工作日前往",
+      "傍晚开园，建议 17:00 前后入园看日落再逛夜景",
+      "园区很大，穿好走的鞋；部分游乐项目需单独购票",
+      "2026 季具体开放日期和票价以利雅得季官网为准（2025 季为 10/11 开放至次年 5/2）"
+    ],
+    "hours": "2025 季参考：周日至周三 16:00-24:00，周四至周六 16:00-次日 01:00",
+    "website": "https://riyadhseason.com/en/zones/boulevard-world-rs25",
+    "duration": "4-5 小时",
+    "season": "利雅得季期间开放（通常 10 月至次年春季）；2026 季随利雅得季 10 月下旬开启",
+    "sources": [
+      "https://riyadhseason.com/en/zones/boulevard-world-rs25",
+      "https://gulfnews.com/world/gulf/saudi/riyadh-season-2026-to-begin-on-october-21-with-10-weeks-of-entertainment-1.500689955",
+      "https://en.wikipedia.org/wiki/Boulevard_World"
+    ]
+  },
+  {
+    "id": "snow-city-riyadh",
+    "name": "雪城室内滑雪乐园",
+    "nameEn": "Snow City Riyadh",
+    "nameAr": "سنو سيتي",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["室内", "亲子", "避暑"],
+    "rating": 3.9,
+    "price": 2,
+    "priceNote": "基础套餐约 120-140 SAR（含雪服雪鞋），VIP 160 SAR；周二常有 99 SAR 优惠",
+    "district": "拉布瓦 Al Rabwa",
+    "address": "Al Othaim Mall, Al Rabwa",
+    "lat": 24.696,
+    "lng": 46.776,
+    "summary": "沙漠里玩真雪，夏天避暑的亲子好去处",
+    "description": "雪城位于拉布瓦的奥赛姆购物中心内，是利雅得老牌的室内冰雪乐园，常年保持零下温度。园内有雪坡滑道、雪橇、冰雕和雪地游乐区，对从没见过雪的本地孩子和想在盛夏「秒入冬」的家庭都很有吸引力。规模不算大，但作为商场里的半日活动性价比不错。",
+    "highlights": [
+      "雪橇滑道与雪地游乐区",
+      "冰雕造景拍照",
+      "套票含雪服雪鞋，无需自带装备"
+    ],
+    "tips": [
+      "套票通常含外套和鞋，手套、帽子要看套餐，建议自带手套和厚袜子",
+      "一般以 3 小时为一场，周末和夏季假期人多",
+      "可在 Ootlah、Platinumlist 等平台找折扣票",
+      "价格和营业时间以现场为准"
+    ],
+    "hours": "随商场营业时间，以现场为准",
+    "duration": "2-3 小时",
+    "season": "全年开放，夏季避暑首选",
+    "sources": [
+      "https://www.ootlah.com/en/sa-things-to-do-riyadh-province-riyadh-snow-city.html",
+      "https://soulofsaudi.com/snow-city-othaim-mall/",
+      "https://www.tripadvisor.com/Attraction_Review-g293995-d20069324-Reviews-Snow_City-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "sparkys-panorama-mall",
+    "name": "Sparky's 室内游乐场（全景购物中心店）",
+    "nameEn": "Sparky's Panorama Mall",
+    "nameAr": "سباركيز",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["室内", "亲子", "购物"],
+    "rating": 3.7,
+    "price": 1,
+    "priceNote": "游戏卡充值制，按项目扣费",
+    "district": "瓦鲁德 Al Wurud",
+    "address": "Panorama Mall, Tahlia St",
+    "lat": 24.6927,
+    "lng": 46.6697,
+    "summary": "本地连锁室内游乐场，商场里遛娃最方便",
+    "description": "Sparky's 是沙特本地连锁的室内家庭娱乐中心，在利雅得的全景、纳希勒、萨拉姆、哈姆拉等商场都有分店。全景购物中心店规模较大，有室内小过山车、电玩街机、保龄球、激光枪战和 3D 游戏等项目。适合逛街时顺便带孩子消耗体力，或者天热时的室内备选。",
+    "highlights": [
+      "室内家庭过山车和儿童骑乘项目",
+      "电玩街机与抓娃娃机",
+      "保龄球、激光枪战等大孩子也能玩的项目"
+    ],
+    "tips": [
+      "采用充值游戏卡，按项目扣费，可先少充再补",
+      "周末晚上人多，工作日下午相对清净",
+      "其他分店：Al Nakheel Mall、Salaam Mall、Al Hamra Mall 等，可就近选择"
+    ],
+    "hours": "随商场营业时间，通常下午至午夜",
+    "duration": "1-3 小时",
+    "season": "全年",
+    "sources": [
+      "https://www.themeparkjames.co.uk/theme-parks/middle-east/saudi-arabia/sparkys-panorama-mall/",
+      "https://funlandia.com/sparky-at-panorama-mall/"
+    ]
+  },
+  {
+    "id": "superpark-riyadh-hayat-mall",
+    "name": "SuperPark 芬兰运动乐园（哈亚特购物中心）",
+    "nameEn": "SuperPark Riyadh (Hayat Mall)",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["室内", "亲子", "运动"],
+    "rating": 4.2,
+    "price": 2,
+    "priceNote": "1 小时 90 SAR、2 小时 130 SAR、不限时 170 SAR、幼儿区 120 SAR",
+    "district": "努兹哈 Al Nuzhah",
+    "address": "Hayat Mall 1 层 7 号门",
+    "lat": 24.7433,
+    "lng": 46.68,
+    "summary": "芬兰品牌室内运动乐园，蹦床滑索一票玩",
+    "description": "SuperPark 源自芬兰，是以「全家一起动起来」为理念的室内运动乐园。哈亚特购物中心店设有滑梯山、蹦床、滑索、脚踏车赛道、磁力积木等多个分区，大人也能一起玩。一票制不限项目，比按次收费的游乐场更适合精力旺盛的孩子。",
+    "highlights": [
+      "滑梯山 Sliding Mountain",
+      "室内滑索和蹦床区",
+      "脚踏卡丁车赛道",
+      "低龄幼儿专区"
+    ],
+    "tips": [
+      "需穿防滑袜，可现场购买",
+      "周四、周五营业到凌晨 1 点，适合晚间放电",
+      "Khurais 另有分店，票务可在 superpark.sa 或 Platinumlist 预订"
+    ],
+    "hours": "10:00-23:00（周四 10:00-01:00，周五 13:00-01:00）",
+    "website": "https://superpark.sa/ticket-info/",
+    "duration": "2-3 小时",
+    "season": "全年",
+    "sources": [
+      "https://superpark.sa/ticket-info/",
+      "https://www.timeoutriyadh.com/attractions/superpark-riyadh"
+    ]
+  },
+  {
+    "id": "battlekart-riyadh-game-on",
+    "name": "BattleKart 互动卡丁车（Game On 店）",
+    "nameEn": "BattleKart Riyadh – Game On",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["室内", "刺激项目", "朋友聚会", "需预约"],
+    "rating": 4.3,
+    "price": 2,
+    "priceNote": "单场 120 SAR，第二场 70 SAR，之后每场 60 SAR；深夜场 79 SAR",
+    "district": "伊什比利亚 Ishbiliyah",
+    "address": "3112 Al Bahar Al Arabi, Ishbiliyah",
+    "lat": 24.79,
+    "lng": 46.795,
+    "summary": "像打电游一样开卡丁车，投影赛道能发导弹",
+    "description": "BattleKart 把电动卡丁车和增强现实结合：赛道由投影生成，开车时可以拾取道具、发射「火箭」攻击对手，玩法像真人版马里奥赛车。利雅得的 Game On 店位于东北部伊什比利亚区，设有多种游戏模式，每场约 15 分钟。利雅得季期间林荫大道世界内也有分店。",
+    "highlights": [
+      "投影 AR 赛道，每场模式不同",
+      "可攻击对手的道具对战玩法",
+      "朋友、同事团建首选"
+    ],
+    "tips": [
+      "建议提前在官网或 Platinumlist 预约时段",
+      "连玩多场单价递减，深夜场更便宜",
+      "对身高有要求，带孩子前先查官网规定"
+    ],
+    "website": "https://www.battlekart.com/en/riyadh",
+    "duration": "1-2 小时",
+    "season": "全年",
+    "sources": [
+      "https://www.battlekart.com/en/riyadh",
+      "https://www.timeoutriyadh.com/things-to-do/battle-kart-riyadh"
+    ]
+  },
+  {
+    "id": "funxtreme-karting-dirab",
+    "name": "FunXtreme 户外卡丁车场（迪拉卜）",
+    "nameEn": "FunXtreme Karting",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["户外", "刺激项目", "夜游"],
+    "rating": 4.1,
+    "price": 2,
+    "priceNote": "卡丁车约 90 SAR 起；卡丁车+越野车+射箭套餐约 199 SAR（团购价）",
+    "district": "迪拉卜 Dirab",
+    "address": "Jabal Ajyad Rd, Dahiat Namar（Dirab Park）",
+    "lat": 24.495,
+    "lng": 46.64,
+    "summary": "约 1.5 公里户外赛道，傍晚开跑最爽",
+    "description": "FunXtreme 位于利雅得西南郊的迪拉卜，拥有约 1.5 公里长的户外卡丁车赛道，是利雅得少有的专业级户外场地。提供 9 至 13 马力不同档位的卡丁车，新手和老手都能找到合适的车型。场地傍晚开门、营业到深夜，避开了白天的高温。",
+    "highlights": [
+      "约 1.5 公里户外专业赛道",
+      "按水平选择不同马力卡丁车",
+      "夜间灯光赛道"
+    ],
+    "tips": [
+      "距市中心约 30-40 分钟车程，需自驾或打车",
+      "夏季即使晚上也较热，建议 10 月至次年 4 月前往",
+      "营业时间与价格以官方社交媒体为准；坐标为大致位置"
+    ],
+    "hours": "约 17:00-01:00",
+    "duration": "1-2 小时",
+    "season": "全年，10-4 月体验最佳",
+    "sources": [
+      "https://www.racefacer.com/en/karting-tracks/saudi-arabia/funxtreme",
+      "https://www.tripadvisor.com/Attraction_Review-g293995-d10067067-Reviews-FunXtreme-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "bounce-riyadh",
+    "name": "Bounce 蹦床公园",
+    "nameEn": "BOUNCE Riyadh",
+    "kind": "play",
+    "category": "themepark",
+    "tags": ["室内", "亲子", "运动"],
+    "rating": 4.0,
+    "price": 2,
+    "priceNote": "1 小时 89 SAR、2 小时 139 SAR、不限时 179 SAR",
+    "district": "劳达 Ar Rawdah",
+    "address": "4466 Khurais Br Rd, Ar Rawdah",
+    "lat": 24.725,
+    "lng": 46.768,
+    "summary": "利雅得最大蹦床馆，躲避球灌篮忍者赛道",
+    "description": "Bounce 位于东区劳达的 Khurais 路上，面积约 3,500 平方米，是利雅得规模最大的蹦床场馆。除了整面墙的连片蹦床，还有躲避球场、蹦床灌篮、忍者障碍赛道等挑战项目。适合青少年和大人一起出汗。",
+    "highlights": [
+      "连片自由蹦床区",
+      "蹦床灌篮和躲避球",
+      "忍者障碍挑战赛道"
+    ],
+    "tips": [
+      "需穿专用防滑袜",
+      "价格与营业时间可能调整，出发前查看 bounce.sa",
+      "Cobone 等团购平台常有折扣"
+    ],
+    "hours": "约 14:00-22:00（以官网为准）",
+    "website": "https://www.bounce.sa",
+    "duration": "1-2 小时",
+    "season": "全年",
+    "sources": [
+      "https://www.cobone.com/en/deals/activities-riyadh/1-general-access-bounce-ksa/183122",
+      "https://www.thisisriyadh.com/en/3023/this-trampoline-park-in-riyadh-will-bring-out-your-inner-child"
+    ]
+  },
+  {
+    "id": "king-abdullah-park-malaz",
+    "name": "阿卜杜拉国王公园（马拉兹）",
+    "nameEn": "King Abdullah Park (Malaz)",
+    "nameAr": "حديقة الملك عبدالله بالملز",
+    "kind": "play",
+    "category": "park",
+    "tags": ["户外", "亲子", "夜游", "拍照"],
+    "rating": 4.0,
+    "price": 1,
+    "priceNote": "门票约 10 SAR，儿童约 5 SAR（各来源略有出入）",
+    "district": "马拉兹 Al Malaz",
+    "address": "Al Malaz",
+    "lat": 24.6642,
+    "lng": 46.7372,
+    "summary": "市中心大型公园，晚间音乐喷泉灯光秀",
+    "description": "阿卜杜拉国王公园位于老城区马拉兹，是利雅得市中心最受欢迎的家庭公园之一。园内有大片草坪、步道和儿童游乐区，最出名的是晚上的音乐喷泉，配合彩色灯光和激光表演。傍晚来散步野餐、等喷泉开演，是很地道的利雅得生活方式。",
+    "highlights": [
+      "晚间音乐喷泉与激光灯光秀",
+      "大草坪野餐",
+      "儿童游乐区"
+    ],
+    "tips": [
+      "喷泉一般在傍晚 6 点后开演，时间不固定，斋月期间更晚",
+      "据报道周日闭园维护，出发前确认",
+      "周末晚上家庭游客多，停车较紧张"
+    ],
+    "hours": "约 13:00-24:00（周日可能闭园维护）",
+    "duration": "1-2 小时",
+    "season": "10 月至次年 4 月傍晚最舒适",
+    "sources": [
+      "https://destinationksa.com/en/a-visit-to-king-abdullah-malaz-park-riyadh/",
+      "https://khaleejblog.com/king-abdullah-park-riyadh/"
+    ]
+  },
+  {
+    "id": "salam-park",
+    "name": "萨拉姆公园",
+    "nameEn": "Salam Park",
+    "nameAr": "منتزه سلام",
+    "kind": "play",
+    "category": "park",
+    "tags": ["户外", "亲子", "拍照"],
+    "rating": 4.1,
+    "price": 1,
+    "priceNote": "门票约 5 SAR；3 岁以下及残障人士免费",
+    "district": "迪拉 Ad Dirah",
+    "address": "Salam Park, 利雅得市中心南部",
+    "lat": 24.624,
+    "lng": 46.7103,
+    "summary": "市中心湖景公园，棕榈与湖心喷泉",
+    "description": "萨拉姆公园位于老城区南侧，原为私人果园，改建后成为利雅得市中心少见的大型湖景公园。园内有人工湖、湖心喷泉、成片的棕榈树和果树，以及步道和儿童游乐设施。离马斯马克堡等老城景点不远，可以串联半日游。",
+    "highlights": [
+      "人工湖和湖心喷泉",
+      "棕榈林荫步道",
+      "夜晚灯光倒影"
+    ],
+    "tips": [
+      "各来源营业时间不一致，出发前最好电话或查地图确认",
+      "可与马斯马克堡、国家博物馆串联游玩",
+      "夏季白天酷热，傍晚后再去"
+    ],
+    "hours": "下午至深夜（各来源不一，以现场为准）",
+    "duration": "1-2 小时",
+    "season": "10 月至次年 4 月",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salam_Park",
+      "https://khaleejblog.com/salam-park-riyadh/"
+    ]
+  },
+  {
+    "id": "riyadh-zoo",
+    "name": "利雅得动物园",
+    "nameEn": "Riyadh Zoo",
+    "nameAr": "حديقة حيوان الرياض",
+    "kind": "play",
+    "category": "park",
+    "tags": ["亲子", "户外", "需预约"],
+    "rating": 4.0,
+    "price": 0,
+    "priceNote": "2025 利雅得季期间免费入园，但需在 webook 预约",
+    "district": "马拉兹 Al Malaz",
+    "address": "Al Malaz",
+    "lat": 24.6704,
+    "lng": 46.7262,
+    "summary": "翻新重开的城市动物园，看长颈鹿喂大象",
+    "description": "利雅得动物园位于马拉兹，占地约 16 万平方米，翻新后作为 2025 利雅得季的园区重新开放。园内有 1,600 多只动物，分为六个仿自然栖息地的展区，新增了大象体验区和带高架观景台的长颈鹿与非洲动物展区。每天还有动物喂食、教育工作坊以及马戏和魔术表演。",
+    "highlights": [
+      "长颈鹿高架观景台",
+      "大象体验",
+      "动物喂食与每日现场表演"
+    ],
+    "tips": [
+      "即使免费也需提前在 webook.com 预约门票",
+      "白天开放（约 9:00-17:00），夏季建议一开门就去",
+      "2026 季之后的票价与开放安排以官方为准"
+    ],
+    "hours": "约 9:00-17:00",
+    "website": "https://riyadhzoo.ncw.gov.sa/english/book-ticket/",
+    "duration": "2-3 小时",
+    "season": "全年，冬季最舒适",
+    "sources": [
+      "https://www.listmag.com/en/see-do/events-entertainment/riyadh-zoo-reopens-with-free-admission-for-riyadh-season-2025-4031",
+      "https://www.arabnews.com/node/2623661/saudi-arabia"
+    ]
+  },
+  {
+    "id": "wadi-namar-park",
+    "name": "纳马尔谷湖公园",
+    "nameEn": "Wadi Namar Park (Lake Park)",
+    "nameAr": "وادي نمار",
+    "kind": "play",
+    "category": "park",
+    "tags": ["免费", "户外", "拍照", "夜游"],
+    "rating": 4.2,
+    "price": 0,
+    "district": "纳马尔 Namar",
+    "address": "Wadi Namar, 利雅得西南",
+    "lat": 24.569,
+    "lng": 46.669,
+    "summary": "水坝湖泊加夜间人工瀑布，免费野餐胜地",
+    "description": "纳马尔谷位于利雅得西南，由一座约 2 公里长的水坝围成湖泊，四周是岩山、棕榈步道和绿地。湖边有滨湖步道和野餐区，中间一道人工瀑布傍晚后开启，夜里打灯后尤其好看。周末本地家庭会来烧烤野餐，是免费又有氛围的城市绿洲。",
+    "highlights": [
+      "傍晚 6 点后开启的人工瀑布",
+      "环湖步道，适合跑步骑行",
+      "湖边喂鸭、野餐"
+    ],
+    "tips": [
+      "入园免费",
+      "周末人很多，想安静建议工作日傍晚",
+      "瀑布夜景最佳，可带相机三脚架"
+    ],
+    "hours": "全天开放（瀑布傍晚后开启）",
+    "duration": "1-2 小时",
+    "season": "10 月至次年 4 月",
+    "sources": [
+      "https://www.arabnews.com/node/1505651/saudi-arabia",
+      "https://www.lonelyplanet.com/saudi-arabia/riyadh/attractions/wadi-namar/a/poi-sig/1601522/361148",
+      "https://destinationksa.com/en/wadi-namar-waterfall/"
+    ]
+  },
+  {
+    "id": "sports-boulevard-wadi-hanifah",
+    "name": "体育大道（哈尼法谷段）",
+    "nameEn": "Sports Boulevard – Wadi Hanifah",
+    "nameAr": "المسار الرياضي",
+    "kind": "play",
+    "category": "park",
+    "tags": ["免费", "户外", "运动", "拍照"],
+    "rating": 4.3,
+    "price": 0,
+    "district": "哈尼法谷 Wadi Hanifah",
+    "address": "Wadi Hanifah，Al-Olab 水坝至吉达路",
+    "lat": 24.743,
+    "lng": 46.625,
+    "summary": "城市级绿道，跑步骑行骑马都能来",
+    "description": "体育大道是利雅得横贯全城的大型绿道项目，第一阶段于 2025 年 2 月 27 日开放，包含哈尼法谷段、滨水步道、骑行桥、努拉公主大学环线和沙地运动公园一期等五个区域。其中哈尼法谷段长约 13.4 公里，从北部的 Al-Olab 水坝延伸到南部吉达路，途经德拉伊耶门，设有步行道、骑行道、马道和休憩区。位于 King Khalid 路与 Prince Mohammed bin Salman 路交汇处的骑行桥是地标，1 公里步行道与 771 米骑行道分层设置。",
+    "highlights": [
+      "13.4 公里哈尼法谷绿道",
+      "地标骑行桥",
+      "沿途可串联德拉伊耶"
+    ],
+    "tips": [
+      "免费开放，适合清晨或日落后运动",
+      "夏季白天气温极高，避开 10:00-17:00",
+      "项目仍在分期建设，部分路段可能封闭，以官网为准；坐标为骑行桥附近大致位置"
+    ],
+    "website": "https://sportsboulevard.sa/en/press-release-opening-phase",
+    "duration": "1-3 小时",
+    "season": "10 月至次年 4 月最佳",
+    "sources": [
+      "https://sportsboulevard.sa/en/press-release-opening-phase",
+      "https://en.wikipedia.org/wiki/Sports_Boulevard"
+    ]
+  },
+  {
+    "id": "diplomatic-quarter-parks",
+    "name": "外交区公园与步道",
+    "nameEn": "Diplomatic Quarter Parks & Trails",
+    "nameAr": "حي السفارات",
+    "kind": "play",
+    "category": "park",
+    "tags": ["免费", "户外", "拍照", "运动"],
+    "rating": 4.2,
+    "price": 0,
+    "district": "外交区 Diplomatic Quarter",
+    "address": "Diplomatic Quarter",
+    "lat": 24.685,
+    "lng": 46.623,
+    "summary": "悬崖俯瞰哈尼法谷，利雅得最美散步路线",
+    "description": "外交区有 16 座大小公园，另有一片约 24 万平方米的北部公共公园，由约 15 公里的环形步道串联。步道沿着哈尼法谷边缘的悬崖展开，可以看到谷地、绿植和岩壁。新手推荐从图韦克宫走到 8 号环岛，约 45 分钟，途经三个公园，沿途有洗手间和出口。",
+    "highlights": [
+      "图韦克宫至 8 号环岛经典步道",
+      "悬崖边俯瞰哈尼法谷日落",
+      "安静整洁的街区公园"
+    ],
+    "tips": [
+      "进入外交区需经过检查站，携带身份证件",
+      "图韦克宫本身自 2022 年起不对公众开放",
+      "清晨和傍晚最适合散步跑步"
+    ],
+    "hours": "全天（以检查站放行为准）",
+    "duration": "1-2 小时",
+    "season": "10 月至次年 4 月",
+    "sources": [
+      "https://dqliving.com/the-hidden-happy-trails-at-the-diplomatic-quarter/",
+      "https://en.wikipedia.org/wiki/Diplomatic_Quarter_(Riyadh)",
+      "https://en.wikipedia.org/wiki/Tuwaiq_Palace"
+    ]
+  },
+  {
+    "id": "king-salman-park",
+    "name": "萨勒曼国王公园（建设中）",
+    "nameEn": "King Salman Park",
+    "nameAr": "حديقة الملك سلمان",
+    "kind": "play",
+    "category": "park",
+    "tags": ["户外", "即将开放"],
+    "rating": 3.5,
+    "price": 0,
+    "district": "旧机场 Old Airport",
+    "address": "原利雅得空军基地旧址",
+    "lat": 24.72,
+    "lng": 46.725,
+    "summary": "世界级超大城市公园，预计 2026 年底起分期开放",
+    "description": "萨勒曼国王公园建在利雅得旧机场（原空军基地）地块上，占地约 16.6 平方公里，规模约为纽约中央公园的五倍。规划有艺术园区、皇家艺术综合体、上百万棵树和仿照阿拉伯半岛干河谷设计的林荫谷地，并连接 5 个地铁站。截至 2026 年 9 月底仍在筹备分阶段软开放，官方计划 2026 年底首批区域开放、2027 年大部分完工。",
+    "highlights": [
+      "未来的艺术公园区与皇家艺术综合体",
+      "干河谷式林荫步道",
+      "地铁直达的城市中央绿肺"
+    ],
+    "tips": [
+      "截至 2026 年 9 月尚未正式对公众开放，请关注官方公告",
+      "开放后预计可乘地铁前往",
+      "开放信息以官网为准"
+    ],
+    "duration": "开放后建议半天",
+    "season": "预计 2026 年底起分期开放",
+    "sources": [
+      "https://www.meed.com/king-salman-park-prepares-for-soft-opening",
+      "https://www.archdaily.com/1038859/king-salman-park-advances-toward-2026-opening-on-former-riyadh-airbase"
+    ]
+  },
+  {
+    "id": "via-riyadh",
+    "name": "VIA 利雅得",
+    "nameEn": "VIA Riyadh",
+    "nameAr": "فيا رياض",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["购物", "拍照", "夜游", "奢华"],
+    "rating": 4.5,
+    "price": 4,
+    "district": "哈达 Al Hada",
+    "address": "Al Hada，紧邻丽思卡尔顿酒店",
+    "lat": 24.6676,
+    "lng": 46.6269,
+    "summary": "纳吉迪建筑风奢华街区，号称全球最豪华影院",
+    "description": "VIA 利雅得于 2023 年 5 月开业，是一座以纳吉迪传统建筑风格打造的奢华综合街区，紧邻丽思卡尔顿酒店。这里聚集了高端时装品牌、名厨餐厅、咖啡馆和豪车展厅。VOX 的 Renaissance 影院拥有七个主题影厅和私人包厢，被称为「世界最豪华的电影院」。",
+    "highlights": [
+      "VOX Renaissance 奢华主题影院",
+      "高端餐厅与露台咖啡",
+      "夜晚灯光下的纳吉迪风格建筑"
+    ],
+    "tips": [
+      "着装以体面整洁为宜",
+      "热门餐厅建议提前预订",
+      "利雅得季期间曾有 Ana Arabia 展览等活动在此举办"
+    ],
+    "duration": "2-4 小时",
+    "season": "全年，冬季夜晚最舒适",
+    "sources": [
+      "https://en.wikipedia.org/wiki/VIA_Riyadh",
+      "https://www.timeoutriyadh.com/things-to-do/via-riyadh-cinema"
+    ]
+  },
+  {
+    "id": "riyadh-park-mall",
+    "name": "利雅得公园购物中心",
+    "nameEn": "Riyadh Park",
+    "nameAr": "الرياض بارك",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["购物", "美食广场", "室内", "亲子"],
+    "rating": 4.2,
+    "price": 2,
+    "district": "阿基克 Al Aqiq",
+    "address": "Northern Ring Rd, Al Aqiq",
+    "lat": 24.7557,
+    "lng": 46.63,
+    "summary": "北环路大型商场，室内花园风，吃逛看电影一站式",
+    "description": "利雅得公园位于北环路旁，是北部最受欢迎的大型商场之一，室内采用花园式设计，采光明亮。商场品牌齐全，餐饮选择多，还有影院和儿童娱乐区。适合天热时一家人全天候吃喝逛。",
+    "highlights": [
+      "花园风中庭",
+      "多样餐饮与影院",
+      "儿童娱乐设施"
+    ],
+    "tips": [
+      "周末晚上停车场较满，尽量早到",
+      "离 KAFD、林荫大道城都不远，可顺路串联"
+    ],
+    "hours": "约 10:00-24:00（周末更晚）",
+    "website": "https://riyadhpark.net/en/",
+    "duration": "2-4 小时",
+    "season": "全年",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Riyadh_Park",
+      "https://riyadhpark.net/en/"
+    ]
+  },
+  {
+    "id": "kingdom-centre",
+    "name": "王国中心（天空之桥）",
+    "nameEn": "Kingdom Centre & Sky Bridge",
+    "nameAr": "برج المملكة",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["购物", "拍照", "夜游", "地标"],
+    "rating": 4.4,
+    "price": 2,
+    "priceNote": "天空之桥成人约 60-70 SAR，儿童约 20-25 SAR（各平台报价不一）",
+    "district": "奥拉亚 Olaya",
+    "address": "King Fahd Rd, Olaya",
+    "lat": 24.7113,
+    "lng": 46.6744,
+    "summary": "开瓶器造型地标，高空天桥俯瞰全城夜景",
+    "description": "王国中心是利雅得最具辨识度的地标之一，顶部的「开瓶器」镂空造型中横跨着一座约 300 米高的天空之桥。塔楼底部是高端购物中心，品牌齐全。傍晚上天桥看日落转夜景，是来利雅得必做的一件事。",
+    "highlights": [
+      "天空之桥 300 米高空观景",
+      "日落至夜景时段",
+      "底层高端购物中心"
+    ],
+    "tips": [
+      "天空之桥约 12:00-23:00 开放，日落前 30 分钟到最好",
+      "票可现场或线上购买，价格以现场为准",
+      "奥拉亚区周边餐厅多，可顺便吃饭"
+    ],
+    "hours": "天空之桥约 12:00-23:00",
+    "duration": "1.5-3 小时",
+    "season": "全年",
+    "sources": [
+      "https://www.getyourguide.com/kingdom-center-sky-bridge-l239671/",
+      "https://www.tripadvisor.com/Attraction_Review-g293995-d675824-Reviews-Kingdom_Centre_Tower-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "al-nakheel-mall",
+    "name": "纳希勒购物中心",
+    "nameEn": "Al Nakheel Mall",
+    "nameAr": "النخيل مول",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["购物", "美食广场", "室内", "亲子"],
+    "rating": 4.0,
+    "price": 2,
+    "district": "穆格里扎特 Al Mughrizat",
+    "address": "Imam Saud Ibn Abdulaziz Rd",
+    "lat": 24.7687,
+    "lng": 46.7112,
+    "summary": "北部老牌家庭商场，品牌全、有 Sparky's",
+    "description": "纳希勒购物中心是利雅得北部老牌的家庭型商场，大众品牌、超市、美食广场一应俱全。商场内有 Sparky's 室内游乐场，适合带孩子。整体氛围轻松，是本地家庭周末常去的地方。",
+    "highlights": [
+      "大众时尚品牌集中",
+      "美食广场",
+      "Sparky's 儿童游乐"
+    ],
+    "tips": [
+      "周末晚上人流大",
+      "适合日常采购与带娃"
+    ],
+    "duration": "2-3 小时",
+    "season": "全年",
+    "sources": [
+      "https://mindtrip.ai/attraction/riyadh/sparkys/at-YGnUB6fm",
+      "https://www.hotels.com/go/saudi-arabia/best-shopping-malls-riyadh"
+    ]
+  },
+  {
+    "id": "riyadh-front",
+    "name": "利雅得前沿",
+    "nameEn": "Riyadh Front",
+    "nameAr": "واجهة الرياض",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["购物", "户外", "美食广场", "夜游"],
+    "rating": 3.9,
+    "price": 2,
+    "district": "机场路 Airport Rd",
+    "address": "Airport Rd，距哈立德国王机场约 10 分钟",
+    "lat": 24.847,
+    "lng": 46.733,
+    "summary": "机场路开放式街区，18 厅影院和维珍游戏库",
+    "description": "利雅得前沿位于机场路，由商务区、会展中心和购物娱乐区组成，购物娱乐区于 2019 年开放。约 200 家商户以户外街区形式排布，有 18 个厅的影院和号称中东最大的维珍游戏库。离机场近，适合接送机前后顺路逛逛。",
+    "highlights": [
+      "开放式街区漫步",
+      "18 厅影院",
+      "维珍游戏库"
+    ],
+    "tips": [
+      "户外街区夏季白天较热，建议傍晚后前往",
+      "会展中心常有展会，届时周边交通拥堵"
+    ],
+    "duration": "2-3 小时",
+    "season": "10 月至次年 4 月傍晚最舒适",
+    "sources": [
+      "https://saudipedia.com/en/riyadh-front",
+      "https://rfecc.sa/getting-here/"
+    ]
+  },
+  {
+    "id": "panorama-mall",
+    "name": "全景购物中心",
+    "nameEn": "Panorama Mall",
+    "nameAr": "بانوراما مول",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["购物", "室内", "亲子", "美食广场"],
+    "rating": 3.9,
+    "price": 2,
+    "district": "瓦鲁德 Al Wurud",
+    "address": "Tahlia St",
+    "lat": 24.6927,
+    "lng": 46.6697,
+    "summary": "市中心塔利亚街旁商场，内有大型 Sparky's",
+    "description": "全景购物中心位于市中心塔利亚街附近，是奥拉亚一带交通便利的老牌商场。商场内有品牌店、餐饮和大型 Sparky's 室内游乐场（带过山车、保龄球和激光枪战）。逛完还能步行去塔利亚街喝咖啡。",
+    "highlights": [
+      "Sparky's 室内游乐场",
+      "中高端品牌集中",
+      "毗邻塔利亚街"
+    ],
+    "tips": [
+      "可与塔利亚街、王国中心串联",
+      "晚上人多，停车需耐心"
+    ],
+    "duration": "2-3 小时",
+    "season": "全年",
+    "sources": [
+      "https://funlandia.com/sparky-at-panorama-mall/",
+      "https://www.themeparkjames.co.uk/theme-parks/middle-east/saudi-arabia/sparkys-panorama-mall/"
+    ]
+  },
+  {
+    "id": "kafd",
+    "name": "阿卜杜拉国王金融区",
+    "nameEn": "King Abdullah Financial District (KAFD)",
+    "nameAr": "مركز الملك عبدالله المالي",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["拍照", "夜游", "免费", "美食"],
+    "rating": 4.3,
+    "price": 2,
+    "district": "金融区 KAFD",
+    "address": "King Abdullah Financial District",
+    "lat": 24.764,
+    "lng": 46.64,
+    "summary": "未来感摩天楼群，步行街区吃喝拍照",
+    "description": "阿卜杜拉国王金融区是利雅得的新 CBD，摩天楼群造型前卫，夜景极具未来感。区内有步行友好的街区、空中连廊、咖啡店和餐厅，周末和晚上人气旺。地铁站本身就是扎哈·哈迪德事务所设计的建筑地标，值得专门来拍。",
+    "highlights": [
+      "扎哈·哈迪德设计的 KAFD 地铁站",
+      "摩天楼夜景",
+      "街区咖啡与餐厅"
+    ],
+    "tips": [
+      "乘利雅得地铁可直达，免去找停车位",
+      "工作日白天以上班族为主，晚上和周末更有逛街氛围"
+    ],
+    "duration": "2-3 小时",
+    "season": "全年，冬季夜晚最佳",
+    "sources": [
+      "https://en.wikipedia.org/wiki/King_Abdullah_Financial_District"
+    ]
+  },
+  {
+    "id": "tahlia-street",
+    "name": "塔利亚街",
+    "nameEn": "Tahlia Street (Prince Mohammed bin Abdulaziz Rd)",
+    "nameAr": "شارع التحلية",
+    "kind": "play",
+    "category": "mall",
+    "tags": ["免费", "夜游", "购物", "美食"],
+    "rating": 4.0,
+    "price": 2,
+    "district": "奥拉亚 Olaya",
+    "address": "Prince Mohammed bin Abdulaziz Rd",
+    "lat": 24.696,
+    "lng": 46.685,
+    "summary": "利雅得最潮的夜间街道，咖啡店与餐厅林立",
+    "description": "塔利亚街正式名称为穆罕默德·本·阿卜杜勒阿齐兹亲王路，是利雅得最有名的「压马路」街道。两侧是连锁与精品咖啡馆、国际餐厅和品牌店，晚上车流和人流不断，本地年轻人很喜欢在这里兜风、喝咖啡。适合晚饭后散步感受城市夜生活。",
+    "highlights": [
+      "夜晚街边咖啡馆",
+      "各国餐厅集中",
+      "本地年轻人的夜生活"
+    ],
+    "tips": [
+      "晚上 9 点后最热闹",
+      "路边停车位紧张，建议打车",
+      "可串联全景购物中心和王国中心"
+    ],
+    "hours": "商户多营业至午夜后",
+    "duration": "1-3 小时",
+    "season": "全年，冬季夜晚最舒适",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tahlia_Street"
+    ]
+  },
+  {
+    "id": "riyadh-season-2026",
+    "name": "利雅得季 2026",
+    "nameEn": "Riyadh Season 2026",
+    "nameAr": "موسم الرياض",
+    "kind": "play",
+    "category": "show",
+    "tags": ["季节限定", "夜游", "亲子", "需预约", "演出"],
+    "rating": 4.6,
+    "price": 2,
+    "district": "全城多园区",
+    "address": "林荫大道城、林荫大道世界、VIA 利雅得等多个园区",
+    "lat": 24.772,
+    "lng": 46.6,
+    "summary": "10 月 21 日开幕，全城狂欢的年度娱乐季",
+    "description": "利雅得季是沙特规模最大的年度娱乐季，第七届（2026）官方宣布于 10 月 21 日开幕，核心节目为期约 10 周。已确认的园区包括林荫大道世界（新增荷兰、葡萄牙、也门国家馆）、林荫大道城、奇迹花园、The Groves、农夫市集以及 VIA 利雅得的 Ana Arabia 展览。赛事方面有拳击、摔角、UFC 和六王网球大满贯（Six Kings Slam，10 月 21、22、24 日），另有大量演唱会、戏剧、脱口秀和亲子活动。",
+    "highlights": [
+      "林荫大道世界：新增三个国家馆",
+      "Six Kings Slam 网球表演赛（辛纳、阿尔卡拉斯、德约科维奇等）",
+      "拳击、WWE、UFC 等顶级赛事",
+      "阿拉伯及国际歌手演唱会"
+    ],
+    "tips": [
+      "门票统一在 webook.com 或利雅得季官方 App 购买，热门赛事开票即售罄",
+      "各园区开放日期不一，部分园区可能延续到 2027 年初，以官方公布为准",
+      "周末晚上交通极拥堵，尽量打车或提早出发",
+      "着装得体，进入园区需安检"
+    ],
+    "website": "https://riyadhseason.com",
+    "duration": "按园区而定，单园区 3-5 小时",
+    "season": "2026-10-21 起（官方称核心节目约 10 周）",
+    "sources": [
+      "https://gulfnews.com/world/gulf/saudi/riyadh-season-2026-to-begin-on-october-21-with-10-weeks-of-entertainment-1.500689955",
+      "https://saudigazette.com.sa/article/664911/saudi-arabia/riyadh-season-2026-to-kick-off-on-october-21",
+      "https://www.netflix.com/tudum/articles/six-kings-slam-tennis-riyadh-season-2026"
+    ]
+  },
+  {
+    "id": "boulevard-city",
+    "name": "林荫大道城",
+    "nameEn": "Boulevard Riyadh City",
+    "nameAr": "بوليفارد رياض سيتي",
+    "kind": "play",
+    "category": "show",
+    "tags": ["季节限定", "夜游", "免费", "演出", "美食", "拍照"],
+    "rating": 4.4,
+    "price": 1,
+    "priceNote": "2025 季园区免费入场，演出与部分体验另购票",
+    "district": "希廷 Hittin",
+    "address": "Hittin, Riyadh 13516",
+    "lat": 24.769,
+    "lng": 46.601,
+    "summary": "利雅得季主舞台，演唱会剧场和主题体验集中地",
+    "description": "林荫大道城是利雅得季的心脏园区，大道两侧是餐厅、咖啡馆、剧场和演出场馆，灯光布景华丽。2025 季园区免费入场，内有 20 多项体验（如 Play-Topia、Poppy Playtime、Funko、Minecraft、招魂宇宙之旅、飞越沙特等），并举办数十场演唱会、戏剧和脱口秀。2026 季官方已确认以全新内容回归。",
+    "highlights": [
+      "主舞台演唱会与戏剧",
+      "IP 主题沉浸体验",
+      "大道夜景与美食"
+    ],
+    "tips": [
+      "园区通常免费，演出和体验需在 webook.com 另购票",
+      "周末晚上非常拥挤，建议工作日前往",
+      "与林荫大道世界相邻，可同晚串联"
+    ],
+    "hours": "利雅得季期间傍晚至深夜",
+    "duration": "3-4 小时",
+    "season": "利雅得季期间（2026 季 10 月下旬起）",
+    "sources": [
+      "https://destinationksa.com/en/boulevard-city/",
+      "https://www.timeoutriyadh.com/riyadh-season/free-zones-in-riyadh-season",
+      "https://gulfnews.com/world/gulf/saudi/riyadh-season-2026-to-begin-on-october-21-with-10-weeks-of-entertainment-1.500689955"
+    ]
+  },
+  {
+    "id": "wonder-garden",
+    "name": "奇迹花园",
+    "nameEn": "Wonder Garden",
+    "nameAr": "وندر جاردن",
+    "kind": "play",
+    "category": "show",
+    "tags": ["季节限定", "亲子", "夜游", "需预约", "户外"],
+    "rating": 4.0,
+    "price": 1,
+    "priceNote": "2024 季门票工作日 25 SAR、周末 50 SAR",
+    "district": "盖拉万 Al Qirawan（以 2024 季为参考）",
+    "address": "2026 季地点以官方公布为准",
+    "lat": 24.835,
+    "lng": 46.605,
+    "summary": "花园主题游乐园，蝴蝶馆和泡泡花园",
+    "description": "奇迹花园是利雅得季的花园主题游乐园区，2024 季设有「花神」区的泡泡花园、有上千只蝴蝶的蝴蝶馆和丛林探险区的黑暗花园等，共 10 项新体验和 90 多个游戏项目。2026 季官方已确认回归，提供多种游乐设施和活动。适合带小朋友傍晚来玩。",
+    "highlights": [
+      "蝴蝶馆：上千只蝴蝶",
+      "泡泡花园",
+      "游乐设施与游戏摊位"
+    ],
+    "tips": [
+      "门票通过 webook.com 购买",
+      "2026 季开放日期、地点和票价尚未完全公布，以官方为准；坐标为 2024 季所在区域大致位置",
+      "傍晚开园，周末人多"
+    ],
+    "hours": "2024 季参考：工作日 17:00-24:00，周末 16:00-24:00",
+    "duration": "2-3 小时",
+    "season": "利雅得季期间（2026 季 10 月下旬后陆续开放）",
+    "sources": [
+      "https://www.listmag.com/en/see-and-do/events-and-entertainment/your-guide-wonder-garden-riyadh-season",
+      "https://www.arabnews.com/node/2577084/saudi-arabia",
+      "https://gulfnews.com/world/gulf/saudi/riyadh-season-2026-to-begin-on-october-21-with-10-weeks-of-entertainment-1.500689955"
+    ]
+  },
+  {
+    "id": "diriyah-season",
+    "name": "德拉伊耶季（夜宴德拉伊耶）",
+    "nameEn": "Diriyah Season & Layali Diriyah",
+    "nameAr": "موسم الدرعية",
+    "kind": "play",
+    "category": "show",
+    "tags": ["季节限定", "夜游", "拍照", "文化", "美食"],
+    "rating": 4.5,
+    "price": 2,
+    "priceNote": "非免费期巴吉里露台 17:00 后门票 50 SAR，可抵餐厅消费",
+    "district": "德拉伊耶 Diriyah",
+    "address": "At-Turaif & Bujairi Terrace, Diriyah",
+    "lat": 24.7349,
+    "lng": 46.5748,
+    "summary": "世界遗产古城里的冬季文化节与夜市",
+    "description": "德拉伊耶季在联合国世界遗产图赖夫古城和巴吉里露台一带举办，2025-26 季从 2025 年 11 月 1 日持续到 2026 年 3 月 23 日。节目包括讲故事节、季节市集 Souq Al-Mawsim、谷地音乐夜 Sada Al-Wadi，以及人气最高的「夜宴德拉伊耶」Layali Diriyah（户外餐饮、音乐与艺术，营业到凌晨）。泥砖古城在夜灯下非常出片。",
+    "highlights": [
+      "Layali Diriyah 户外夜市与现场音乐",
+      "图赖夫古城夜景",
+      "巴吉里露台餐厅群"
+    ],
+    "tips": [
+      "2026-27 季日期截至 2026 年 9 月尚未公布，通常 11 月开幕、次年 3 月结束，以官方为准",
+      "2026 年 5-9 月巴吉里露台免费开放；其他时段 17:00 后需购票（可抵餐费）",
+      "晚间活动持续到凌晨，周末更晚"
+    ],
+    "website": "https://www.diriyah.sa/season/layali-diriyah",
+    "duration": "3-4 小时",
+    "season": "通常 11 月至次年 3 月（2025-26 季：2025/11/1-2026/3/23）",
+    "sources": [
+      "https://www.visitsaudi.com/en/seasons/diriyah-season",
+      "https://destinationksa.com/en/diriyah-season/",
+      "https://www.diriyah.sa/en/bujairi-terrace"
+    ]
+  },
+  {
+    "id": "mdlbeast-soundstorm-2026",
+    "name": "MDLBEAST 声暴音乐节 2026",
+    "nameEn": "MDLBEAST Soundstorm 2026",
+    "nameAr": "ساوندستورم",
+    "kind": "play",
+    "category": "show",
+    "tags": ["季节限定", "演出", "夜游", "需预约", "户外"],
+    "rating": 4.4,
+    "price": 4,
+    "priceNote": "门票 269 SAR 起",
+    "district": "班班 Banban",
+    "address": "Banban Grounds，利雅得北郊",
+    "lat": 24.96,
+    "lng": 46.58,
+    "summary": "中东最大电音节，12 月 3-4 日在班班",
+    "description": "声暴音乐节是 MDLBEAST 的旗舰电音节，也是中东规模最大的音乐节之一，每年吸引数十万乐迷。第七届定于 2026 年 12 月 3-4 日在利雅得北郊的班班场地举行，多个舞台同时开唱，汇集国际顶级 DJ 与阿拉伯本土音乐人。",
+    "highlights": [
+      "国际顶级 DJ 阵容",
+      "多舞台同时演出",
+      "沙漠边的超大户外场地"
+    ],
+    "tips": [
+      "门票在 mdlbeast.com 官方购买，警惕二手票",
+      "场地距市中心约 35-40 分钟车程，散场打车困难，建议提前规划交通或关注官方接驳",
+      "12 月夜间气温较低，带外套；需穿舒适的鞋",
+      "个别来源称为 12 月 3-5 日，以官网为准；坐标为场地大致位置"
+    ],
+    "website": "https://mdlbeast.com/events/soundstorm-26",
+    "duration": "一晚",
+    "season": "2026-12-03 至 12-04",
+    "sources": [
+      "https://mdlbeast.com/events/soundstorm-26",
+      "https://whatsonsaudiarabia.com/2026/06/mdlbeast-soundstorm-2026-tickets/"
+    ]
+  }
+]
