@@ -19,12 +19,12 @@
     "address": "Bujairi Terrace, Diriyah, Riyadh",
     "lat": 24.7355,
     "lng": 46.575,
-    "summary": "米其林级粤菜名店，露台正对世界遗产图赖夫古城",
-    "description": "伦敦起家的高端现代粤菜品牌 Hakkasan，2022 年在德拉伊耶 Bujairi Terrace 开出利雅得店。菜系以广东菜为底，做法精致、摆盘讲究，点心和烤鸭是招牌。户外座位可以远眺联合国世界遗产 At-Turaif 泥砖古城，晚上灯光亮起后氛围极佳。",
+    "summary": "伦敦高端粤菜品牌，露台正对世界遗产图赖夫古城",
+    "description": "伦敦起家的高端现代粤菜品牌 Hakkasan（伦敦本店曾获米其林星），在德拉伊耶 Bujairi Terrace 开出利雅得店，是该区域开业后陆续入驻的餐厅之一。菜系以广东菜为底，做法精致、摆盘讲究，点心和烤鸭是招牌。户外座位可以远眺联合国世界遗产 At-Turaif 泥砖古城，晚上灯光亮起后氛围极佳。",
     "highlights": [
-      "招牌北京烤鸭（需提前预订，脆皮多汁）",
+      "招牌北京烤鸭（需提前预订）",
       "至尊点心拼盘（含金箔龙虾虾饺）",
-      "松露汁烤银鳕鱼",
+      "水晶玉帝王蟹 Royal King Crab",
       "黑蒜和牛",
       "脆皮鸭沙拉"
     ],
@@ -36,8 +36,10 @@
     "sources": [
       "https://www.zawya.com/en/business/hakkasan-to-open-at-saudi-diriyah-gates-premium-famp-b-destination-jleo3qfr",
       "https://whatsonsaudiarabia.com/2024/01/reasons-to-visit-hakkasan-at-bujairi-terrace/",
-      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-hakkasan-riyadh"
-    ]
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-hakkasan-riyadh",
+      "https://www.timeoutriyadh.com/restaurants/hakkasan"
+    ],
+    "hours": "每天 18:00-02:00（以官方为准）"
   },
   {
     "id": "hong-ritz-carlton",
@@ -76,44 +78,6 @@
     ]
   },
   {
-    "id": "mr-chow-kafd",
-    "name": "Mr Chow 周先生",
-    "nameEn": "Mr Chow Riyadh",
-    "kind": "eat",
-    "category": "chinese",
-    "tags": [
-      "需预约",
-      "商务宴请",
-      "适合约会",
-      "景观位"
-    ],
-    "rating": 4.4,
-    "price": 4,
-    "priceNote": "人均约 350-450 SAR（烤鸭 255 SAR）",
-    "district": "阿卜杜拉国王金融区 KAFD",
-    "address": "Bldg 2.09, Metro Blvd, KAFD, Al Aqiq",
-    "lat": 24.7628,
-    "lng": 46.6405,
-    "summary": "好莱坞明星常去的京味中餐，桌边片鸭、现场拉面",
-    "description": "源自伦敦、成名于比佛利山的传奇中餐品牌，2023 年 10 月在 KAFD 开出中东首店。两层楼的黑白经典装潢、白衣侍者、旋转楼梯，还有俯瞰金融区的露台。菜式偏北京风味的西式化中餐，重在仪式感与服务，价格不低。",
-    "highlights": [
-      "北京烤鸭 Beijing Duck（桌边片、配薄饼，约 255 SAR）",
-      "翡翠虾 Green Prawns",
-      "Mr Chow 招牌面（现场手拉面表演）",
-      "水饺 Water Dumplings",
-      "鸡肉生菜包"
-    ],
-    "tips": [
-      "仅晚餐营业为主，工作日有商务午餐可查询",
-      "着装建议稍正式，周末需提前订位"
-    ],
-    "website": "https://www.mrchow.com/location/riyadh/",
-    "sources": [
-      "https://www.arabnews.com/node/2499516/food-health",
-      "https://www.mrchow.com/location/riyadh/"
-    ]
-  },
-  {
     "id": "yauatcha-al-faisaliah",
     "name": "Yauatcha 游茶",
     "nameEn": "Yauatcha Riyadh",
@@ -142,9 +106,9 @@
     ],
     "tips": [
       "两人以上可点套餐最划算",
-      "周六至周四 12:00 开门，周五 13:00 开门，营业到 23:45"
+      "露台种着樱花树，可以看城市天际线，订位时可备注"
     ],
-    "hours": "周六至周四 12:00-23:45；周五 13:00-23:45",
+    "hours": "午市每天 12:00-16:00；晚市每天 16:00-23:30（以官方为准）",
     "sources": [
       "https://www.timeoutriyadh.com/restaurants/yauatcha",
       "https://www.arabnews.com/node/2614710/food-health",
@@ -170,13 +134,12 @@
     "lat": 24.7003,
     "lng": 46.6839,
     "summary": "Centria 商场里的精致中餐，点心和烤鸭口碑稳",
-    "description": "开在 Centria 商场二楼的高档亚洲餐厅，以现代中餐为主，兼有少量泰式菜。厨房团队来自伦敦高档中餐体系，出品精致、摆盘漂亮，服务评价很高。露台可以看奥拉亚街夜景；缺点是分量偏小、价格偏贵。",
+    "description": "开在 Centria 商场顶层的高档中餐，以现代手法演绎中餐，兼有泛亚洲风味。主厨团队为曾在伦敦高档餐厅工作的马来西亚厨师，点心单融合了新派食材，服务评价很高。有露台可以看奥拉亚街夜景；缺点是分量偏小、价格偏贵。",
     "highlights": [
-      "北京烤鸭",
-      "松露毛豆饺",
-      "蒙古牛肉（酱爆口味）",
-      "南瓜虾",
-      "腰果鸡丁"
+      "松露毛豆饺（利雅得吃货心头好）",
+      "智利鲈鱼饺",
+      "新派北京烤鸭",
+      "各式创意点心"
     ],
     "tips": [
       "每天 12:00-23:30 营业",
@@ -185,7 +148,9 @@
     "hours": "每天 12:00-23:30",
     "sources": [
       "https://www.opentable.com/r/hualan-al-muruj",
-      "https://www.tripadvisor.com/Restaurant_Review-g293995-d10792032-Reviews-Hualan-Riyadh_Riyadh_Province.html"
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d10792032-Reviews-Hualan-Riyadh_Riyadh_Province.html",
+      "https://dqliving.com/contemporary-chinese-cuisine-at-hualan/",
+      "https://www.timeoutriyadh.com/food-drink/best-dim-sum-in-riyadh"
     ]
   },
   {
@@ -217,12 +182,14 @@
     ],
     "tips": [
       "可以用微信、支付宝付款，对刚来的同胞很友好",
-      "HungerStation 等外卖平台可点"
+      "HungerStation 等外卖平台可点",
+      "电话 +966 53 551 9185"
     ],
     "sources": [
       "https://wanderboat.ai/restaurants/saudi-arabia/municipality-of-olaya/huayi-chinese-restaurant/EJ_LtwNXQa-xTTsdHmI8dQ",
       "https://news.qq.com/rain/a/20250602A05CIJ00",
-      "https://hungerstation.com/sa-en/restaurant/pasta/riyadh/namar/159490"
+      "https://hungerstation.com/sa-en/restaurant/pasta/riyadh/namar/159490",
+      "https://ananinja.com/sa/en/restaurants/huayi-chinese-38599"
     ]
   },
   {
@@ -243,20 +210,22 @@
     "address": "Tahlia St (Prince Mohammed bin Abdulaziz Rd), As Sulimaniyah",
     "lat": 24.7005,
     "lng": 46.677,
-    "summary": "塔里亚大街上的新疆馆，手工拉条子和烤串",
-    "description": "以丝路古城“楼兰”命名的新疆风味餐厅，开在利雅得最热闹的塔里亚大街上。门口有户外卧榻座位，店内水晶灯和整墙新疆乐器装饰很有特色。主打手工面食，兼有烤肉串和抓饭，清真口味也很受本地人欢迎。",
+    "summary": "塔里亚大街上的维吾尔风味馆，手工面是招牌",
+    "description": "以丝路古城“楼兰”命名的新疆维吾尔风味餐厅，开在利雅得最热闹的塔里亚大街上。门口有户外座位，店内水晶灯和整墙新疆乐器装饰很有特色，另有 VIP 包间。主打现做手工面，菜单还融合了一些中亚和土耳其风味，清真口味也很受本地人欢迎。",
     "highlights": [
-      "过油肉拌面 / 拉条子（手工拉面）",
-      "红柳烤羊肉串",
-      "新疆抓饭",
+      "手工拌面 / 拉条子（招牌，面条现拉）",
+      "烤羊肉串",
+      "抓饭",
       "大盘鸡"
     ],
     "tips": [
       "晚上户外座位很舒服，适合凉季",
-      "菜量较大，两三人点三四个菜足够"
+      "菜量较大，两三人点三四个菜足够；需要私密空间可订 VIP 包间",
+      "具体菜品以店内菜单为准"
     ],
     "sources": [
-      "https://news.qq.com/rain/a/20251130A04I8D00"
+      "https://news.qq.com/rain/a/20251130A04I8D00",
+      "https://www.tiktok.com/discover/uzbek-restaurant-in-riyadh"
     ]
   },
   {
@@ -274,11 +243,11 @@
     "price": 2,
     "priceNote": "自助火锅，人均约 100-150 SAR",
     "district": "希廷 Hittin",
-    "address": "Prince Mohammed Bin Abdulrahman Rd, Hittin",
+    "address": "Prince Mohammed Bin Abdulrahman Rd, Hittin (RRHB7732)",
     "lat": 24.764,
     "lng": 46.612,
     "summary": "重庆连锁火锅，自助选料，辣锅清汤都有",
-    "description": "在全球拥有 500 多家门店的重庆火锅连锁，利雅得店开在希廷区，面积很大。采用自助取料模式，虾、蟹、三文鱼、金枪鱼、各类菌菇和蔬菜任选，牛肉片自己涮到想要的熟度。店里还有换汉服拍照的角落，适合朋友和家庭聚餐。",
+    "description": "在全球拥有 500 多家门店的重庆火锅连锁，利雅得店开在希廷区，面积很大。采用自助取料模式，虾、蟹、三文鱼、金枪鱼、各类菌菇和蔬菜任选，饭后还有水果和中国茶。店里有换中式传统服装拍照的角落，适合朋友和家庭聚餐。",
     "highlights": [
       "麻辣牛油锅底（正宗川渝麻辣）",
       "鸳鸯锅（辣锅 + 清汤，适合带孩子）",
@@ -286,8 +255,8 @@
       "自助海鲜区（虾、蟹、三文鱼）"
     ],
     "tips": [
-      "不吃辣的朋友选清汤或番茄锅",
-      "周末晚上人多，建议电话预约：+966 51 056 0588"
+      "有辣锅和清汤可选，不吃辣的朋友选清汤",
+      "周末晚上人多，建议电话预约并确认营业：+966 51 056 0588"
     ],
     "sources": [
       "https://www.arabnews.com/node/2607773/food-health",
@@ -308,20 +277,21 @@
     "price": 2,
     "priceNote": "3-4 人约 200 SAR",
     "district": "奥拉亚 Olaya",
-    "address": "Al Mousa Center 3F, Olaya St, Al Olaya",
+    "address": "Al Mousa Center 2 号楼 2F, Olaya St, Al Olaya",
     "lat": 24.696,
     "lng": 46.686,
     "summary": "开了 30 多年的华人老店，牛肉面是招牌",
-    "description": "利雅得资历最老的中餐馆之一，由华人经营，已有三十多年历史，藏在奥拉亚街 Al Mousa 商场三楼。口味偏家常，调味平衡不油腻，分量大、价格合理，《阿拉伯新闻》2026 年 6 月还专门推荐过。华人圈里也常提到它的川味菜。",
+    "description": "利雅得资历最老的中餐馆之一，由华人经营，已有三十多年历史，藏在奥拉亚街 Al Mousa 商住中心二楼。口味偏家常，调味平衡、清爽不重口，分量大、价格合理，《阿拉伯新闻》近期专门推荐过。店员主要讲中文和阿拉伯语，只会英语沟通会稍费劲。",
     "highlights": [
-      "红烧牛肉面（招牌）",
-      "口水鸡",
-      "水煮牛肉",
-      "家常炒饭 / 炒面"
+      "牛肉面（招牌，阿拉伯新闻点名推荐）",
+      "家常牛肉 / 鸡肉炒菜",
+      "鱼类菜式",
+      "什锦蔬菜与汤羹"
     ],
     "tips": [
-      "入口不太好找：进 Al Mousa 商场后找办公楼电梯上三楼",
-      "电话 +966 11 464 5136"
+      "入口不太好找：在 Al Mousa 中心 2 号楼，上二楼",
+      "电话 +966 11 464 5136",
+      "分量大，适合多人分享"
     ],
     "sources": [
       "https://www.arabnews.com/node/2646564/food-health",
@@ -364,6 +334,206 @@
     "sources": [
       "https://locations.alshaya.com/p-f-chang-s/sa/riyadh/riyadh-park",
       "https://www.pfchangsme.com/en/storelocator/pfc-riyadh-park"
+    ]
+  },
+  {
+    "id": "nagoya-hotpot-ghirnatah",
+    "name": "NAGOYA 自助小火锅",
+    "nameEn": "NAGOYA Hotpot",
+    "kind": "eat",
+    "category": "chinese",
+    "tags": [
+      "自助",
+      "适合聚餐",
+      "家庭友好",
+      "性价比高"
+    ],
+    "rating": 4.2,
+    "price": 2,
+    "priceNote": "自助每人约 88 SAR（含饮料、冰淇淋）",
+    "district": "格拉纳达 Ghirnatah",
+    "address": "Al Imam Abdullah Bin Saud Bin Abdulaziz Branch Rd, Al Shuhada / Ghirnatah, Riyadh 13241",
+    "lat": 24.785,
+    "lng": 46.755,
+    "summary": "名字像日料，其实是一人一锅的中式自助小火锅",
+    "description": "虽然叫 Nagoya（名古屋），但这是一家中式自助小火锅，中文招牌就写着“自助小火锅”。每人一口小锅，4 种汤底、16 种蘸料调味，60 多种涮料随便拿，果汁汽水和软冰淇淋也不限量，近期还加了 20 多款新菜。位于城东格拉纳达一带，价格在利雅得火锅里很实惠。",
+    "highlights": [
+      "一人一锅，4 种汤底任选",
+      "16 种自调蘸料",
+      "60+ 种涮料（肉类、海鲜丸、蔬菜、面类）",
+      "饭后软冰淇淋"
+    ],
+    "tips": [
+      "中午 12:30 左右开门，出发前建议电话确认：+966 54 291 2559",
+      "价格以店内为准，社交媒体上多次提到 88 SAR / 人",
+      "在城东，离奥拉亚较远，适合顺路格拉纳达商场时去"
+    ],
+    "sources": [
+      "https://maps.yango.com/en-sa/org/nagoya_hotpot_/142643054012/",
+      "https://www.tiktok.com/@stunningleng/video/7500298057444035847",
+      "https://www.tiktok.com/@diazuto/video/7606732762229263624",
+      "https://restaurantguru.com/NAGOYA-Hotpot-%E8%87%AA%E5%8A%A9%E5%B0%8F%E7%81%AB%E9%94%85-Riyadh/menu"
+    ]
+  },
+  {
+    "id": "wemart-weasian-khurais",
+    "name": "温超 WEMART · WeAsian 美食城",
+    "nameEn": "WEMART & WeAsian Food Hall (Loong Hotpot)",
+    "nameAr": "وي مارت",
+    "kind": "eat",
+    "category": "chinese",
+    "tags": [
+      "华人超市",
+      "美食城",
+      "火锅",
+      "家庭友好",
+      "停车方便"
+    ],
+    "rating": 4.3,
+    "price": 2,
+    "priceNote": "美食城人均约 40-80 SAR；火锅另计",
+    "district": "马纳尔 Al Manar",
+    "address": "Khurais Square, Khurais Rd, Al Manar, Riyadh 14221",
+    "lat": 24.7361,
+    "lng": 46.7977,
+    "summary": "迪拜华人超市温超的沙特首店，超市＋美食城＋火锅",
+    "description": "“温超”就是迪拜起家的华人连锁超市 WEMART，2024 年 12 月 28 日在利雅得 Khurais Square 开出沙特首店，面积约 6000 平方米。一边是能买到国内蔬菜、调料和零食的大超市，另一边是 WeAsian 美食城，九个档口有中式小炒（Wok Inn）、粤菜点心（So Canton）、川味（Chuan）等；楼里还有 Loong 火锅和一家日韩烤肉。买菜、吃饭一站解决，是利雅得华人圈的新据点。",
+    "highlights": [
+      "Loong 火锅（辣锅 / 冬阴功 / 菌汤三选，双人套餐含牛羊肉、鲜面、虾和蔬菜）",
+      "So Canton 港式点心",
+      "Chuan 川味冒菜",
+      "Wok Inn 中式小炒"
+    ],
+    "tips": [
+      "导航搜 “WEMART & WeAsian” 即可，地面和地下都有停车场",
+      "吃完顺便在超市采购国内食材和调料",
+      "Loong 火锅饭后送柠檬水和香草冰淇淋；超市电话 +966 53 911 1755"
+    ],
+    "sources": [
+      "https://www.sohu.com/a/842931403_121124435",
+      "https://m.tech.china.com/hea/article/20241230/122024_1623963.html",
+      "https://news.qq.com/rain/a/20250502A0615K00",
+      "https://www.bizpreneurme.com/grand-opening-of-wemart-riyadh-store-leading-the-asian-wave-in-saudi-arabia/",
+      "https://www.tiktok.com/discover/loong-hot-pot-riyadh"
+    ]
+  },
+  {
+    "id": "shun-xin-lou-king-fahd",
+    "name": "顺鑫楼中餐馆",
+    "nameEn": "Shun Xin Lou Mandarin Restaurant",
+    "kind": "eat",
+    "category": "chinese",
+    "tags": [
+      "家庭友好",
+      "适合聚餐",
+      "包间",
+      "深夜营业"
+    ],
+    "rating": 4.2,
+    "price": 2,
+    "priceNote": "人均约 60-120 SAR",
+    "district": "法赫德国王区 King Fahd",
+    "address": "8588 Imam Saud Bin Abdulaziz Bin Mohammed Rd, King Fahd, Riyadh 12274",
+    "lat": 24.747,
+    "lng": 46.672,
+    "summary": "华人圈老牌口碑馆，包子饺子和家常菜都能打",
+    "description": "利雅得华人圈经常推荐的家常中餐馆，在本地食客中也很有人气，社交媒体上常被称作“利雅得最正宗的中餐”之一。菜单覆盖面点、炒菜和中式甜品，另有可容纳 4-12 人的 VIP 包间，适合同事聚餐。2026 年仍有不少新评价，个别菜口碑有起伏，点招牌更稳。",
+    "highlights": [
+      "包子 / 饺子（饺子好评最多）",
+      "红油抄手",
+      "咕噜肉",
+      "香酥葫芦鸡",
+      "炒牛肉"
+    ],
+    "tips": [
+      "营业时间 11:00-01:00，电话 0567973080",
+      "多人聚餐可提前订 VIP 包间"
+    ],
+    "hours": "每天 11:00-01:00",
+    "instagram": "https://www.instagram.com/shunxinlou/",
+    "sources": [
+      "https://www.tiktok.com/@shunxinlou/video/7383792852943310081",
+      "https://www.tiktok.com/@r2oomh1/video/7472426978793114898",
+      "https://meiguo.blog/2024/09/06/%F0%9F%87%B8%F0%9F%87%A6%E6%B2%99%E7%89%B9%E6%9C%80%E5%85%A8%E4%B8%AD%E9%A4%90%E5%8E%85%E5%90%8D%E5%8D%95%EF%BC%8C%E7%9C%8B%E8%BF%99%E5%B0%B1%E5%A4%9F%E5%95%A6%EF%BC%81/"
+    ]
+  },
+  {
+    "id": "jiangnange-olaya",
+    "name": "江南阁",
+    "nameEn": "Jiangnange",
+    "kind": "eat",
+    "category": "chinese",
+    "tags": [
+      "适合聚餐",
+      "家庭友好",
+      "商务宴请"
+    ],
+    "rating": 4.3,
+    "price": 2,
+    "priceNote": "人均约 100-150 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Abdullah Bin Sulaiman Al Hamdan St, Al Olaya (RHOA6534)",
+    "lat": 24.7016,
+    "lng": 46.6916,
+    "summary": "奥拉亚的两层新派中餐，烤鸭、点心、干锅都有",
+    "description": "开在奥拉亚的中餐馆，两层楼、落地窗、金色装饰，室内挂满绿植和灯笼，还有可拉帘子的半包间卡座。菜单是经典中餐：点心、北京烤鸭和上桌还滋滋作响的锅仔类菜式，适合分享。华人圈推荐它的滋补鸡汤和西湖牛肉羹，猫途鹰评价也高、价格不算贵。",
+    "highlights": [
+      "北京烤鸭（店家主推）",
+      "各式点心",
+      "滋补鸡汤",
+      "西湖牛肉羹",
+      "锅仔 / 干锅类菜"
+    ],
+    "tips": [
+      "每天 11:00-22:00，关门较早",
+      "6 人桌可拉帘子，适合家庭或小聚",
+      "电话 +966 571 92 9999，Instagram @jiangnange_sa"
+    ],
+    "hours": "每天 11:00-22:00",
+    "instagram": "https://www.instagram.com/jiangnange_sa/",
+    "sources": [
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/jiangnange-in-riyadh-brings-classic-chinese-to-a-contemporary-setting",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d33056366-Reviews-Jiangnange-Riyadh_Riyadh_Province.html",
+      "https://maps.yango.com/org/221798378338/"
+    ]
+  },
+  {
+    "id": "jade-room-malqa",
+    "name": "Jade Room 现代中餐",
+    "nameEn": "Jade Room",
+    "kind": "eat",
+    "category": "chinese",
+    "tags": [
+      "新店",
+      "适合约会",
+      "适合聚餐",
+      "深夜营业"
+    ],
+    "rating": 4.2,
+    "price": 3,
+    "priceNote": "人均约 150-250 SAR",
+    "district": "马勒卡 Al Malqa",
+    "address": "Prince Turki Bin Abdulaziz Al Awal Rd, Al Malqa, Riyadh 13523",
+    "lat": 24.806,
+    "lng": 46.618,
+    "summary": "2026 年新开的现代中餐，北边马勒卡的约会好去处",
+    "description": "2026 年 7 月在北部马勒卡开业的现代中餐厅，环境偏暗调、有格调，摆盘精致。Time Out 评价它“够隆重但不拘束”，菜单都是人见人爱的经典款，适合众口难调的聚餐。只做晚市，营业到深夜。",
+    "highlights": [
+      "脆皮鸡肉馄饨",
+      "鲜虾饺",
+      "蒜蓉辣椒海鲈鱼",
+      "湘味牛肉",
+      "海鲜炒面"
+    ],
+    "tips": [
+      "周六至周三 18:00-01:00，周四周五到 01:30",
+      "新店热度高，周末建议预订（Instagram @jaderoom.sa）"
+    ],
+    "hours": "周六至周三 18:00-01:00；周四、周五 18:00-01:30",
+    "instagram": "https://www.instagram.com/jaderoom.sa/",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/best-asian-restaurants-in-riyadh",
+      "https://www.timeoutriyadh.com/news/new-restaurants-in-riyadh-to-visit"
     ]
   },
   {
@@ -770,89 +940,94 @@
     "address": "King Abdullah Financial District (KAFD)",
     "lat": 24.7635,
     "lng": 46.6395,
-    "summary": "吉达人气 Nikkei 日秘融合料理，开进 KAFD",
-    "description": "Nikkei 是日本料理与秘鲁风味的融合菜系。Kuuru 原本在吉达很火，现在在 KAFD 开了利雅得店，Time Out 2026 日料榜高度推荐。餐厅挑高空间、开放式厨房，菜单有刺身、卷寿司、炭烤和适合分享的大盘菜。",
+    "summary": "吉达人气 Nikkei 日秘料理，FACT 2024 年度餐厅",
+    "description": "Nikkei 是日本料理与秘鲁风味的融合菜系。Kuuru 原本在吉达很火，2024 年初在 KAFD 开出利雅得店，被 FACT 评为 2024 年度餐厅，Time Out 2026 日料榜也高度推荐。菜单以适合分享的小盘为主，招牌是用本地鱼做的酸辣柠汁腌鱼和现场炙烤的握寿司。",
     "highlights": [
-      "秘鲁风味刺身（Tiradito）",
-      "创意卷寿司",
-      "炭烤类菜品"
+      "Kuuru 招牌柠汁腌鱼（本地 Najel 鱼、烟熏玉米、地瓜）",
+      "北海道扇贝松露 Tiradito",
+      "炙烤松露扇贝握寿司 Concha Trufada",
+      "中腹配鹅肝握寿司"
     ],
     "tips": [
-      "Nikkei 菜酸辣度较高，怕酸辣可提前询问",
-      "以下菜单为日秘料理常见菜，具体以店内菜单为准"
+      "Nikkei 菜酸度较高，怕酸可以先问服务员",
+      "小盘适合分享，多人同去能尝更多"
     ],
-    "menuSource": "typical",
+    "menuSource": "reported",
     "menu": [
       {
-        "title": "生食",
-        "titleEn": "Raw",
+        "title": "柠汁腌鱼与生鱼片",
+        "titleEn": "Ceviche & Tiradito",
         "items": [
           {
-            "name": "秘鲁式刺身",
-            "original": "Tiradito",
-            "desc": "薄切生鱼淋上青柠汁和秘鲁黄辣椒酱，酸辣清爽，Nikkei 招牌做法。",
+            "name": "Kuuru 招牌柠汁腌鱼",
+            "original": "Kuuru Ceviche",
+            "desc": "沙特本地 Najel 鱼配烟熏玉米、地瓜和香菜，淋 Nikkei 虎奶汁（leche de tigre），酸度明亮。",
             "tags": [
-              "推荐"
+              "招牌"
             ]
           },
           {
-            "name": "日式柠汁腌鱼",
-            "original": "Nikkei Ceviche",
-            "desc": "生鱼丁用青柠汁、酱油和辣椒腌制，配紫洋葱和玉米。"
-          },
-          {
-            "name": "刺身拼盘",
-            "original": "Sashimi Selection",
-            "desc": "当日鲜鱼切片，原味享受。"
-          }
-        ]
-      },
-      {
-        "title": "卷寿司",
-        "titleEn": "Maki",
-        "items": [
-          {
-            "name": "Acevichado 卷",
-            "original": "Acevichado Maki",
-            "desc": "卷寿司顶上淋柠汁腌鱼风味酱，Nikkei 经典卷。",
+            "name": "北海道扇贝 Tiradito",
+            "original": "Tiradito Hotate",
+            "desc": "北海道扇贝薄片配松露，秘鲁式生鱼片做法，口感柔滑。",
             "tags": [
               "推荐"
-            ]
-          },
-          {
-            "name": "辣金枪鱼卷",
-            "original": "Spicy Tuna Maki",
-            "desc": "金枪鱼碎拌辣味蛋黄酱卷成寿司。",
-            "tags": [
-              "辣"
             ]
           }
         ]
       },
       {
-        "title": "炭烤与主菜",
-        "titleEn": "Grill & Mains",
+        "title": "握寿司",
+        "titleEn": "Nigiri",
         "items": [
           {
-            "name": "秘鲁风味烤牛心串",
-            "original": "Anticucho",
-            "desc": "秘鲁街头烤串，以辣椒醋汁腌制后炭烤；常见做法用牛肉或鸡肉替代。"
+            "name": "松露扇贝握寿司",
+            "original": "Concha Trufada",
+            "desc": "扇贝配松露黄油、白松露油和青柠，桌边火枪炙烤。",
+            "tags": [
+              "招牌"
+            ]
           },
           {
-            "name": "味噌烤鳕鱼",
-            "original": "Miso Black Cod",
-            "desc": "甜味噌腌鳕鱼烤制，油润鲜甜。"
+            "name": "明太子鲜虾握寿司",
+            "original": "Langostino Karai",
+            "desc": "鲜虾配明太子酱和帕达诺芝士，同样现场炙烤。"
           },
           {
-            "name": "秘鲁炒牛柳",
-            "original": "Lomo Saltado",
-            "desc": "牛柳、番茄、洋葱加酱油大火快炒，秘鲁华人菜系代表。"
+            "name": "中腹鹅肝握寿司",
+            "original": "Chu-toro Foie Nigiri",
+            "desc": "金枪鱼中腹上铺煎鹅肝，油脂丰腴。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "Kuuru 握寿司品鉴",
+            "original": "Kuuru Nigiri Tasting",
+            "desc": "五贯组合，可能用到扇贝、三文鱼、和牛、鲜虾、章鱼、烟熏鳗鱼、鹅肝等。",
+            "tags": [
+              "分享"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dessert",
+        "items": [
+          {
+            "name": "麻糬巧克力夹心",
+            "original": "Mochi Bombon",
+            "desc": "太妃巧克力 alfajor 夹心饼配秘鲁紫玉米冰淇淋。"
           }
         ]
       }
     ],
     "sources": [
-      "https://www.timeoutriyadh.com/food-drink/top-japanese-restaurants-in-riyadh"
+      "https://www.timeoutriyadh.com/food-drink/top-japanese-restaurants-in-riyadh",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/kuuru-riyadh-review-homegrown-favourite-brings-nikkei-cuisine-to-the-saudi-table",
+      "https://whatsonsaudiarabia.com/2024/09/restaurant-review-kuuru-riyadh-kafd/",
+      "https://riyadh.kuururestaurant.com/wp-content/uploads/2026/04/kuuru_menu_riyadh.pdf"
     ]
   },
   {
@@ -874,63 +1049,75 @@
     "lat": 24.676,
     "lng": 46.626,
     "summary": "米其林指南入选，VIA Riyadh 里的神户牛日料",
-    "description": "开在高端商业街区 VIA Riyadh 里的日料餐厅，入选米其林指南利雅得篇。开放式厨房简洁时尚、氛围讲究，主打顶级神户牛和精致的日式料理。适合纪念日或商务宴请，预算需充足。",
+    "description": "开在高端商业街区 VIA Riyadh 里的日料餐厅，入选米其林指南利雅得篇。开放式厨房简洁时尚，主打从日本空运的清真认证神户牛，也有精致的寿司卷。店内另设 The Rubi Room，提供约 19 道菜的神户牛主题 Omakase，同样被米其林收录。",
     "highlights": [
-      "神户牛（招牌）",
-      "开放式厨房，可看厨师现场操作",
-      "精致刺身与寿司"
+      "神户牛排 Kobe Steak（招牌）",
+      "神户牛炒面",
+      "Crazy Kani 蟹肉沙拉",
+      "松露菌菇锅",
+      "The Rubi Room 神户牛 Omakase"
     ],
     "tips": [
       "VIA Riyadh 内停车方便，可与周边高端餐厅一起逛",
-      "以下菜单为该类高端日料常见菜，具体以店内菜单为准"
+      "全部菜品为清真认证",
+      "The Rubi Room 席位少，需提前预订"
     ],
-    "menuSource": "typical",
+    "menuSource": "reported",
     "menu": [
       {
-        "title": "刺身寿司",
-        "titleEn": "Sashimi & Sushi",
+        "title": "冷菜与寿司卷",
+        "titleEn": "Cold & Maki",
         "items": [
           {
-            "name": "蓝鳍金枪鱼大腹",
-            "original": "Otoro",
-            "desc": "金枪鱼腹部最肥美的部位，油花丰富、入口即化。",
+            "name": "Crazy Kani 蟹肉沙拉",
+            "original": "Crazy Kani Salad",
+            "desc": "日式蟹柳丝拌沙拉，口感清爽，是店里点单率很高的开胃菜。",
             "tags": [
               "推荐"
             ]
           },
           {
-            "name": "主厨精选握寿司",
-            "original": "Nigiri Selection",
-            "desc": "主厨当日挑选的握寿司组合。"
+            "name": "辣三文鱼卷",
+            "original": "Spicy Salmon Maki",
+            "desc": "三文鱼拌辣味酱卷成寿司，微辣。",
+            "tags": [
+              "辣"
+            ]
           },
           {
-            "name": "海胆",
-            "original": "Uni",
-            "desc": "海胆刺身或军舰寿司，鲜甜带海水味。"
+            "name": "龙卷",
+            "original": "Dragon Maki",
+            "desc": "表面铺满配料的花式卷寿司，造型如龙。"
           }
         ]
       },
       {
-        "title": "和牛",
-        "titleEn": "Wagyu",
+        "title": "神户牛",
+        "titleEn": "Kobe Beef",
         "items": [
           {
-            "name": "神户牛铁板烧",
-            "original": "Kobe Beef Teppanyaki",
-            "desc": "神户牛切块在铁板上煎至表面焦香，配蒜片和山葵。",
+            "name": "神户牛排",
+            "original": "Kobe Steak",
+            "desc": "日本空运神户牛，油花细密、入口即化，全店主角。",
             "tags": [
               "招牌"
             ]
           },
           {
-            "name": "和牛炙烤寿司",
-            "original": "Wagyu Aburi Nigiri",
-            "desc": "和牛薄片铺在寿司饭上，用火枪炙烤，油香四溢。"
+            "name": "神户牛炒面",
+            "original": "Kobe Beef Fried Noodles",
+            "desc": "神户牛肉片与面条同炒，牛油香浓。",
+            "tags": [
+              "推荐"
+            ]
           },
           {
-            "name": "和牛寿喜烧",
-            "original": "Wagyu Sukiyaki",
-            "desc": "和牛片在甜酱油汤中轻涮，蘸生蛋液食用。"
+            "name": "神户牛 Omakase（The Rubi Room）",
+            "original": "The Rubi Room Omakase",
+            "desc": "约 19 道菜的主厨发办，以神户牛不同部位和做法贯穿全程，需单独预订。",
+            "tags": [
+              "招牌"
+            ]
           }
         ]
       },
@@ -939,25 +1126,25 @@
         "titleEn": "Hot Dishes & Dessert",
         "items": [
           {
-            "name": "天妇罗",
-            "original": "Tempura",
-            "desc": "海虾和时蔬裹薄面衣油炸，外酥内嫩。"
+            "name": "松露菌菇锅",
+            "original": "Truffle Mushroom Hotpot",
+            "desc": "多种菌菇加松露同煮的小锅，香气浓郁。",
+            "tags": [
+              "素"
+            ]
           },
           {
-            "name": "茶碗蒸",
-            "original": "Chawanmushi",
-            "desc": "日式蒸蛋羹，口感嫩滑，常加海鲜或菌菇。"
-          },
-          {
-            "name": "抹茶甜品",
-            "original": "Matcha Dessert",
-            "desc": "抹茶口味的冰淇淋或蛋糕，微苦回甘。"
+            "name": "味噌太妃吉拿棒",
+            "original": "Churros with Miso Toffee",
+            "desc": "西班牙油条蘸味噌太妃酱，甜中带咸。"
           }
         ]
       }
     ],
     "sources": [
-      "https://guide.michelin.com/us/en/article/features/international-cuisine-michelin-restaurants-riyadh"
+      "https://guide.michelin.com/us/en/article/features/international-cuisine-michelin-restaurants-riyadh",
+      "https://www.factmagazines.com/saudi-arabia/riyadh/food/hocho-brings-the-worlds-most-expensive-beef-to-riyadh",
+      "https://guide.michelin.com/ch/fr/riyadh-province/riyadh_2555317/restaurant/the-rubi-room-at-hocho"
     ]
   },
   {
@@ -978,11 +1165,13 @@
     "lat": 24.7005,
     "lng": 46.6837,
     "summary": "米其林指南入选，寿司、天妇罗、炉端烧一次吃全",
-    "description": "位于 Centria 商场二楼的日料餐厅，入选米其林指南利雅得篇。菜单覆盖经典寿司、酥脆天妇罗，以及炉端烧和烧鸟炭烤，选择丰富、适合第一次吃日料的朋友。与华兰中餐同楼，逛完奥拉亚街正好顺路。",
+    "description": "位于 Centria 商场二楼的日料餐厅，入选米其林指南利雅得篇。菜单覆盖经典寿司、酥脆天妇罗，以及炉端烧和烧鸟炭烤，金枪鱼刺身和无酒精特调口碑很好；也有食客觉得分量相对价格偏小。与华兰中餐同楼，逛完奥拉亚街正好顺路。",
     "highlights": [
-      "经典寿司",
-      "天妇罗",
-      "炉端烧与烧鸟"
+      "金枪鱼刺身",
+      "寿司盒 Sushi Box",
+      "辣味噌拉面",
+      "炉端烧与烧鸟",
+      "Yokari 芝士蛋糕"
     ],
     "tips": [
       "以下菜单为该店菜系的常见菜，具体以店内菜单为准"
@@ -1061,7 +1250,153 @@
       }
     ],
     "sources": [
-      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/yokari"
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/yokari",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d6908593-Reviews-YOKARI-Riyadh_Riyadh_Province.html",
+      "https://whatsonsaudiarabia.com/2024/10/ramen-spots-in-riyadh/"
+    ]
+  },
+  {
+    "id": "tokyo-urubah",
+    "name": "Tokyo 东京日料",
+    "nameEn": "Tokyo Restaurant",
+    "kind": "eat",
+    "category": "japanese",
+    "tags": [
+      "老字号",
+      "家庭友好",
+      "铁板烧",
+      "适合聚餐"
+    ],
+    "rating": 4.3,
+    "price": 3,
+    "priceNote": "人均约 150-250 SAR（拉面 86 SAR 起）",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "Al Urubah Rd, As Sulimaniyah / Al Wurud, Riyadh 12245",
+    "lat": 24.7135,
+    "lng": 46.6745,
+    "summary": "1985 年开业的沙特第一家日料，寿司拉面铁板烧都有",
+    "description": "1985 年 10 月开业，号称沙特第一家日本料理，至今仍是利雅得人气很高的老店。菜单很全：寿司、刺身、手卷、拉面、乌冬、炸猪排咖喱，还有带厨师现场表演的铁板烧包间。寿司常被评为利雅得前几名，拉面分量足，适合第一次吃日料的家人朋友。",
+    "highlights": [
+      "招牌卷寿司拼盘",
+      "牛肉铁板烧（现场表演）",
+      "拉面",
+      "味噌银鳕鱼",
+      "炸鸡排咖喱饭"
+    ],
+    "tips": [
+      "铁板烧包间有专属厨师，需提前预订",
+      "另有 Al Malik Rd 分店，菜单大致相同",
+      "价格以店内电子菜单为准"
+    ],
+    "menuSource": "reported",
+    "menu": [
+      {
+        "title": "寿司与冷菜",
+        "titleEn": "Sushi & Cold",
+        "items": [
+          {
+            "name": "Tokyo 拼盘",
+            "original": "Tokyo Platter",
+            "desc": "店里畅销卷寿司的大拼盘，适合多人分享。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          },
+          {
+            "name": "三文鱼刺身沙拉",
+            "original": "Salmon Sashimi Salad",
+            "desc": "三文鱼刺身配蔬菜和酱汁。"
+          },
+          {
+            "name": "脆蟹沙拉",
+            "original": "Crispy Crab Salad",
+            "desc": "酥炸蟹柳丝拌沙拉，口感脆爽。"
+          },
+          {
+            "name": "脆皮三文鱼刺身",
+            "original": "Salmon Sashimi with Tempura Crunch",
+            "desc": "三文鱼刺身拌天妇罗脆粒和甜辣酱。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "热菜与小吃",
+        "titleEn": "Hot Dishes",
+        "items": [
+          {
+            "name": "日式煎饺",
+            "original": "Gyoza",
+            "price": 44,
+            "desc": "煎饺底部焦脆，44 SAR 起。"
+          },
+          {
+            "name": "芥末虾球",
+            "original": "Wasabi Prawn",
+            "desc": "炸虾裹芥末风味蛋黄酱，微冲带甜。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "鲜虾塔可",
+            "original": "Prawns Tacos",
+            "desc": "脆皮塔可饼夹鲜虾，日式融合小吃。"
+          },
+          {
+            "name": "味噌银鳕鱼",
+            "original": "Black Cod (Miso Glazed)",
+            "price": 219,
+            "desc": "阿拉斯加银鳕鱼用味噌腌渍后烤制，油润鲜甜。",
+            "tags": [
+              "招牌"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "面饭与铁板烧",
+        "titleEn": "Noodles, Rice & Teppanyaki",
+        "items": [
+          {
+            "name": "拉面",
+            "original": "Ramen",
+            "price": 86,
+            "desc": "汤头浓郁、分量足，有多种配料可选，86 SAR 起。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "炒乌冬",
+            "original": "Yaki Udon",
+            "desc": "粗乌冬配自选蛋白质和蔬菜，用店家秘制酱汁炒制。"
+          },
+          {
+            "name": "炸鸡排咖喱饭",
+            "original": "Chicken Katsu Curry",
+            "price": 89,
+            "desc": "酥炸鸡排配日式咖喱和白饭。"
+          },
+          {
+            "name": "牛肉铁板烧",
+            "original": "Beef Teppanyaki",
+            "desc": "厨师在铁板上现场煎牛肉，带表演。",
+            "tags": [
+              "招牌"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://tokyo.redro.menu/en/restaurant/al-sulimaniyah/food.html",
+      "https://sa.gaultmillau.com/en/restaurants/tokyo",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d1160290-Reviews-Tokyo-Riyadh_Riyadh_Province.html",
+      "https://whatsonsaudiarabia.com/2024/10/ramen-spots-in-riyadh/"
     ]
   }
 ]
