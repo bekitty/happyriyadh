@@ -1275,7 +1275,7 @@
     "lat": 24.7135,
     "lng": 46.6745,
     "summary": "1985 年开业的沙特第一家日料，寿司拉面铁板烧都有",
-    "description": "1985 年 10 月开业，号称沙特第一家日本料理，至今仍是利雅得人气很高的老店。菜单很全：寿司、刺身、手卷、拉面、乌冬、炸猪排咖喱，还有带厨师现场表演的铁板烧包间。寿司常被评为利雅得前几名，拉面分量足，适合第一次吃日料的家人朋友。",
+    "description": "1985 年 10 月开业，号称沙特第一家日本料理，至今仍是利雅得人气很高的老店。菜单很全：寿司、刺身、手卷、拉面、乌冬、炸鸡排咖喱，还有带厨师现场表演的铁板烧包间。寿司常被评为利雅得前几名，拉面分量足，适合第一次吃日料的家人朋友。",
     "highlights": [
       "招牌卷寿司拼盘",
       "牛肉铁板烧（现场表演）",
@@ -1397,6 +1397,2193 @@
       "https://sa.gaultmillau.com/en/restaurants/tokyo",
       "https://www.tripadvisor.com/Restaurant_Review-g293995-d1160290-Reviews-Tokyo-Riyadh_Riyadh_Province.html",
       "https://whatsonsaudiarabia.com/2024/10/ramen-spots-in-riyadh/"
+    ]
+  },
+  {
+    "id": "namu-esplanade",
+    "name": "Namu（Akira Back 韩式烤肉）",
+    "nameEn": "Namu",
+    "nameAr": "نامو",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "需预约",
+      "适合聚餐",
+      "深夜营业",
+      "名厨餐厅"
+    ],
+    "rating": 4.5,
+    "price": 3,
+    "priceNote": "人均约 200–300 SAR",
+    "district": "阿尔拉伊德 Al Raed（The Esplanade）",
+    "address": "The Esplanade, Prince Turki Bin Abdulaziz Al Awwal Rd, King Saud University, Riyadh 12371",
+    "lat": 24.7257,
+    "lng": 46.6427,
+    "summary": "名厨 Akira Back 的高端韩烤，和牛桌边自己烤",
+    "description": "Namu 是韩裔名厨 Akira Back 在利雅得开的韩式烤肉店，也是城里最早一批“精致韩烤”之一，位于 The Esplanade 餐饮综合体内。主打桌上炭火/铁板自烤，肉品有奥地利和牛、美国 Prime 牛胸、雪花牛小排等，配整套小菜（banchan）和生菜包饭。除了烤肉也有石锅拌饭、嫩豆腐汤、韩式炸鸡等，适合朋友聚餐边烤边聊。",
+    "highlights": [
+      "高规格烤肉：和牛、雪花牛小排、Prime 牛胸",
+      "Premium Galbi 拼盘一次吃到多种部位",
+      "米其林指南收录、Time Out 餐厅奖入围"
+    ],
+    "tips": [
+      "周末晚上很满，建议提前订位",
+      "人多点拼盘更划算，单点肉价格不低",
+      "每天 13:00 营业到凌晨 1 点，适合晚场聚餐"
+    ],
+    "hours": "每日 13:00–01:00",
+    "website": "https://namu.unifiedhospitality.com/",
+    "menu": [
+      {
+        "title": "烤肉",
+        "titleEn": "BBQ",
+        "items": [
+          {
+            "name": "精选排骨拼盘",
+            "original": "Premium Galbi Sampler",
+            "desc": "店里的招牌拼盘：卷切牛胸、Prime 肋眼、腌制牛排骨（galbi），配生菜包和小菜，适合 2–3 人分享。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          },
+          {
+            "name": "雪花牛小排",
+            "original": "Snow Flower Short Rib",
+            "desc": "大理石纹极密的牛小排，切薄片快烤几秒即可，入口油香浓郁。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "奥地利和牛西冷",
+            "original": "Austrian Wagyu Striploin",
+            "desc": "和牛西冷切片，烤到五分熟口感最好，蘸盐或芝麻油酱吃。"
+          },
+          {
+            "name": "美国 Prime 牛胸薄片",
+            "original": "US Prime Brisket (Chadol)",
+            "desc": "超薄牛胸片（차돌박이），一烤就卷，脂香足，可以包生菜和蒜片一起吃。"
+          },
+          {
+            "name": "腌牛排骨",
+            "original": "Marinated Galbi 갈비",
+            "desc": "酱油、梨汁、蒜腌制的牛排骨，烤后焦甜，是最经典的韩烤口味，不辣。"
+          }
+        ]
+      },
+      {
+        "title": "热菜与饭",
+        "titleEn": "Hot Dishes & Rice",
+        "items": [
+          {
+            "name": "石锅拌饭",
+            "original": "Dolsot Bibimbap 돌솥비빔밥",
+            "desc": "热石锅盛米饭、各式蔬菜、烤牛肉和蛋，拌入辣酱，锅底会结出香脆锅巴。微辣可调。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "海鲜嫩豆腐汤",
+            "original": "Sundubu Jjigae 순두부찌개",
+            "desc": "嫩豆腐加海鲜、鸡蛋煮的辣汤锅，汤红但辣度中等，配饭非常下饭。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "韩式炸鸡",
+            "original": "Korean Fried Chicken",
+            "desc": "两次油炸的外脆里嫩炸鸡，裹甜辣酱，作为烤肉之外的分享小食。",
+            "tags": [
+              "分享"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-akira-back-fires-up-riyadhs-culinary-scene-with-namu",
+      "https://guide.michelin.com/be/nl/riyadh-province/riyadh_2555317/restaurant/namu-1241970",
+      "https://whatsonsaudiarabia.com/2026/03/korean-restaurants-in-riyadh/"
+    ]
+  },
+  {
+    "id": "koyee-korean-bbq-the-zone",
+    "name": "Koyee 韩式烤肉",
+    "nameEn": "Koyee Korean BBQ",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "适合聚餐",
+      "需预约",
+      "户外座位"
+    ],
+    "rating": 4.4,
+    "price": 3,
+    "priceNote": "晚餐人均约 180–200 SAR；午市 Ssambab 套餐 120 SAR/人（2 人起，限时）",
+    "district": "穆罕默迪耶 Al Mohammadiyah（The Zone）",
+    "address": "The Zone, Al Takhassusi St, Al Mohammadiyyah, Riyadh 12362",
+    "lat": 24.7318,
+    "lng": 46.6497,
+    "summary": "The Zone 里的人气韩烤，和牛烤肉和芒果雪冰都受好评",
+    "description": "Koyee 开在塔哈苏西街的露天餐饮区 The Zone，是近两年口碑上升很快的韩式烤肉店。肉品质量好、份量大，服务热情，还会搞《鱿鱼游戏》主题小游戏换折扣，气氛轻松。除了烤肉，炒年糕、海鲜辣汤面和泡菜汤也做得地道，饭后来一份芒果雪冰正好解腻。",
+    "highlights": [
+      "和牛烤肉肉质好、份量足",
+      "牛胸海鲜辣汤面（Chadol Jjamppong）",
+      "芒果雪冰收尾"
+    ],
+    "tips": [
+      "有包间和户外座位，聚餐建议提前订",
+      "午市限时套餐比晚餐划算",
+      "HungerStation 可外送，但烤肉还是堂食更值"
+    ],
+    "menu": [
+      {
+        "title": "烤肉",
+        "titleEn": "BBQ",
+        "items": [
+          {
+            "name": "和牛烤肉",
+            "original": "Wagyu BBQ",
+            "desc": "桌边烤和牛，油花丰富，评论里最常被点名的一道。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          },
+          {
+            "name": "包饭套餐",
+            "original": "Ssambab Set",
+            "desc": "午市套餐：烤肉配米饭、生菜和酱料，自己包着吃（쌈밥），一人一份很饱。"
+          },
+          {
+            "name": "腌牛排骨",
+            "original": "Galbi 갈비",
+            "desc": "甜咸口的酱腌牛排骨，烤后焦香，不辣。",
+            "tags": [
+              "推荐"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "汤锅与小吃",
+        "titleEn": "Stews & Snacks",
+        "items": [
+          {
+            "name": "牛胸海鲜辣汤面",
+            "original": "Chadol Jjamppong 차돌짬뽕",
+            "desc": "韩式中华料理的辣海鲜汤面，加入薄切牛胸，汤底红辣带锅气。",
+            "tags": [
+              "辣",
+              "推荐"
+            ]
+          },
+          {
+            "name": "泡菜汤",
+            "original": "Kimchi Jjigae 김치찌개",
+            "desc": "老泡菜加豆腐、肉片煮的酸辣汤锅，韩国人最日常的下饭汤。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "炒年糕",
+            "original": "Tteokbokki 떡볶이",
+            "desc": "条状年糕在甜辣酱里煮到软糯，配鱼饼，甜辣口。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "泡菜",
+            "original": "Kimchi 김치",
+            "desc": "店里自制泡菜，酸度和辣度都比较地道。"
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dessert",
+        "items": [
+          {
+            "name": "芒果雪冰",
+            "original": "Mango Bingsu 망고빙수",
+            "desc": "雪花般的牛奶刨冰上铺芒果泥、炼乳和大块芒果，清爽解腻，适合两三人分。",
+            "tags": [
+              "推荐",
+              "分享"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://whatsonsaudiarabia.com/2026/03/korean-restaurants-in-riyadh/",
+      "https://restaurantguru.com/Koyee-Korean-BBQ-Riyadh"
+    ]
+  },
+  {
+    "id": "seoul-tahlia",
+    "name": "Seoul 韩式烤肉与街头小吃",
+    "nameEn": "Seoul",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "适合聚餐",
+      "新店",
+      "深夜营业"
+    ],
+    "rating": 4.2,
+    "price": 3,
+    "priceNote": "人均约 150–220 SAR；牛肉烤肉饺子 62 SAR",
+    "district": "苏莱曼尼亚 Sulaimaniyah（塔利亚街）",
+    "address": "Prince Mohammed bin Abdulaziz Rd (Tahlia St), As Sulimaniyah, Riyadh",
+    "lat": 24.7002,
+    "lng": 46.6795,
+    "summary": "塔利亚街上的时髦韩餐，烤肉、饺子和韩式融合菜都有",
+    "description": "Seoul 是 2025 年下半年在塔利亚街开出的新派韩餐，把韩国街头小吃、家常菜和桌边烤肉放在一起。店内灯光昏暗、风格简洁，有专门的烤肉桌。菜单覆盖前菜、汤、饺子（mandu）、沙拉、主菜和甜品，部分菜带融合风格，烤肉可以自选肉品自己烤，互动感强。",
+    "highlights": [
+      "牛肉烤肉饺子 Bulgogi Mandu",
+      "桌边自选烤肉",
+      "Time Out 利雅得餐厅奖亚洲类入围"
+    ],
+    "tips": [
+      "想吃烤肉要说明坐烤肉桌",
+      "偏融合风，追求传统韩味可选 Korean Palace"
+    ],
+    "menu": [
+      {
+        "title": "饺子",
+        "titleEn": "Mandu",
+        "items": [
+          {
+            "name": "韩式烤牛肉饺子",
+            "original": "Beef Bulgogi Mandu",
+            "price": 62,
+            "desc": "包入韩式酱烤牛肉（bulgogi）馅的煎饺，咸甜多汁。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "酸辣鸡肉饺子",
+            "original": "Hot and Sour Chicken Mandu",
+            "desc": "鸡肉馅饺子淋酸辣汁，开胃微辣。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "味噌黄油虾饺",
+            "original": "Miso Butter Shrimp Mandu",
+            "desc": "虾仁馅饺子配味噌黄油酱，奶香和豆酱咸鲜融合。"
+          }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          {
+            "name": "韩式烤牛肉",
+            "original": "Bulgogi Beef 불고기",
+            "desc": "酱油、梨汁、蒜腌制的薄切牛肉快炒，甜咸适口，配米饭。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "蒜香黄油虾",
+            "original": "Butter Garlic Prawn",
+            "desc": "大虾用黄油和蒜爆炒，香浓不辣。"
+          },
+          {
+            "name": "韩式火焰辣鸡",
+            "original": "Korean Red Flame Chicken",
+            "desc": "韩式辣椒酱（gochujang）烤鸡，带炭火感，辣度中上。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "烤肉",
+        "titleEn": "BBQ",
+        "items": [
+          {
+            "name": "桌边烤肉",
+            "original": "Korean BBQ (choice of meat)",
+            "desc": "自选牛肉、鸡肉等肉品在桌上烤，配生菜、小菜和蘸酱。",
+            "tags": [
+              "分享"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/node/2623376/food-health",
+      "https://www.timeoutriyadh.com/food-drink/time-out-riyadh-restaurant-awards-shortlist-2025"
+    ]
+  },
+  {
+    "id": "korean-palace-rahmaniyah",
+    "name": "韩国宫 Korean Palace",
+    "nameEn": "Korean Palace Restaurant",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "老字号",
+      "家庭友好",
+      "平价",
+      "外卖方便"
+    ],
+    "rating": 4.3,
+    "price": 2,
+    "priceNote": "人均约 60–110 SAR",
+    "district": "拉赫马尼亚 Ar Rahmaniyah",
+    "address": "Takhassusi Branch St, Ar Rahmaniyyah, Riyadh",
+    "lat": 24.7235,
+    "lng": 46.6565,
+    "summary": "利雅得最老的韩餐馆，家常韩味、韩侨常去",
+    "description": "Korean Palace 被多家媒体称为利雅得历史最久的韩国餐厅，装修朴素、铺着红桌布，走的是传统家常路线而不是网红风。菜单很全：烤肉、石锅拌饭、炸酱面、泡菜汤、海鲜炒年糕都有，口味比新派韩餐更地道，适合想念“正经韩国家常菜”的人。",
+    "highlights": [
+      "海鲜炒年糕、芝士炒年糕口碑最好",
+      "炸酱面、泡菜汤等家常菜地道",
+      "午晚两市，价格比新派韩烤亲民"
+    ],
+    "tips": [
+      "下午 3–5 点休息，别扑空",
+      "周五 12:30 才开门"
+    ],
+    "hours": "周六至周四 11:30–15:00、17:00–23:00；周五 12:30–15:00、17:00–23:00",
+    "website": "https://korea-palace.club",
+    "menu": [
+      {
+        "title": "烤肉与主菜",
+        "titleEn": "BBQ & Mains",
+        "items": [
+          {
+            "name": "韩式烤牛肉",
+            "original": "Bulgogi 불고기",
+            "desc": "酱腌薄切牛肉，铁板或锅里烤炒，甜咸口不辣，配米饭生菜。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "石锅拌饭",
+            "original": "Dolsot Bibimbap 돌솥비빔밥",
+            "desc": "热石锅米饭配蔬菜、肉和蛋，拌辣酱，底部有锅巴。"
+          },
+          {
+            "name": "杂菜粉丝",
+            "original": "Japchae 잡채",
+            "desc": "红薯粉丝和牛肉丝、菠菜、胡萝卜、香菇用酱油芝麻油拌炒，咸甜不辣，韩国家常宴客菜。（常见菜，以店内菜单为准）"
+          }
+        ]
+      },
+      {
+        "title": "面与汤",
+        "titleEn": "Noodles & Stews",
+        "items": [
+          {
+            "name": "炸酱面",
+            "original": "Jajangmyeon 짜장면",
+            "desc": "韩式中华料理：粗面拌黑豆酱炒的肉丁洋葱，酱香微甜，不辣。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "泡菜汤",
+            "original": "Kimchi Jjigae 김치찌개",
+            "desc": "酸辣泡菜炖豆腐和肉片，配一碗白饭最舒服。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "海鲜辣汤面",
+            "original": "Jjamppong 짬뽕",
+            "desc": "红油海鲜汤面，辣而鲜。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "炒年糕",
+        "titleEn": "Tteokbokki",
+        "items": [
+          {
+            "name": "海鲜炒年糕",
+            "original": "Seafood Tteokbokki 해물떡볶이",
+            "desc": "年糕和虾、鱿鱼等海鲜一起在甜辣酱里煮，评论里点名最多的一道。",
+            "tags": [
+              "招牌",
+              "辣"
+            ]
+          },
+          {
+            "name": "芝士炒年糕",
+            "original": "Cheese Tteokbokki 치즈떡볶이",
+            "desc": "石锅端上来还在冒泡，拉丝芝士中和了辣度，甜辣浓郁。",
+            "tags": [
+              "推荐",
+              "辣"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.pk/node/2603961/food-health",
+      "https://whatsonsaudiarabia.com/2026/03/korean-restaurants-in-riyadh/",
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d6224294-Reviews-Korean_Palace-Riyadh_Riyadh_Province.html"
+    ]
+  },
+  {
+    "id": "omo-omo-qurtubah",
+    "name": "OMO-OMO 韩式街头小吃",
+    "nameEn": "OMO-OMO",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "平价",
+      "外卖方便",
+      "适合年轻人",
+      "KTV 包间"
+    ],
+    "rating": 4.3,
+    "price": 1,
+    "priceNote": "人均约 50–80 SAR；炒年糕 43–49 SAR",
+    "district": "古尔图巴 Qurtubah",
+    "address": "2977 Al Thoumamah Rd, Qurtubah, Riyadh 13248",
+    "lat": 24.8095,
+    "lng": 46.746,
+    "summary": "从外卖起家的韩式分食店，炒年糕和紫菜包饭三明治最出名",
+    "description": "OMO-OMO（韩语“天哪”）最初只做外卖，后来在古尔图巴开了色彩鲜艳的堂食店，墙上满是韩式波普画，还有可以唱 K 的包间。主打韩国“粉食”（bunsik）：多种口味的炒年糕、紫菜包饭、紫菜包饭三明治、杯饭和芝士棒，价格亲民，是 Time Out 利雅得餐厅奖亚洲类的入围店。",
+    "highlights": [
+      "招牌炒年糕 Doki-Boki 多种口味",
+      "紫菜包饭三明治（Kimbap Sandwich）",
+      "包间可以唱 K"
+    ],
+    "tips": [
+      "在城东北，离奥拉亚有点远，可点 HungerStation 外送",
+      "有纯素紫菜包饭选择"
+    ],
+    "website": "https://omoomo.sa/en/",
+    "menu": [
+      {
+        "title": "炒年糕",
+        "titleEn": "Doki-Boki (Tteokbokki)",
+        "items": [
+          {
+            "name": "招牌炒年糕",
+            "original": "Signature Doki-Boki",
+            "price": 49,
+            "desc": "店里的招牌版本，年糕配料最丰富，甜辣酱底。",
+            "tags": [
+              "招牌",
+              "辣"
+            ]
+          },
+          {
+            "name": "原味炒年糕",
+            "original": "Original Doki-Boki",
+            "price": 43,
+            "desc": "经典韩式辣酱煮年糕，甜辣口。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "酱油炒年糕",
+            "original": "Soy Sauce Doki-Boki",
+            "price": 44,
+            "desc": "宫廷式酱油口味（gungjung tteokbokki），咸甜不辣，适合不吃辣的人。"
+          },
+          {
+            "name": "奶油炒年糕",
+            "original": "Creamy Doki-Boki",
+            "price": 44,
+            "desc": "奶油酱煮年糕，类似“rosé”风格，奶香浓、辣度低。"
+          }
+        ]
+      },
+      {
+        "title": "紫菜包饭",
+        "titleEn": "Kimbap",
+        "items": [
+          {
+            "name": "烤牛肉紫菜包饭三明治",
+            "original": "Bulgogi Beef Kimbap Sandwich",
+            "price": 58,
+            "desc": "把紫菜包饭做成方块三明治形状，夹酱烤牛肉、蛋、蔬菜，便于拿着吃。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "泡菜紫菜包饭三明治",
+            "original": "Kimchi Kimbap Sandwich",
+            "price": 49,
+            "desc": "泡菜加蛋和蔬菜，酸辣爽口。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "炸鸡迷你紫菜包饭",
+            "original": "Mini Korean Fried Chicken Kimbap",
+            "price": 47,
+            "desc": "一口大小的紫菜包饭卷入韩式炸鸡。"
+          },
+          {
+            "name": "豆腐纯素紫菜包饭三明治",
+            "original": "Tofu Vegan Kimbap Sandwich",
+            "price": 60,
+            "desc": "用煎豆腐代替肉的纯素版本。",
+            "tags": [
+              "素"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "小吃",
+        "titleEn": "Snacks",
+        "items": [
+          {
+            "name": "马苏里拉芝士棒",
+            "original": "Mozzarella K-Sticks",
+            "desc": "韩式热狗风格的炸芝士棒，外层酥脆，咬开拉丝。",
+            "tags": [
+              "分享"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "official",
+    "sources": [
+      "https://omoomo.sa/en/menu/",
+      "https://www.arabnews.com/node/2609067/food-health",
+      "https://whatsonsaudiarabia.com/2026/03/korean-restaurants-in-riyadh/"
+    ]
+  },
+  {
+    "id": "hankki-olaya",
+    "name": "HANKKI 韩国街头小吃",
+    "nameEn": "HANKKI Korean Street Food",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "平价",
+      "外卖方便",
+      "快餐"
+    ],
+    "rating": 4,
+    "price": 1,
+    "priceNote": "人均约 40–70 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Jazeera Mall, Musa Ibn Nusair St, Al Olaya, Riyadh",
+    "lat": 24.7065,
+    "lng": 46.6886,
+    "summary": "利雅得首家韩国街头小吃店，炸鸡、热狗、炒年糕一站解决",
+    "description": "HANKKI 号称是利雅得第一家韩国街头小吃店，开在奥拉亚 Musa Ibn Nusair 街的 Jazeera Mall。菜单围绕韩国人日常的“一顿饭”（한끼）：八种口味的韩式炸鸡、紫菜包饭、迷你紫菜包饭、炒年糕、杯饭和拉面，韩侨和本地年轻人都爱来，口味偏地道偏辣。",
+    "highlights": [
+      "八种口味韩式炸鸡",
+      "韩式热狗（芝士/土豆块）",
+      "便宜快捷，适合一个人吃"
+    ],
+    "tips": [
+      "堂食空间小，更适合外带或点外卖",
+      "辣度偏高，怕辣选酱油或原味炸鸡"
+    ],
+    "hours": "周六至周四 11:30–23:00；周五 13:00–23:00",
+    "website": "https://hankkisaudi.com/",
+    "menu": [
+      {
+        "title": "炸鸡",
+        "titleEn": "Chicken",
+        "items": [
+          {
+            "name": "韩式炸鸡",
+            "original": "Korean Fried Chicken",
+            "desc": "双炸工艺，外壳薄脆，可选原味、酱油蒜香、甜辣等多种酱。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "甜辣鸡块",
+            "original": "Dakgangjeong 닭강정",
+            "desc": "一口大小的炸鸡块裹上糖浆辣酱，甜、黏、脆，凉了也好吃。",
+            "tags": [
+              "推荐",
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "粉食",
+        "titleEn": "Bunsik",
+        "items": [
+          {
+            "name": "紫菜包饭",
+            "original": "Original Kimbap 김밥",
+            "desc": "芝麻油调味的米饭加腌萝卜、胡萝卜、菠菜、蛋、鱼饼等卷成，清爽不辣。"
+          },
+          {
+            "name": "迷你紫菜包饭",
+            "original": "Kkoma Kimbap 꼬마김밥",
+            "desc": "手指粗细的小紫菜包饭，馅料简单，蘸芥末酱油吃。"
+          },
+          {
+            "name": "炒年糕",
+            "original": "Tteokbokki 떡볶이",
+            "desc": "甜辣酱煮年糕和鱼饼，经典街头小吃。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "韩式热狗",
+            "original": "Korean Corndog",
+            "desc": "裹面糊油炸的热狗或芝士棒，表面滚糖或土豆块，咸甜都有。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "杯饭",
+            "original": "Cupbap 컵밥",
+            "desc": "源自首尔鹭梁津的杯装盖饭，米饭上盖肉、蛋和酱，快速饱腹。"
+          },
+          {
+            "name": "韩国拉面",
+            "original": "Ramyeon 라면",
+            "desc": "韩式辣汤泡面加蛋和葱，辣度明显。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://whatsonsaudiarabia.com/2025/01/korean-restaurants-in-riyadh/",
+      "https://www.timeoutriyadh.com/food-drink/korean-restaurants-in-riyadh"
+    ]
+  },
+  {
+    "id": "woo-samgyup-sulaimaniyah",
+    "name": "Woo Samgyup 无限量韩烤",
+    "nameEn": "Woo Samgyup",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "自助畅吃",
+      "适合聚餐",
+      "深夜营业"
+    ],
+    "rating": 3.9,
+    "price": 2,
+    "priceNote": "畅吃套餐约 120–145 SAR/人（饮料另计，冰茶一壶约 20 SAR）",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "Abu Bakr Al Razi St, As Sulimaniyah, Riyadh",
+    "lat": 24.7055,
+    "lng": 46.699,
+    "summary": "人气畅吃韩烤，牛肉、鸡肉、虾随便烤",
+    "description": "Woo Samgyup 是苏莱曼尼亚一家温馨的韩式烤肉店，主打按人头计价的畅吃（unlimited samgyupsal）：牛肉、鸡肉、虾可单选也可混搭，配无限续的小菜和生菜。炭火烤、排烟好，菲律宾和本地年轻人很多，营业到深夜。口碑整体不错，但也有食客反映偶尔用冻肉、切得偏厚，品质有波动。",
+    "highlights": [
+      "牛肉、鸡肉、虾畅吃",
+      "炭火烤，小菜无限续",
+      "营业到午夜后"
+    ],
+    "tips": [
+      "饮料不含在套餐里",
+      "周末晚上人多，建议早点去",
+      "牛肉薄片口碑最好"
+    ],
+    "hours": "周日至周三 12:00–00:00；周四至周六 12:00–01:00",
+    "menu": [
+      {
+        "title": "畅吃套餐",
+        "titleEn": "Unlimited BBQ",
+        "items": [
+          {
+            "name": "牛肉畅吃",
+            "original": "Unlimited Beef Samgyup",
+            "desc": "薄切牛肉片无限续，快速炙烤后包生菜吃。（店名 Samgyup 来自五花肉烤肉“삼겹살”，这里以牛肉、鸡肉代替）",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "鸡肉畅吃",
+            "original": "Unlimited Chicken",
+            "desc": "腌制鸡腿肉，有原味和甜辣两种口味，评价普遍说腌得入味。"
+          },
+          {
+            "name": "虾畅吃",
+            "original": "Unlimited Shrimp",
+            "desc": "整只鲜虾上炉烤，蘸蒜油或辣酱。"
+          },
+          {
+            "name": "混合畅吃",
+            "original": "Unlimited Mix (Beef, Chicken & Shrimp)",
+            "desc": "三种都要，聚餐最常选。",
+            "tags": [
+              "推荐",
+              "分享"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "配菜",
+        "titleEn": "Sides",
+        "items": [
+          {
+            "name": "韩式小菜",
+            "original": "Banchan 반찬",
+            "desc": "泡菜、豆芽、腌萝卜、土豆等小菜，随套餐无限续。"
+          },
+          {
+            "name": "生菜包",
+            "original": "Ssam 쌈",
+            "desc": "生菜、紫苏叶包烤肉，加蒜片和包饭酱（ssamjang）。"
+          },
+          {
+            "name": "蒸蛋",
+            "original": "Gyeran-jjim 계란찜",
+            "desc": "砂锅蒸蛋，蓬松软嫩，可以中和烤肉的油腻。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://whatsonsaudiarabia.com/2025/01/korean-restaurants-in-riyadh/",
+      "https://foursquare.com/v/woo-samgyup-korean-bbq/61a233328b593b790b62828a"
+    ]
+  },
+  {
+    "id": "jeju-samgyupsal-sulaimaniyah",
+    "name": "Jeju Samgyupsal 济州烤肉（烤肉+火锅畅吃）",
+    "nameEn": "Jeju Samgyupsal",
+    "kind": "eat",
+    "category": "korean",
+    "tags": [
+      "自助畅吃",
+      "平价",
+      "深夜营业"
+    ],
+    "rating": 3.8,
+    "price": 2,
+    "priceNote": "烤肉 + 火锅畅吃约 104 SAR/人",
+    "district": "苏莱曼尼亚 Sulaimaniyah",
+    "address": "As Sulimaniyah, Riyadh",
+    "lat": 24.7035,
+    "lng": 46.6955,
+    "summary": "砖墙小店，烤肉加火锅一起畅吃，性价比高",
+    "description": "Jeju Samgyupsal 是苏莱曼尼亚一家小小的“墙洞店”：砖墙、木桌、每桌一个烤炉。卖点是韩烤和火锅双畅吃，一个价格两样都能吃到，比同类店便宜，适合预算有限的朋友聚会。环境简单、座位不多，营业到凌晨两点。",
+    "highlights": [
+      "烤肉 + 火锅同时畅吃",
+      "价格在畅吃韩烤里偏低",
+      "营业到凌晨 2 点"
+    ],
+    "tips": [
+      "店面很小，人多建议先打电话：054 113 7558",
+      "环境偏简陋，重在吃饱吃爽"
+    ],
+    "hours": "每日 12:00–02:00",
+    "instagram": "https://www.instagram.com/jejurestaurantksa/",
+    "menu": [
+      {
+        "title": "畅吃",
+        "titleEn": "Unlimited",
+        "items": [
+          {
+            "name": "韩式烤肉 + 火锅畅吃",
+            "original": "Unlimited Samgyupsal BBQ + Hotpot",
+            "price": 104,
+            "desc": "一人一价，烤肉和火锅同时无限续，店里最主要的点法。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          },
+          {
+            "name": "牛肉薄片",
+            "original": "Beef Slices",
+            "desc": "薄切牛肉，可烤可涮。"
+          },
+          {
+            "name": "腌鸡肉",
+            "original": "Marinated Chicken",
+            "desc": "甜辣或酱油腌鸡肉，适合上炉烤。"
+          },
+          {
+            "name": "火锅",
+            "original": "Hotpot",
+            "desc": "清汤或辣汤锅底，涮肉片、蔬菜、豆腐、年糕、面条。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "配菜",
+        "titleEn": "Sides",
+        "items": [
+          {
+            "name": "韩式小菜",
+            "original": "Banchan 반찬",
+            "desc": "泡菜、豆芽等小菜，随套餐供应。"
+          },
+          {
+            "name": "生菜包",
+            "original": "Ssam 쌈",
+            "desc": "生菜包烤肉配包饭酱。"
+          },
+          {
+            "name": "泡菜炒饭",
+            "original": "Kimchi Fried Rice 김치볶음밥",
+            "desc": "用泡菜和米饭在烤盘上炒，常作为烤肉收尾。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "芝士玉米",
+            "original": "Corn Cheese 콘치즈",
+            "desc": "甜玉米加芝士焗到冒泡，韩烤店经典配菜，不辣。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "typical",
+    "sources": [
+      "https://www.timeoutriyadh.com/food-drink/korean-restaurants-in-riyadh",
+      "https://foursquare.com/v/jeju-samgyupsal/637fba0d23dea11680a1a5b4",
+      "https://whatsonsaudiarabia.com/2026/03/korean-restaurants-in-riyadh/"
+    ]
+  },
+  {
+    "id": "gymkhana-via-riyadh",
+    "name": "Gymkhana（伦敦米其林印度菜）",
+    "nameEn": "Gymkhana Riyadh",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "需预约",
+      "高端",
+      "适合约会",
+      "深夜营业"
+    ],
+    "rating": 4.6,
+    "price": 4,
+    "priceNote": "人均约 300–400 SAR；奶油黄油鸡 110 SAR；品鉴菜单素 350 / 荤 390 SAR",
+    "district": "哈达 Al Hada（VIA Riyadh）",
+    "address": "VIA Riyadh, 2941 Makkah Al Mukarramah Branch Rd, Al Hada, Riyadh",
+    "lat": 24.6678,
+    "lng": 46.6272,
+    "summary": "伦敦米其林星级印度餐厅首家海外店，殖民俱乐部风装修",
+    "description": "Gymkhana 是伦敦梅菲尔区米其林星级印度餐厅，2023 年在 VIA Riyadh 开出首家海外分店，复刻了英属印度“绅士俱乐部”风格的深色木饰和皮革卡座。菜单以北印度菜为主，兼顾果阿、孟买等地风味：坦都炉烤肉、山羊肉末配面包、黄油鸡、焖烤羊肉香饭都是招牌，整体调味偏重偏辣。Time Out 利雅得评其为最佳印度餐厅。",
+    "highlights": [
+      "酥皮焖烤羊肉香饭 Dum Biryani",
+      "山羊肉末配薯丝和面包 Kid Goat Keema",
+      "Time Out 利雅得最佳印度餐厅"
+    ],
+    "tips": [
+      "很多菜偏辣，不吃辣点菜时提前说",
+      "每晚 17:00 才开门，营业到凌晨 2 点",
+      "VIA Riyadh 有代客泊车，着装可稍正式"
+    ],
+    "hours": "每日 17:00–02:00",
+    "website": "https://gymkhanarestaurants.com/",
+    "menu": [
+      {
+        "title": "小食与烤物",
+        "titleEn": "Nashta & Tikka",
+        "items": [
+          {
+            "name": "印度脆饼拼盘",
+            "original": "Papad & Chutneys",
+            "desc": "薄脆豆粉饼配几种自制酸辣酱，开胃小食。",
+            "tags": [
+              "分享"
+            ]
+          },
+          {
+            "name": "球形脆饼",
+            "original": "Gol Gappa",
+            "desc": "空心小脆球，里面灌入酸甜香料水和土豆鹰嘴豆，一口一个。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "腌芒果奶酪烤串",
+            "original": "Achari Paneer Tikka",
+            "desc": "印度奶酪块用腌菜香料（茴香、芥末籽）腌后入坦都炉烤，酸香微辣。",
+            "tags": [
+              "素"
+            ]
+          },
+          {
+            "name": "山羊肉末配薯丝面包",
+            "original": "Kid Goat Methi Keema, Salli, Pao",
+            "price": 85,
+            "desc": "孟买风味：小山羊肉末加葫芦巴叶炒香，盖脆薯丝，配黄油软面包夹着吃。",
+            "tags": [
+              "招牌",
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "咖喱与香饭",
+        "titleEn": "Curries & Biryani",
+        "items": [
+          {
+            "name": "黄油鸡",
+            "original": "Chicken Butter Masala",
+            "price": 110,
+            "desc": "坦都烤鸡块放进番茄、黄油、奶油熬的酱汁里，浓郁偏甜，是最不辣的选择。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "焖烤羊肉香饭",
+            "original": "Dum Lamb Biryani",
+            "desc": "羊肉与香米分层，用面皮封锅焖烤，揭开时香气扑鼻，配酸奶黄瓜酱。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          },
+          {
+            "name": "果阿椰香虾咖喱",
+            "original": "Goan Prawn Curry",
+            "desc": "果阿海岸风味，椰奶加罗望子和辣椒，酸辣带椰香。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "蒜香黄扁豆",
+            "original": "Dal Lasooni",
+            "desc": "黄扁豆煮成糊，最后淋蒜香热油，清淡家常。",
+            "tags": [
+              "素"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "饼与配菜",
+        "titleEn": "Breads & Sides",
+        "items": [
+          {
+            "name": "黄油馕",
+            "original": "Butter Naan",
+            "desc": "坦都炉烤的发酵面饼刷黄油，蘸咖喱吃。"
+          },
+          {
+            "name": "酸奶黄瓜酱",
+            "original": "Raita",
+            "desc": "酸奶拌黄瓜和孜然，解辣必备。",
+            "tags": [
+              "素"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/node/2592187/food-health",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-culinary-and-cultural-fusion-at-gymkhana-riyadh",
+      "https://www.timeoutriyadh.com/food-drink/top-indian-restaurants-in-riyadh"
+    ]
+  },
+  {
+    "id": "ruhi-the-zone",
+    "name": "Ruhi 北印度菜",
+    "nameEn": "Ruhi Indian Restaurant",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "米其林指南",
+      "家庭友好",
+      "适合聚餐"
+    ],
+    "rating": 4.4,
+    "price": 2,
+    "priceNote": "人均约 100–150 SAR；黑扁豆 79 SAR",
+    "district": "穆罕默迪耶 Al Mohammadiyah（The Zone）",
+    "address": "The Zone, 7236 Al Takhassusi, Al Mohammadiyyah, Riyadh 12362",
+    "lat": 24.7312,
+    "lng": 46.6491,
+    "summary": "米其林指南收录的北印度馆，透过玻璃看坦都炉烤馕",
+    "description": "Ruhi 在梵文里意为“灵魂”，开在 The Zone 露天餐饮区，被米其林指南利雅得版收录。装修把工业风和传统印度画作混搭，开放式厨房隔着玻璃，能看到师傅往坦都炉壁上拍馕、挂肉串。菜单是北印度经典：奶酪烤串、黑扁豆、羊排、黄油鸡、香饭，酱料和小饼都是自制，大部分菜价在 100 SAR 以内，份量扎实。",
+    "highlights": [
+      "米其林指南收录",
+      "慢炖黑扁豆 Dal Makhani",
+      "坦都炉烤羊排和现烤馕"
+    ],
+    "tips": [
+      "和 Koyee、Em Sherif Café 同在 The Zone，可顺路逛",
+      "偶有食客反映出品不太稳定，招牌菜更稳"
+    ],
+    "menu": [
+      {
+        "title": "坦都炉烤物",
+        "titleEn": "Tandoor",
+        "items": [
+          {
+            "name": "印度奶酪烤串",
+            "original": "Paneer Tikka",
+            "desc": "印度鲜奶酪块用酸奶香料腌制后入坦都炉烤，外焦内软。",
+            "tags": [
+              "推荐",
+              "素"
+            ]
+          },
+          {
+            "name": "坦都烤羊排",
+            "original": "Tandoori Lamb Chops",
+            "desc": "羊排用香料酸奶腌后高温炉烤，带烟熏香，微辣。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "坦都烤鸡",
+            "original": "Tandoori Chicken",
+            "desc": "红色香料腌的带骨鸡，炉烤后表皮焦香。"
+          }
+        ]
+      },
+      {
+        "title": "咖喱与香饭",
+        "titleEn": "Curries & Biryani",
+        "items": [
+          {
+            "name": "慢炖黑扁豆",
+            "original": "Dal Makhani (Black Lentil)",
+            "price": 79,
+            "desc": "黑扁豆和红芸豆加黄油、奶油小火慢炖数小时，绵密浓香，素食者和肉食者都爱。",
+            "tags": [
+              "招牌",
+              "素"
+            ]
+          },
+          {
+            "name": "黄油鸡",
+            "original": "Butter Chicken",
+            "desc": "烤鸡块配番茄黄油奶油酱，偏甜不辣，适合孩子。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "香饭",
+            "original": "Biryani",
+            "desc": "香料焖米饭，可选鸡肉或羊肉，配酸奶酱。"
+          }
+        ]
+      },
+      {
+        "title": "饼",
+        "titleEn": "Breads",
+        "items": [
+          {
+            "name": "现烤馕",
+            "original": "Naan",
+            "desc": "坦都炉现烤，可选原味、黄油或蒜香。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "脆薄饼",
+            "original": "Chapati Crisps",
+            "desc": "店里自制的脆薄饼开胃小食，配几种自制酸辣酱。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/en/riyadh-province/riyadh_2555317/restaurant/ruhi",
+      "https://www.arabnews.com/node/2579827/food-health",
+      "https://www.timeoutriyadh.com/restaurants/ruhi-indian-cuisine"
+    ]
+  },
+  {
+    "id": "mohalla-esplanade",
+    "name": "Mohalla 印度街头小吃",
+    "nameEn": "Mohalla",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "户外座位",
+      "适合聚餐",
+      "素食友好"
+    ],
+    "rating": 4.2,
+    "price": 2,
+    "priceNote": "人均约 90–150 SAR",
+    "district": "阿尔拉伊德 Al Raed（The Esplanade）",
+    "address": "The Esplanade, Prince Turki Bin Abdulaziz Al Awwal Rd, Riyadh",
+    "lat": 24.7259,
+    "lng": 46.6423,
+    "summary": "迪拜人气印度街头小吃店，五彩装修，Chaat 和香饭都好吃",
+    "description": "Mohalla 意为“街坊”，是迪拜本土起家的印度街头小吃品牌，利雅得店开在 The Esplanade，两层楼带户外座，墙上手绘印度街景，开放式坦都炉。菜单从孟买的油炸土豆汉堡、酸甜脆饼 Chaat，到羊腿香饭、拉亚拉西玛辣虾咖喱都有，适合一群人点一桌分享，素食选择也多。",
+    "highlights": [
+      "Chaat 系列：脆球、酸奶脆片、牛油果 Papdi Chaat",
+      "孟买土豆汉堡 Vada Pav",
+      "整只羊腿香饭 Raan Biryani"
+    ],
+    "tips": [
+      "人多点小吃拼桌最划算",
+      "同在 The Esplanade 的 Namu 可作为另一选择"
+    ],
+    "menu": [
+      {
+        "title": "街头小吃",
+        "titleEn": "Chaat & Street Snacks",
+        "items": [
+          {
+            "name": "灌汁脆球",
+            "original": "Pani Puri",
+            "desc": "空心油炸小脆球里塞土豆泥和黑鹰嘴豆，现灌酸辣香料水和罗望子汁，一口吞。",
+            "tags": [
+              "推荐",
+              "素"
+            ]
+          },
+          {
+            "name": "孟买土豆汉堡",
+            "original": "Vada Pav",
+            "desc": "号称“孟买汉堡”：香料土豆饼油炸后夹进软面包，配蒜辣酱和炸青椒。",
+            "tags": [
+              "招牌",
+              "素",
+              "辣"
+            ]
+          },
+          {
+            "name": "皇家大脆碗",
+            "original": "Raj Kachori",
+            "desc": "大号酥脆空心饼里填豆子、土豆、酸奶和甜酸酱，酸甜咸辣层次丰富。",
+            "tags": [
+              "素",
+              "分享"
+            ]
+          },
+          {
+            "name": "牛油果酥片沙拉",
+            "original": "Avocado Papdi Chaat",
+            "desc": "油炸酥片铺牛油果、酸奶、薄荷酱和罗望子酱，新派 Chaat。",
+            "tags": [
+              "素"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          {
+            "name": "肉末配面包",
+            "original": "Keema Pao",
+            "desc": "香料炒羊肉末配黄油烤软面包，孟买伊朗咖啡馆经典。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "辣椒鸡",
+            "original": "Spicy Chili Chicken",
+            "desc": "印式中餐（Indo-Chinese）：炸鸡块和青椒洋葱用酱油辣椒爆炒。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "拉亚拉西玛辣虾咖喱",
+            "original": "Rayalaseema Prawn Curry",
+            "desc": "安得拉邦风味，红辣椒和罗望子做底，辣度高。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "嫩鸡烤串",
+            "original": "Tender Chicken Kebab",
+            "desc": "奶油香料腌鸡块炉烤，口感嫩。"
+          },
+          {
+            "name": "整只羊腿香饭",
+            "original": "Raan Biryani",
+            "desc": "慢烤羊腿搭配香料焖饭，份量大适合分享。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dessert",
+        "items": [
+          {
+            "name": "印度炸糖圈",
+            "original": "Jalebi",
+            "desc": "面糊挤成螺旋油炸后浸糖浆，酥脆、很甜，热吃最好。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://saudiscoop.com/lifestyle/mohalla-riyadh-indian-restaurant-esplanade/",
+      "https://www.timeoutriyadh.com/food-drink/top-indian-restaurants-in-riyadh"
+    ]
+  },
+  {
+    "id": "classic-restaurant-batha",
+    "name": "Classic 喀拉拉餐馆（巴塔）",
+    "nameEn": "Classic Restaurant",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "平价",
+      "老字号",
+      "外卖方便",
+      "地道"
+    ],
+    "rating": 4,
+    "price": 1,
+    "priceNote": "人均约 25–40 SAR",
+    "district": "巴塔 Al Batha",
+    "address": "Al Batha, Riyadh",
+    "lat": 24.6355,
+    "lng": 46.714,
+    "summary": "南亚社区巴塔的平价喀拉拉菜馆，抛饼和香蕉叶烤鱼出名",
+    "description": "巴塔（Batha）是利雅得南亚移民最集中的老城区，Classic 是这里最常被推荐的喀拉拉（Kerala）菜馆之一：环境朴素但干净，分单身区和家庭区，二楼还做印式中餐。招牌是层层起酥的喀拉拉抛饼（porotta）、香蕉叶包烤鱼和马拉巴香饭，份量大、价格低，一个人二三十里亚尔就能吃饱。喀拉拉新年（Vishu）和 Onam 节期间会推出香蕉叶宴席 Sadhya。",
+    "highlights": [
+      "喀拉拉抛饼 Kerala Porotta",
+      "香蕉叶烤鱼 Fish Pollichathu",
+      "节日 Sadhya 香蕉叶宴"
+    ],
+    "tips": [
+      "Batha 一带停车和交通较拥挤，周五人多",
+      "餐具是随菜上的，店面很朴素，重在吃",
+      "要吃 Sadhya 需关注 Vishu/Onam 节期"
+    ],
+    "menu": [
+      {
+        "title": "喀拉拉家常",
+        "titleEn": "Kerala Specials",
+        "items": [
+          {
+            "name": "喀拉拉抛饼",
+            "original": "Kerala Porotta",
+            "desc": "面团反复抻拉盘卷后煎，层层起酥，蘸咖喱或配炒牛肉吃。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "香蕉叶烤鱼",
+            "original": "Fish Pollichathu",
+            "desc": "鱼用辣椒、洋葱、椰子香料酱包进香蕉叶慢煎，香料香和叶香融合，中辣。",
+            "tags": [
+              "招牌",
+              "辣"
+            ]
+          },
+          {
+            "name": "喀拉拉炒牛肉",
+            "original": "Beef Fry",
+            "desc": "牛肉和椰子片、咖喱叶、黑胡椒干炒，香辣下饭，配抛饼绝配。",
+            "tags": [
+              "推荐",
+              "辣"
+            ]
+          },
+          {
+            "name": "米浆蕾丝饼",
+            "original": "Appam",
+            "desc": "发酵米浆摊成中间软、边缘脆的碗形薄饼，配椰奶炖菜或咖喱。"
+          },
+          {
+            "name": "炸鱼",
+            "original": "Fish Fry",
+            "desc": "红辣椒香料腌制的整片鱼煎炸，外酥里嫩。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "饭类",
+        "titleEn": "Rice",
+        "items": [
+          {
+            "name": "马拉巴香饭",
+            "original": "Malabar Biryani",
+            "desc": "喀拉拉北部做法，用短粒香米（kaima），加炸洋葱、腰果、葡萄干，香料温和。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "喀拉拉套餐",
+            "original": "Kerala Meals",
+            "desc": "红米饭配桑巴汤、咖喱、蔬菜、酸奶等多样小菜，是当地人的日常午饭。",
+            "tags": [
+              "素"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "印式中餐",
+        "titleEn": "Indo-Chinese",
+        "items": [
+          {
+            "name": "辣椒鸡",
+            "original": "Chilli Chicken",
+            "desc": "炸鸡块和青椒洋葱用酱油辣椒酱爆炒，印度人眼中的“中餐”。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "辣椒牛肉",
+            "original": "Chilli Beef",
+            "desc": "同样做法的牛肉版，咸辣下饭。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d7755575-Reviews-Classic-Riyadh_Riyadh_Province.html",
+      "https://www.timeoutriyadh.com/food-drink/vishu-sadhya-in-riyadh"
+    ]
+  },
+  {
+    "id": "long-chim-bujairi",
+    "name": "Long Chim 曼谷街头泰菜",
+    "nameEn": "Long Chim Riyadh",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "米其林指南",
+      "景观位",
+      "户外座位",
+      "适合聚餐"
+    ],
+    "rating": 4.4,
+    "price": 3,
+    "priceNote": "两人约 300–400 SAR",
+    "district": "德拉伊耶 Diriyah（Bujairi Terrace）",
+    "address": "Bujairi Terrace, Diriyah, Riyadh",
+    "lat": 24.7366,
+    "lng": 46.5758,
+    "summary": "名厨主理的曼谷街头泰菜，露台对望图赖夫古城",
+    "description": "Long Chim 在泰语里是“来尝尝”的意思，由曾获米其林星的泰菜名厨 David Thompson 打造，灵感来自曼谷的市场和街头小吃。利雅得店开在德拉伊耶的 Bujairi Terrace，对面就是世界遗产图赖夫古城，被米其林指南收录。菜单以分享为主：炒河粉、咖喱、凉拌、烤鸡和芒果糯米饭，调味大胆，酸辣鲜香很正。",
+    "highlights": [
+      "对望图赖夫古城的露台位",
+      "大虾泰式炒河粉",
+      "芒果糯米饭"
+    ],
+    "tips": [
+      "傍晚日落时分景色最好，可先逛 At-Turaif 再来吃",
+      "部分菜辣度很高，点菜时可要求减辣",
+      "Diriyah 季期间 Bujairi 人多，建议订位"
+    ],
+    "instagram": "https://www.instagram.com/longchimksa/",
+    "menu": [
+      {
+        "title": "小吃与凉拌",
+        "titleEn": "Street Snacks & Salads",
+        "items": [
+          {
+            "name": "炸鸡翅配辣椒酱",
+            "original": "Fried Chicken Wings with Chilli Jam",
+            "desc": "孜然五香腌制的炸鸡翅，蘸甜辣的泰式辣椒酱（nam prik pao）。",
+            "tags": [
+              "推荐",
+              "分享"
+            ]
+          },
+          {
+            "name": "青木瓜沙拉",
+            "original": "Som Tam",
+            "desc": "青木瓜丝加青柠、鱼露、辣椒、花生捣拌，酸辣爽脆。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "泰式牛肉沙拉",
+            "original": "Larb / Spicy Beef Salad",
+            "desc": "牛肉末或牛肉片拌炒米粉、薄荷、青柠和辣椒，东北泰风味。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "炒物与咖喱",
+        "titleEn": "Wok & Curries",
+        "items": [
+          {
+            "name": "大虾泰式炒河粉",
+            "original": "Pad Thai with Prawns",
+            "desc": "米粉和大虾、豆芽、鸡蛋、罗望子酱同炒，偏甜，撒花生碎。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "青咖喱",
+            "original": "Green Curry",
+            "desc": "椰奶加青辣椒香料熬的咖喱，配茄子和罗勒，辣中带甜。",
+            "tags": [
+              "辣",
+              "推荐"
+            ]
+          },
+          {
+            "name": "罗勒炒肉",
+            "original": "Pad Kra Pao",
+            "desc": "肉末和圣罗勒、辣椒大火爆炒，配米饭和煎蛋，泰国人最常吃的快餐。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "泰北咖喱面",
+            "original": "Khao Soi",
+            "desc": "清迈风味椰奶咖喱汤面，碗里软面、碗上脆面，配酸菜青柠。"
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dessert",
+        "items": [
+          {
+            "name": "芒果糯米饭",
+            "original": "Mango Sticky Rice",
+            "desc": "椰浆浸过的糯米配熟芒果，淋咸甜椰奶，泰国最经典甜品。",
+            "tags": [
+              "推荐"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://guide.michelin.com/my/en/riyadh-province/riyadh_2555317/restaurant/long-chim-1211441",
+      "https://www.timeoutriyadh.com/restaurants/long-chim",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/restaurant-reviews-food-riyadh-saudi-arabia/fact-review-sample-the-food-of-modern-bangkok-at-long-chim"
+    ]
+  },
+  {
+    "id": "phet-phet-takhassusi",
+    "name": "Phet Phet 很辣泰菜",
+    "nameEn": "Phet Phet",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "不接受预约",
+      "排队",
+      "辣"
+    ],
+    "rating": 4.4,
+    "price": 2,
+    "priceNote": "两人约 300 SAR；冬阴功 55 SAR、芒果糯米饭 35 SAR",
+    "district": "拉赫马尼亚 Ar Rahmaniyah（塔哈苏西辅路）",
+    "address": "Pure Center, 3250 Takhassusi Branch Rd, Riyadh 12364",
+    "lat": 24.7255,
+    "lng": 46.6545,
+    "summary": "来自科威特的人气泰国街头小馆，名字就叫“很辣”",
+    "description": "Phet Phet 是从科威特来的泰国小馆，泰语意为“很辣”，开在塔哈苏西辅路的 Pure Center。店面不大，白瓷砖墙、马赛克地砖和霓虹泰式波普画，气氛热闹。菜单是泰国街头与家常菜：辣椒馄饨、青芒果沙拉、虾多士、泰北咖喱面、罗勒炒牛肉、姜黄鱼等，调味大胆，被多家媒体评为利雅得最有劲的泰菜之一。",
+    "highlights": [
+      "泰北咖喱面 Khao Soi",
+      "罗勒炒牛肉 Pad Krapao",
+      "浓汤冬阴功"
+    ],
+    "tips": [
+      "不接受预约，饭点要排队",
+      "周日休息；周一至周六 16:00 开门",
+      "真的辣，怕辣务必说 \"not spicy\""
+    ],
+    "hours": "周一至周六 16:00–00:00；周日休息",
+    "menu": [
+      {
+        "title": "小吃",
+        "titleEn": "Starters",
+        "items": [
+          {
+            "name": "辣椒馄饨",
+            "original": "Chili Wontons",
+            "desc": "馄饨淋辣椒油和酱汁，香辣开胃。",
+            "tags": [
+              "辣",
+              "推荐"
+            ]
+          },
+          {
+            "name": "青芒果沙拉",
+            "original": "Green Mango Salad",
+            "desc": "青芒果丝拌鱼露、青柠、辣椒和花生，酸辣脆。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "虾多士",
+            "original": "Prawn Toast",
+            "desc": "虾泥抹在吐司上油炸，外脆内弹，蘸甜辣酱。",
+            "tags": [
+              "分享"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "汤与主菜",
+        "titleEn": "Soups & Mains",
+        "items": [
+          {
+            "name": "浓汤冬阴功",
+            "original": "Tom Yum Nam Khon",
+            "price": 55,
+            "desc": "加了椰奶或炼奶的“浓汤版”冬阴功，酸辣中带奶香，比清汤版更柔和。",
+            "tags": [
+              "招牌",
+              "辣"
+            ]
+          },
+          {
+            "name": "泰北咖喱面",
+            "original": "Khao Soi Curry Noodles",
+            "desc": "清迈风味椰奶咖喱鸡汤面，上盖炸脆面，配酸菜、红葱和青柠。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "罗勒炒牛肉",
+            "original": "Pad Krapao Beef",
+            "desc": "牛肉末与圣罗勒、辣椒、蒜爆炒，配白饭和溏心煎蛋，辣度高。",
+            "tags": [
+              "推荐",
+              "辣"
+            ]
+          },
+          {
+            "name": "红咖喱 / 青咖喱",
+            "original": "Red / Green Curry",
+            "desc": "椰奶咖喱，红咖喱偏香辣，青咖喱偏清香带甜。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "姜黄烤鱼",
+            "original": "Turmeric Fish",
+            "desc": "南泰风味，鱼块用姜黄、蒜和胡椒腌后煎炸，色金黄、带辛香。"
+          },
+          {
+            "name": "腰果炒虾",
+            "original": "Shrimp Cashew",
+            "price": 75,
+            "desc": "虾仁和腰果、洋葱、干辣椒同炒，咸甜微辣。"
+          }
+        ]
+      },
+      {
+        "title": "甜品与饮品",
+        "titleEn": "Desserts & Drinks",
+        "items": [
+          {
+            "name": "芒果糯米饭",
+            "original": "Mango Sticky Rice",
+            "price": 35,
+            "desc": "椰浆糯米配熟芒果，辣菜之后的完美收尾。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "泰式奶茶",
+            "original": "Thai Milk Tea (Cha Yen)",
+            "desc": "橙色的泰式红茶加炼乳和冰，香甜浓厚，可解辣。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/node/2599789/food-health",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/phet-phet-fires-up-riyadhs-dining-scene-with-tangy-thai-flavours",
+      "https://www.timeoutriyadh.com/restaurants/phet-phet"
+    ]
+  },
+  {
+    "id": "thaiya-tahlia",
+    "name": "Thaiya 泰菜",
+    "nameEn": "Thaiya",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "家庭友好",
+      "新店",
+      "上菜快"
+    ],
+    "rating": 4.1,
+    "price": 2,
+    "priceNote": "人均约 80–130 SAR",
+    "district": "奥拉亚 Olaya（塔利亚街）",
+    "address": "Prince Mohammed bin Abdulaziz Rd (Tahlia St), Riyadh",
+    "lat": 24.6988,
+    "lng": 46.6835,
+    "summary": "塔利亚街上的家庭式泰菜馆，菜单精简、份量足",
+    "description": "Thaiya 是塔利亚街上较新的泰国餐厅，绿色卡座加垂吊绿植，装修清爽，氛围像家庭经营的小馆。菜单不长，集中在泰国经典：冬阴功、咖喱、炒河粉和芒果糯米甜品，上菜快、份量大。Arab News 特别推荐它的马沙曼咖喱牛肉和辣炒海鲜。",
+    "highlights": [
+      "马沙曼咖喱牛肉软烂浓郁",
+      "牛里脊炒河粉",
+      "脆米饭罗勒鸡小食"
+    ],
+    "tips": [
+      "适合工作日午餐或家庭简餐",
+      "冬阴功是奶油版，偏浓"
+    ],
+    "menu": [
+      {
+        "title": "前菜与汤",
+        "titleEn": "Starters & Soup",
+        "items": [
+          {
+            "name": "罗勒鸡脆米饭",
+            "original": "Crispy Rice with Thai Basil Chicken",
+            "desc": "炸脆的寿司米块上放泰式罗勒炒鸡、香菜和花生，一口一个。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "鲜虾饺",
+            "original": "Shrimp Dumplings",
+            "desc": "薄皮包虾仁蒸制，调味清爽，份量精致。"
+          },
+          {
+            "name": "海鲜冬阴功",
+            "original": "Tom Yum Seafood Soup",
+            "desc": "冬阴功酸辣汤加海鲜，这里做成偏奶油的浓汤版。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          {
+            "name": "马沙曼咖喱牛肉",
+            "original": "Massaman Curry",
+            "desc": "受印度和穆斯林饮食影响的泰南咖喱，加花生、肉桂、土豆和牛肉慢炖，香甜浓郁、几乎不辣。",
+            "tags": [
+              "招牌"
+            ]
+          },
+          {
+            "name": "牛里脊泰式炒河粉",
+            "original": "Beef Tenderloin Pad Thai",
+            "desc": "经典炒河粉配嫩牛里脊，酸甜咸平衡。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "帕能咖喱鸡",
+            "original": "Chicken Penang Curry",
+            "desc": "比红咖喱更浓稠的椰奶咖喱，带花生香和柠檬叶味，微辣。"
+          },
+          {
+            "name": "辣炒海鲜",
+            "original": "Seafood Pad Cha",
+            "desc": "海鲜与青胡椒粒、手指姜、辣椒和香草猛火爆炒，辣而香。",
+            "tags": [
+              "辣"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dessert",
+        "items": [
+          {
+            "name": "芒果糯米布丁",
+            "original": "Mango Sticky Pudding",
+            "desc": "芒果糯米饭的布丁化做法，椰香浓郁。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/node/2627377/food-health",
+      "https://www.factmagazines.com/saudi-arabia/riyadh-saudi-arabia/food-riyadh-saudi-arabia/new-restaurant-thaiya-in-riyadh-creates-thai-classics"
+    ]
+  },
+  {
+    "id": "baan-thai-urubah",
+    "name": "Baan Thai 泰屋",
+    "nameEn": "Baan Thai Restaurant",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "平价",
+      "家庭友好",
+      "外卖方便"
+    ],
+    "rating": 3.8,
+    "price": 1,
+    "priceNote": "人均约 40–70 SAR；咖喱、面类约 30–40 SAR",
+    "district": "欧鲁巴 Al Urubah",
+    "address": "Al Urubah Rd, Riyadh",
+    "lat": 24.716,
+    "lng": 46.668,
+    "summary": "竹子灯笼装修的老牌平价泰菜，菜单超长",
+    "description": "Baan Thai 是利雅得资格较老的平价泰菜馆，藏在 Al Urubah 一带，竹饰和灯笼营造出泰式小馆氛围。菜单非常长，从冬阴功粉、炒饭、咖喱到菲律宾风味的 Sisig 都有，价格实惠、份量大，泰国和菲律宾侨民常来。每桌有呼叫铃，服务有时偏慢。",
+    "highlights": [
+      "冬阴功汤和冬阴功汤粉",
+      "价格亲民、份量大",
+      "炸香蕉配冰淇淋"
+    ],
+    "tips": [
+      "饭点门口停车困难",
+      "上菜可能偏慢，不赶时间再来"
+    ],
+    "menu": [
+      {
+        "title": "汤与面",
+        "titleEn": "Soups & Noodles",
+        "items": [
+          {
+            "name": "冬阴功汤",
+            "original": "Tom Yum",
+            "desc": "香茅、南姜、青柠叶、辣椒熬的酸辣汤，可选虾或海鲜。",
+            "tags": [
+              "招牌",
+              "辣"
+            ]
+          },
+          {
+            "name": "冬阴功汤粉",
+            "original": "Guay Tiew Tom Yum",
+            "desc": "冬阴功口味的米粉汤，酸辣带甜，泰国街边常见。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "泰式炒河粉",
+            "original": "Pad Thai",
+            "desc": "米粉加鸡蛋、豆芽、虾或鸡肉，罗望子酸甜酱炒成。",
+            "tags": [
+              "推荐"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          {
+            "name": "泰式炒饭",
+            "original": "Khao Pad",
+            "desc": "泰式蛋炒饭，配青柠和黄瓜，不辣。"
+          },
+          {
+            "name": "绿咖喱",
+            "original": "Green Curry",
+            "desc": "椰奶青咖喱配鸡肉或牛肉，配白饭。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "菲式铁板碎肉",
+            "original": "Sisig",
+            "desc": "源自菲律宾的铁板碎肉，沙特版本用鸡肉或牛肉做，加洋葱、辣椒和青柠，酸咸带辣，配米饭。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "照烧牛肉",
+            "original": "Teriyaki Beef",
+            "desc": "甜酱油汁炒牛肉，适合孩子。"
+          }
+        ]
+      },
+      {
+        "title": "小吃与甜品",
+        "titleEn": "Snacks & Desserts",
+        "items": [
+          {
+            "name": "泰式烧卖",
+            "original": "Kanom Jeeb",
+            "desc": "泰式蒸烧卖，鸡肉虾仁馅，淋炸蒜油，蘸甜酱油吃。"
+          },
+          {
+            "name": "炸香蕉配冰淇淋",
+            "original": "Fried Banana with Ice Cream",
+            "desc": "香蕉裹面糊炸至金黄，配香草冰淇淋，冷热对比。",
+            "tags": [
+              "推荐"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293995-d13394360-Reviews-Baan_Thai-Riyadh_Riyadh_Province.html",
+      "https://destinationksa.com/en/riyadh-thai-restaurants/",
+      "https://wanderlog.com/place/details/2634178/baan-thai-restaurant"
+    ]
+  },
+  {
+    "id": "denden-malqa",
+    "name": "Denden 印尼菜",
+    "nameEn": "Denden",
+    "nameAr": "دندن",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "老字号",
+      "家庭友好",
+      "外卖方便",
+      "连锁"
+    ],
+    "rating": 4.1,
+    "price": 2,
+    "priceNote": "人均约 60–100 SAR",
+    "district": "马尔卡 Al Malqa",
+    "address": "Anas Ibn Malik Rd, Al Malqa, Riyadh",
+    "lat": 24.8065,
+    "lng": 46.628,
+    "summary": "1988 年在利雅得起家的印尼菜老牌，沙爹和炸蔬菜饼是招牌",
+    "description": "Denden 1988 年在利雅得开出第一家店，后来以吉达为大本营发展成沙特知名的印尼菜连锁，目前利雅得店在北部马尔卡区 Anas Ibn Malik 路。主打印尼家常菜：炸蔬菜饼 Bala-Bala、沙爹烤串、印尼炒饭、加多加多沙拉、虾片等，口味偏甜香、辣度可控，是沙特本地家庭也很熟悉的“印尼味道”。Time Out 2025 利雅得餐厅奖亚洲类入围。",
+    "highlights": [
+      "招牌沙爹烤串配花生酱",
+      "炸蔬菜饼 Bala-Bala",
+      "铁板热饼干配香草冰淇淋"
+    ],
+    "tips": [
+      "HungerStation 可外送全城大部分区域",
+      "适合家庭，菜单对孩子友好"
+    ],
+    "website": "https://dendenksa.com/",
+    "menu": [
+      {
+        "title": "前菜",
+        "titleEn": "Appetizers",
+        "items": [
+          {
+            "name": "炸蔬菜饼",
+            "original": "Bala-Bala",
+            "desc": "卷心菜、胡萝卜、豆芽裹面糊炸成的脆饼，配自制酸甜酱，Denden 的开胃菜招牌。",
+            "tags": [
+              "招牌",
+              "素"
+            ]
+          },
+          {
+            "name": "印尼虾片",
+            "original": "Krupuk",
+            "desc": "炸得蓬松的虾片，配菜或当零嘴。"
+          },
+          {
+            "name": "炸春卷",
+            "original": "Spring Rolls (Lumpia)",
+            "desc": "印尼式春卷，内馅为蔬菜和肉丝。"
+          }
+        ]
+      },
+      {
+        "title": "主菜",
+        "titleEn": "Mains",
+        "items": [
+          {
+            "name": "沙爹烤串",
+            "original": "Satay (Chicken / Meat)",
+            "desc": "腌过的鸡肉或牛羊肉串炭烤，淋浓郁花生酱和甜酱油，被认为是店里最好吃的菜。",
+            "tags": [
+              "招牌",
+              "推荐"
+            ]
+          },
+          {
+            "name": "印尼炒饭",
+            "original": "Nasi Goreng",
+            "desc": "用甜酱油（kecap manis）和虾酱炒的米饭，配煎蛋、虾片，咸甜带微辣。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "加多加多",
+            "original": "Gado-Gado",
+            "desc": "焯熟蔬菜、豆腐、鸡蛋和土豆淋花生酱的温沙拉。",
+            "tags": [
+              "素"
+            ]
+          },
+          {
+            "name": "罗望子辣牛肉",
+            "original": "Spicy Beef with Tamarind",
+            "desc": "牛肉用罗望子和辣椒烹制，酸甜微辣。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "冬阴功汤",
+            "original": "Tom Yum Soup",
+            "desc": "店里也提供的泰式酸辣汤，印尼家庭版口味。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "Denden 招牌菜",
+            "original": "Denden",
+            "desc": "与店同名的招牌菜，媒体报道中与 Bala-Bala、沙爹并列为必点；具体做法以店内菜单为准（印尼语 dendeng 指甜辣牛肉片）。",
+            "tags": [
+              "招牌"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Dessert",
+        "items": [
+          {
+            "name": "铁板饼干冰淇淋",
+            "original": "Hot Platter Cookies with Vanilla Ice Cream",
+            "desc": "现烤饼干放在滚烫铁板上，配香草冰淇淋，冷热交融。",
+            "tags": [
+              "推荐",
+              "分享"
+            ]
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://www.arabnews.com/node/2338896/food-health",
+      "https://www.timeoutriyadh.com/food-drink/best-asian-restaurants-in-riyadh",
+      "https://hungerstation.com/sa-en/restaurant/riyadh/malqa/73053"
+    ]
+  },
+  {
+    "id": "kimyona-olaya",
+    "name": "Kimyona 隐秘门后的泛亚餐厅",
+    "nameEn": "Kimyona",
+    "kind": "eat",
+    "category": "asian",
+    "tags": [
+      "需预约",
+      "适合约会",
+      "隐藏入口",
+      "适合聚餐"
+    ],
+    "rating": 4.5,
+    "price": 3,
+    "priceNote": "大部分菜 50–125 SAR，分享大菜至 300 SAR；人均约 200–300 SAR",
+    "district": "奥拉亚 Olaya",
+    "address": "Al Olaya Complex, Street No. 40, Al Olaya, Riyadh",
+    "lat": 24.7005,
+    "lng": 46.6845,
+    "summary": "推开秘密门才能进的泛亚餐厅，Time Out 亚洲类高度推荐",
+    "description": "Kimyona 藏在奥拉亚一栋综合体里，入口是一扇不起眼的隐藏门，进去后是昏暗而有摄影艺术气息的“地下酒吧式”餐厅。名字取自日语“奇妙”，菜单分成小食、蒸笼、脆物、东方之旅、分享大菜等八个部分，横跨缅甸、泰国、中国、印尼、日本风味：缅甸茶叶沙拉、牛尾包、焦糖智利海鲈鱼、北京烤鸭都是招牌。Time Out 利雅得餐厅奖亚洲类“高度推荐”。",
+    "highlights": [
+      "缅甸发酵茶叶沙拉",
+      "焦糖智利海鲈鱼",
+      "隐藏入口的地下酒吧式氛围"
+    ],
+    "tips": [
+      "周日休息；建议订位，并提前问清入口位置",
+      "人多点“Social Supper”分享大菜更划算",
+      "甜品抹茶提拉米苏值得留胃"
+    ],
+    "hours": "周一至周六 12:00–00:00",
+    "website": "https://www.kimyona-sa.com/",
+    "menu": [
+      {
+        "title": "小食与沙拉",
+        "titleEn": "Nibbles & Salads",
+        "items": [
+          {
+            "name": "缅甸发酵茶叶沙拉",
+            "original": "Burmese Fermented Tea Leaf Salad",
+            "price": 75,
+            "desc": "缅甸国民沙拉 lahpet thoke：发酵茶叶拌炸豆、花生、番茄、卷心菜，微苦回甘、口感丰富。",
+            "tags": [
+              "招牌",
+              "素"
+            ]
+          },
+          {
+            "name": "Bang Nang 大虾",
+            "original": "Bang Nang Prawns",
+            "price": 90,
+            "desc": "炸脆大虾裹酸甜辣酱，酥香下酒。",
+            "tags": [
+              "推荐"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "蒸笼与包",
+        "titleEn": "Steamer's Shop",
+        "items": [
+          {
+            "name": "牛尾包",
+            "original": "Oxtail Bao",
+            "price": 120,
+            "desc": "慢炖牛尾肉撕碎夹进松软刈包，酱汁浓郁。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "鸭肉包",
+            "original": "Duck Bao",
+            "desc": "烤鸭肉配黄瓜、葱丝和甜面酱的刈包，招牌小食。",
+            "tags": [
+              "招牌"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "主菜与分享",
+        "titleEn": "A Trip Out East & Social Supper",
+        "items": [
+          {
+            "name": "芒果丛林咖喱",
+            "original": "Mango Jungle Curry",
+            "price": 85,
+            "desc": "以泰式“丛林咖喱”（无椰奶的辣咖喱）为基础加入芒果，酸甜辛辣。",
+            "tags": [
+              "辣"
+            ]
+          },
+          {
+            "name": "爪哇风味鸡肉咖喱",
+            "original": "Javanese Chicken Curry",
+            "desc": "印尼爪哇风格，香料温和、带椰香和甜味。"
+          },
+          {
+            "name": "焦糖智利海鲈鱼",
+            "original": "Caramel Chilean Seabass",
+            "price": 300,
+            "desc": "智利海鲈鱼刷焦糖酱汁烤至表面焦脆，鱼肉油润嫩滑，分享大菜。",
+            "tags": [
+              "招牌",
+              "分享"
+            ]
+          },
+          {
+            "name": "北京烤鸭",
+            "original": "Peking Duck",
+            "price": 270,
+            "desc": "片皮烤鸭配薄饼、葱丝、黄瓜和甜面酱。",
+            "tags": [
+              "分享"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "甜品",
+        "titleEn": "Before You Say Goodbye",
+        "items": [
+          {
+            "name": "抹茶提拉米苏",
+            "original": "Matcha-misu",
+            "desc": "用抹茶代替咖啡的提拉米苏，微苦奶香。",
+            "tags": [
+              "推荐"
+            ]
+          },
+          {
+            "name": "柚子芝士蛋糕",
+            "original": "Yuzu Cheesecake",
+            "desc": "日本柚子调味的芝士蛋糕，清新酸香。"
+          },
+          {
+            "name": "焦芒果西米布丁",
+            "original": "Burnt Mango Tapioca Pudding",
+            "desc": "椰奶西米布丁配炙烤芒果，带焦糖香。"
+          }
+        ]
+      }
+    ],
+    "menuSource": "reported",
+    "sources": [
+      "https://whatsonsaudiarabia.com/2025/01/restaurant-review-kimyona-riyadhs-hidden-gem/",
+      "https://www.timeoutriyadh.com/restaurants/kimyona",
+      "https://www.timeoutriyadh.com/food-drink/best-asian-restaurants-in-riyadh"
     ]
   }
 ]
