@@ -16,6 +16,10 @@ type Props = {
   places: Place[];
   selectedId?: string | null;
   onSelect?: (id: string) => void;
+  /** 点击弹窗「查看详情」时调用；不传则跳转详情页 */
+  onOpen?: (id: string) => void;
+  /** 打开详情时把该地点移到地图中心 */
+  focusId?: string | null;
   /** 单点模式：只显示一个地点，不聚合 */
   single?: boolean;
   className?: string;
@@ -76,14 +80,16 @@ function fitTo(map: MLMap, places: Place[]) {
   map.fitBounds(b, { padding: 50, maxZoom: 14, duration: 600 });
 }
 
-export default function MapView({ places, selectedId, onSelect, single, className }: Props) {
+export default function MapView({ places, selectedId, onSelect, onOpen, focusId, single, className }: Props) {
   const container = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MLMap | null>(null);
   const popupRef = useRef<maplibregl.Popup | null>(null);
   const placesRef = useRef(places);
   const onSelectRef = useRef(onSelect);
+  const onOpenRef = useRef(onOpen);
   placesRef.current = places;
   onSelectRef.current = onSelect;
+  onOpenRef.current = onOpen;
 
   useEffect(() => {
     if (!container.current) return;
@@ -231,6 +237,11 @@ export default function MapView({ places, selectedId, onSelect, single, classNam
         .setLngLat([p.lng, p.lat])
         .setHTML(html)
         .addTo(map);
+      popupRef.current.getElement().querySelector("a")?.addEventListener("click", (e) => {
+        if (!onOpenRef.current || e.metaKey || e.ctrlKey) return;
+        e.preventDefault();
+        onOpenRef.current(p.id);
+      });
       if (!map.getBounds().contains([p.lng, p.lat])) {
         map.easeTo({ center: [p.lng, p.lat], duration: 500 });
       }
@@ -238,6 +249,16 @@ export default function MapView({ places, selectedId, onSelect, single, classNam
     if (map.isStyleLoaded() && map.getSource("places")) apply();
     else map.once("idle", apply);
   }, [selectedId, places, single]);
+
+  // 打开详情：居中并放大
+  useEffect(() => {
+    const map = mapRef.current;
+    const p = places.find((x) => x.id === focusId);
+    if (!map || !p) return;
+    const go = () => map.easeTo({ center: [p.lng, p.lat], zoom: Math.max(map.getZoom(), 13.5), duration: 600 });
+    if (map.isStyleLoaded()) go();
+    else map.once("idle", go);
+  }, [focusId, places]);
 
   return <div ref={container} className={className} />;
 }

@@ -24,6 +24,7 @@ export default async function ExplorePage({
       initialKind={kind ?? (category ? CATEGORY_MAP[category].kind : null)}
       initialCategory={category}
       initialQuery={str(sp.q) ?? ""}
+      initialOpenId={str(sp.id) ?? null}
     />
   );
 }

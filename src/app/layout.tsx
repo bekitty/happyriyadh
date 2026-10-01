@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import "maplibre-gl/dist/maplibre-gl.css";
+import NavTracker from "@/components/NavTracker";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -17,7 +18,6 @@ export const viewport: Viewport = {
 const NAV = [
   { href: "/explore?kind=eat", label: "吃喝" },
   { href: "/explore?kind=play", label: "玩乐" },
-  { href: "/explore", label: "地图" },
   { href: "/top", label: "高分榜" },
   { href: "/collections", label: "专题" },
 ];
@@ -26,8 +26,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="zh-CN">
       <body className="min-h-dvh">
+        <NavTracker />
         <header className="sticky top-0 z-40 border-b border-sand-200 bg-sand-50/90 backdrop-blur">
-          <div className="mx-auto flex h-14 max-w-7xl items-center gap-4 px-4">
+          <div className="mx-auto flex h-14 max-w-7xl items-center gap-2 px-4 sm:gap-4">
             <Link href="/" className="flex items-center gap-2 font-bold whitespace-nowrap">
               <span className="text-xl">🌴</span>
               <span>乐在利雅得</span>
@@ -37,7 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <Link
                   key={n.href}
                   href={n.href}
-                  className="rounded-full px-3 py-1.5 whitespace-nowrap text-muted hover:bg-sand-100 hover:text-ink"
+                  className="rounded-full px-2.5 py-1.5 whitespace-nowrap sm:px-3 text-muted hover:bg-sand-100 hover:text-ink"
                 >
                   {n.label}
                 </Link>
